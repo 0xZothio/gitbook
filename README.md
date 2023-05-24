@@ -1,2 +1,2 @@
-# Legal One Pager
+# Legal FAQs
 
