@@ -9,6 +9,8 @@
 ## How it Works?
 
 * [Zoth Protocol](how-it-works/zoth-protocol.md)
+* [Mutualization on Zoth](how-it-works/mutualization-on-zoth.md)
+* [Invest With Zoth](how-it-works/invest-with-zoth.md)
 * [General FAQs](how-it-works/general-faqs.md)
 
 ## Legal
