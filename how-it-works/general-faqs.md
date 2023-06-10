@@ -24,11 +24,7 @@ By participating in these avenues, you can actively contribute to and benefit fr
 
 #### 5. **Is Accredited Investor status required to participate in Zoth's Lending Pool?**
 
-#### 7. How can I get updates by Zoth Protocol?
-
-To stay updated with the latest happenings and updates of the Zoth protocol, subscribe to the Zoth Medium page and follow us on Twitter. Alternatively, join our telegram group for additional real-time updates.
-
-By utilizing these channels, you'll have access to the latest news, developments, and updates related to the Zoth protocol.
+No, Accredited Investor status is not mandatory to participate in Zoth's Lending Pool.
 
 #### 6. Can users onboard using a wallet?
 
@@ -44,7 +40,21 @@ Borrowers on the protocol submit real-world assets validated by Zoth validators 
 
 #### 9. What happens if a **Borrower defaults?**
 
+Invoice factoring deals are insured 90% by leading credit insurance companies. Zoth provides 10% first-loss guarantee for end-to-end coverage.
+
 #### 10. **What are the deals available on Zoth?**
+
+Introducing our highly anticipated private credit opportunity! Invest in premium USD receivables from renowned corporations like Walmart, IKEA, Urban Outfitters, and more. Our factoring company purchases short-term invoices at a discount and profits by collecting the full amount&#x20;
+
+&#x20;Type: Private Credit&#x20;
+
+Invoice Factoring&#x20;
+
+Pool Capacity: 200,000 USDC&#x20;
+
+Average Yield in APR: 12%&#x20;
+
+Loan Duration: 90 days
 
 #### 11. How do you avoid the signed RWA being collateralized on different platforms multiple times?
 
@@ -92,4 +102,8 @@ The tokens will be distributed automatically by the smart contract whenever an e
 
 The Zoth foundation will control the initial mint of the token. Specific details are mentioned in the report on the initial mint.
 
-#### 20. **What KYC documents are needed to sign up with Zoth?**
+#### 19. How can I get updates by Zoth Protocol?
+
+To stay updated with the latest happenings and updates of the Zoth protocol, subscribe to the Zoth Medium page and follow us on Twitter. Alternatively, join our telegram group for additional real-time updates.
+
+By utilizing these channels, you'll have access to the latest news, developments, and updates related to the Zoth protocol.
