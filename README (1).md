@@ -102,6 +102,6 @@ We intend to work with asset originators & Fintech lending companies to expand i
 
 While our platform provides information and guidance related to tokenization, we encourage investors to seek independent legal advice specific to their circumstances. Legal advisors can provide personalized guidance on regulatory compliance, taxation, contractual, and any other legal concerns.
 
-1. **How are dividends or income generated from tokenized assets distributed?**
+4. **How are dividends or income generated from tokenized assets distributed?**
 
 The distribution of dividends or income generated from tokenized assets depends on the specific terms and conditions outlined in the “token agreement.” Typically, dividends or income may be distributed to token holders in proportion to their ownership. Our platform provides visibility into dividend distributions and ensures transparent record-keeping of income generated from tokenized assets.
