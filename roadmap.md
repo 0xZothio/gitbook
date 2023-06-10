@@ -22,8 +22,5 @@
 
 ### Q2 2024
 
-More IROs from various commonwealth countries
-
-### Q3 2024
-
-Opening the platform for the public to IRO
+* Zoth Mobile App Launch
+* Expansion into multiple asset categories
