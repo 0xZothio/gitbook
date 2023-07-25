@@ -13,7 +13,6 @@
 ### Q4 2023
 
 * Retail Testnet Launch
-* Zoth Token IDO
 
 ### Q1 2024
 
@@ -24,3 +23,4 @@
 
 * Zoth Mobile App Launch
 * Expansion into multiple asset categories
+* Zoth Token IDO
