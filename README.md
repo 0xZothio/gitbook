@@ -2,7 +2,7 @@
 
 > Bridging the gap between DeFi and Real World Assets
 
-#### **Zoth is an ecosystem of solutions that bridges decentralized finance (DeFi) with real-world asset classes, (RWAs) enabling liquidity for traditionally illiquid assets.**
+#### **Zoth is an ecosystem of solutions that bridges decentralized finance (DeFi) with real-world asset classes, (RWAs) enabling liquidity for SMEs in emerging markets.**
 
 #### **The Emerging Market Lending Protocol**
 
