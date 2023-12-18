@@ -9,18 +9,19 @@ On the Zoth platform, there are several stakeholders are involved in the process
 1. **Asset Aggregators, FinTechs, and Credit Funds:**
    * These stakeholders collaborate with Zoth to curate assets from several regions including emerging markets.
    * They identify and select real-world asset backed loans that have the potential to be tokenized and listed on the platform.
-   * Their role is crucial in sourcing diverse and attractive investment opportunities for the Zoth platform.
-2. **Zoth Asset Tokens**
+   * Their role is crucial in sourcing diverse and attractive opportunities for the Zoth platform.
+2. **Zoth Asset Tokens (ZAT)**
    * ZAT is a token that represents the deposit made by Lenders in Zoth.
-   * Each ZAT token is pegged to a US Dollar backed by the collateral provided by borrowers.
-   * When Lenders provide liquidity, they receive an equivalent amount of ZAT tokens.
-   * ZAT tokens can be redeemed within the Zoth platform.
+   * ZAT can be treated as LP Tokens (Liquidity Provider Tokens).
+   * When Lenders provide liquidity, they receive an equivalent amount of ZAT as a proof of participation in Zoth pools.
+   * **ZAT can **<mark style="color:blue;">**ONLY**</mark>** be redeemed within the Zoth platform on maturity of pools.**
+   * ZAT follows a soul bound token-standard, which means these tokens are not transferable across multiple wallets.
 3. **Zoth Tokens**
    * ZOTH serves as the core native token of the Zoth platform.
    * ZOTH tokens are used for governance voting, validator rewards, liquidity staking rewards, community incentives and grants.
 4. **Zoth Validators:**
    * Zoth Validators play a critical role in performing due diligence on the curated assets.
-   * They ensure that the assets meet the investment criteria for the Index pool, including onchian compliance, collateral valuation, market liquidity, and potential returns.
+   * They ensure that the assets meet the criteria for the Index pool, including onchian compliance, collateral valuation, market liquidity, and potential returns.
    * Validators contribute to maintaining the integrity and quality of assets listed on the platform.
    * They provide consensus for the validation of assets to be onboarded onto the protocol.
 5. **Zoth Collateral Factory:**
@@ -29,13 +30,12 @@ On the Zoth platform, there are several stakeholders are involved in the process
    * Zoth handles the tokenization process, enabling onchain representation and providing liquidity for previously illiquid assets.
 6. **Liquidity Providers:**
    * Liquidity providers participate in liquid staking pools on the Zoth platform.
-   * They contribute liquidity to the Zoth Asset tokens by depositing their assets, allowing for efficient secondary market and utility for **Zoth Asset Tokens.**
    * Liquidity providers are incentivized with liquidity rewards in the form of **Zoth Tokens** to encourage their participation in the ecosystem.
    * These rewards are generated from transaction fees or additional tokens provided by Zoth.
 7. **Zoth Emerging Market Lending Pool:**
    * The Zoth Lending Pool facilitates the listing of real-world assets backed lending opportunities from emerging markets onto the decentralized platform.
    * It allows for the creation of Zoth Asset Tokens (mutualized tokens) that represent the real world collateral locked by the pool from borrowers.
-   * The lending pool provides investors with exposure to a diversified portfolio of assets, helping to manage risk and enhance investment opportunities.
+   * The lending pool provides investors with exposure to a diversified portfolio of assets, helping to manage risk and enhance opportunities.
 8. **Borrowers:**
    * Borrowers are individuals or entities that wish to borrow from Zoth. Borrowers once verified have to submit to have their collateral assets on the Zoth platform.
    * To have their assets listed on the platform, borrowers must stake a certain number of ZOTH tokens.
