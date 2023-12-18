@@ -16,7 +16,6 @@
 * [Terms of Use](legal/terms-of-use.md)
 * [Risk Disclosure](legal/risk-disclosure.md)
 * [Onboarding Disclaimer](legal/onboarding-disclaimer.md)
-* [Invoice Discounting & Global Trade Finance](legal/invoice-discounting-and-global-trade-finance.md)
 * [Legal FAQs](<README (1).md>)
 * [Anti-Money Laundering Policy and Counter-Terrorist Financing (CTF) Compliance](legal/anti-money-laundering-policy-and-counter-terrorist-financing-ctf-compliance.md)
 
