@@ -1,6 +1,6 @@
 # Zoth Protocol
 
-The Zoth protocol is a decentralized platform for listing real-world assets from emerging markets and creating liquidity for them on-chain. Onboarding an asset involves curation and due diligence, tokenization and listing, and liquidity management. The Zoth index fund facilitates the listing of assets and creates Zoth asset tokens that represent the value locked in the fund. Validators play an important role in asset validation and due diligence, and are compensated with ZOTH for their work. Lenders are incentivized to provide liquidity for the Zoth token as well as asset exchange. Zoth also provides liquidity incentives to liquidity providers who participate in liquidity pools. The Zoth LSP is a permission-less, on-demand liquid staking pool powered by institutional Defi liquidity players and market makers, enabling liquidity providers to earn high APR rewards.
+The Zoth protocol is a decentralized platform for listing real-world assets from emerging markets and creating liquidity for them on-chain. Onboarding an asset involves curation and due diligence, tokenization and listing, and liquidity management. The Zoth pools facilitate the listing of assets and creates Zoth asset tokens that represent the value locked in the fund. Validators play an important role in asset validation and due diligence, and are compensated with ZOTH for their work. Lenders are incentivized to provide liquidity for the Lending pools.
 
 ### Glossary
 
@@ -24,9 +24,8 @@ On the Zoth platform, there are several stakeholders are involved in the process
    * They ensure that the assets meet the criteria for the Index pool, including onchian compliance, collateral valuation, market liquidity, and potential returns.
    * Validators contribute to maintaining the integrity and quality of assets listed on the platform.
    * They provide consensus for the validation of assets to be onboarded onto the protocol.
-5. **Zoth Collateral Factory:**
-   * Zoth utilizes a customized Collateral Factory contract and employs the ERC-1155 token standard for the tokenization process.
-   * The tokenization process involves converting real-world assets into digital tokens that can be traded and managed on the platform in the form of **Zoth Asset Tokens**.
+5. **Zoth Proof of Reserve:**
+   * Zoth utilizes a customized Proof of Reserve contract to show the reserve of invoices for lenders and community.
    * Zoth handles the tokenization process, enabling onchain representation and providing liquidity for previously illiquid assets.
 6. **Liquidity Providers:**
    * Liquidity providers participate in liquid staking pools on the Zoth platform.
@@ -34,7 +33,6 @@ On the Zoth platform, there are several stakeholders are involved in the process
    * These rewards are generated from transaction fees or additional tokens provided by Zoth.
 7. **Zoth Emerging Market Lending Pool:**
    * The Zoth Lending Pool facilitates the listing of real-world assets backed lending opportunities from emerging markets onto the decentralized platform.
-   * It allows for the creation of Zoth Asset Tokens (mutualized tokens) that represent the real world collateral locked by the pool from borrowers.
    * The lending pool provides investors with exposure to a diversified portfolio of assets, helping to manage risk and enhance opportunities.
 8. **Borrowers:**
    * Borrowers are individuals or entities that wish to borrow from Zoth. Borrowers once verified have to submit to have their collateral assets on the Zoth platform.
@@ -45,14 +43,9 @@ On the Zoth platform, there are several stakeholders are involved in the process
    * It provides a user-friendly interface for investors to browse and trade various RWA backed lending pools available on the platform.
    * The marketplace enhances liquidity by connecting buyers and sellers, enabling efficient asset exchange.
 10. **Lenders:**
-    * Lenders on the Zoth platform are incentivized to provide liquidity for the Zoth token as well as asset exchange.
+    * Lenders on the Zoth platform are incentivized to provide liquidity for the Zoth lending pools.
     * By providing liquidity, lenders help facilitate smooth trading operations and contribute to the overall liquidity pool.
     * In return for their participation, lenders receive rewards from the platform.
-11. **Zoth LSP (Liquid Staking Pool):**
-    * Zoth LSP is a permission-less, on-demand liquid staking pool.
-    * It is powered by Institutional DeFi liquidity players and Market Makers.
-    * Liquidity providers can participate in the Zoth LSP and earn high Annual Percentage Rate (APR) rewards for their contributions.
-    * The Zoth LSP allows liquidity providers to stake their tokens and maintain their staking rewards while also having access to liquidity for other purposes.
 
 ### Consensus on Zoth
 

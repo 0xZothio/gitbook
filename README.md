@@ -12,4 +12,4 @@ At the forefront of Zoth's endeavors is establishing an emerging market lending 
 
 #### Vision
 
-Zoth envisions a future where the boundaries between traditional finance and DeFi are blurred, enabling new opportunities for enhanced liquidity and efficient trading mechanisms for Real World Assets.
+Zoth envisions a future where the boundaries between traditional finance and DeFi are blurred, enabling new opportunities for enhanced liquidity and efficient tokenizing mechanisms for Real World Assets.

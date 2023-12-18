@@ -24,7 +24,7 @@ By participating in these avenues, you can actively contribute to and benefit fr
 
 #### 5. **Is Accredited Investor status required to participate in Zoth's Lending Pool?**
 
-No, Accredited Investor status is not mandatory to participate in Zoth's Lending Pool.
+Yes, Accredited Investor status is mandatory to participate in Zoth's Lending Pool.
 
 #### 6. Can users onboard using a wallet?
 
@@ -46,7 +46,7 @@ Invoice factoring deals are insured 90% by leading credit insurance companies. Z
 
 Introducing our highly anticipated private credit opportunity! Invest in premium USD receivables from renowned corporations like Walmart, IKEA, Urban Outfitters, and more. Our factoring company purchases short-term invoices at a discount and profits by collecting the full amount&#x20;
 
-&#x20;Type: Private Credit&#x20;
+Type: Private Credit&#x20;
 
 Invoice Factoring&#x20;
 
@@ -70,25 +70,21 @@ Zoth has two types of tokens.
 
 **The Zoth asset token:**
 
-Zoth Asset Tokens can represent a wide range of assets including asset leasing, Invoice Discounting and Commodities Asset-backed tokens represent real-world assets and use blockchain to securely save a record of these assets.
+Zoth Asset Tokens are LP tokens provided to Lenders as a proof of participation. One can redeem ZAT after the maturity period is over. Zoth Asset Tokens are not security tokens, as they do not fall under Howey's test.&#x20;
 
-Zoth tokens are not security tokens, as they do not fall under Howey's test. Zoth provides enough decentralization on the platform and the token holders have complete control over their invested assets through Zoth's asset-based DAO. Zoth asset tokens represent the real-world collateral provided by the borrower for the loan, they also provide proof of ownership to the lender for lending to the pool.
+**The Zoth Platform Token ($ZOTH):**
 
-**The Zoth Platform Token:**
-
-Zoth platform token incentivizes creating liquidity to the Zoth asset tokens. Liquidity providers provide liquidity to the Zoth asset tokens by staking a fixed number of Zoth platform tokens on the Liquid staking pool. The tokens staked are used to provide an exit to the Lenders on an on-demand basis. The liquidity providers are incentivized to provide liquidity as they receive boosted yield from the fees collected on premature loan withdrawals and also staking yield.
+Zoth platform token incentivizes the community to participate in Zoth ecosystem. Zoth tokens are used in Fee structure of Zoth and Zoth governance module.
 
 #### 14. If it's a stablecoin, where would your reserves be held? What is this pegged to?
 
-Zoth asset tokens are stable, backed by real-world collateral on the lending pool. The asset token is pegged to the dollar and is backed by the collateral on the platform.
+Zoth asset tokens are not stable coins. They are LP tokens provided to lenders as a proof of participation. They are not Tradable or Transferable. Furthermore, they can **ONLY** be redeemed on Zoth platform after the maturity of the pool.
 
-Zoth native platform tokens are not stable tokens. Zoth native tokens are the means we are raising our funds through SAFT.
+Zoth native platform tokens ($ZOTH) are not stable tokens. Zoth native tokens are the means we are raising our funds through private rounds.
 
 #### 15. Will the token minting protocol be controlled by your team or network validators?
 
-New Zoth asset tokens are created when new loans are created on the pool. A new loan can be created when real-world collateral is added to the pool. This is under the control of the community of borrowers on the platform. Yes, the protocol has validators who validate the collateral and creditworthiness of the borrowers. Zoth asset tokens are created when the validators successfully validate the collateral.
-
-Zoth protocol tokens are created when a transaction is executed by lenders, borrowers, and liquid stakes on the platform. The tokens are minted on the platform in the form of fees generated on the above transactions.
+Token minting and burning is completely controlled by Zoth DAO.
 
 #### 16. Who will own and manage the token treasury?
 

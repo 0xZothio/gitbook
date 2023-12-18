@@ -8,7 +8,7 @@ description: Zoth - The RWA Liquidity Protocol
 
 One of the significant challenges in the traditional financial landscape is the lack of seamless integration between real-world assets and blockchain technology. Many valuable Traditional Finance assets exist primarily in offline, non-digital formats. This lack of on-chain representation creates barriers to liquidity, transparency, and accessibility, limiting opportunities for efficient trading and broader investor participation. This problem hampers the democratization of asset ownership and inhibits the potential benefits that decentralized finance (DeFi) can offer.
 
-Zoth addresses this challenge through an ecosystem of solutions that bridge the gap between traditional assets and the world of DeFi, unlocking the potential of previously illiquid markets and facilitating the seamless interaction between RWAs and the digital realm of DeFi.
+Zoth addresses this challenge through an ecosystem of solutions that bridge the gap between traditional assets and the world of DeFi, unlocking the potential of previously illiquid markets and facilitating the seamless interaction between RWAs and Onchain users.
 
 ### Why Emerging Markets?
 
@@ -20,4 +20,4 @@ However, emerging markets face challenges due to bank-dominated financial system
 
 ### Zoth RWA Lending Pool
 
-Zoth acts as a connector between DeFi liquidity and real-world assets (RWAs), offering a solution for lenders in the DeFi space. Through the RWA Lending Pool, Zoth brings top-notch holdings into the hands of DeFi lenders. Through the platform's unique Tokenization module, Zoth ensures compliance with RWA collateral locked across multiple regions. With its liquidity module, Zoth establishes a framework for creating liquidity and additional utility for on-chain RWA-backed loans.
+Zoth acts as a connector between DeFi liquidity and real-world assets (RWAs), offering a solution for lenders in the DeFi space. Through the RWA Lending Pool, Zoth brings top-notch holdings into the hands of DeFi lenders. Through the platform's unique Tokenization module, Zoth ensures compliance with RWA collateral locked across multiple regions.&#x20;

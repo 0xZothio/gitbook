@@ -12,8 +12,6 @@ Upon successful verification, users gain access to the pool market place and the
 
 They can also find comprehensive information about their investments and transactions in their portfolio section.
 
-Zoth is also in the works to provide exciting features such as liquid staking pools for users to explore and earn boosted yield.
-
 At Zoth we strive to provide a seamless journey from onboarding to managing investments. We are committed to supporting users every step of the way. Welcome to a world of endless investment possibilities!
 
 #### Who can invest with Zoth?
@@ -24,6 +22,6 @@ Zoth revolutionizes institutional investment strategies by seamlessly integratin
 
 Zoth's commitment to compliance, security, and transparency empowers institutions to confidently navigate the regulatory landscape and tap into the transformative potential of blockchain technology for sustained growth and innovation in the digital economy.
 
-**Crypto Natives and Accredited Investors**
+**Accredited Investors**
 
-With **Zoth**, Anons and Accredited Investors looking to diversify their holdings could get into real-world assets without going off-ramp. The exposure to real-world assets provides a better hedge against inflation and volatility on-chain.
+With **Zoth**, Accredited Investors looking to diversify their holdings could get into real-world assets without going off-ramp. The exposure to real-world assets provides a better hedge against inflation and volatility on-chain.
