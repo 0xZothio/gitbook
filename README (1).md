@@ -18,11 +18,11 @@ Through the Emerging Market Index Fund, Zoth brings world-class assets into the 
 
 4. **Who can invest through Zoth?**
 
-Zoth is currently open for Institutions and individuals with valid KYC. &#x20;
+Zoth is currently open for Institutions and accredited investors with valid KYC. &#x20;
 
 You are not a member of any sanctions list or equivalent maintained by the United States government, the United Kingdom government, the European Union, or the United Nations (collectively, "Sanctions Lists Persons") and you do not intend to transact with any Restricted Person or Sanctions List Person.
 
-The protocol is not available to residents of Belarus, the Central African Republic, the Democratic Republic of Congo, the Democratic People’s Republic of Korea, Ukraine, Cuba, Iran, Libya, Panama, Somalia, Sudan, Syria, the USA (other than accredited investors), Yemen and Zimbabwe or any other country that has banned dealing with cryptocurrency or stablecoins.&#x20;
+The protocol is not available to residents of Belarus, the Central African Republic, the Democratic Republic of Congo, Russia, the Democratic People’s Republic of Korea, Ukraine, Cuba, Iran, Libya, Panama, Somalia, Sudan, Syria, the USA (other than accredited investors), Yemen and Zimbabwe or any other country that has banned dealing with cryptocurrency or stablecoins.&#x20;
 
 You must have attained legal age in the jurisdiction in which you reside, and you have the legal capacity to enter into a contract.
 

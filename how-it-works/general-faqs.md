@@ -64,19 +64,19 @@ We currently work with trusted intermediaries and credit scoring companies who e
 
 The collaterals cannot be redeemed until the loan tenure is matured. The only way to redeem the collateral is by paying off the loan that was issued.
 
-#### 13. Is it a security or utility token?
+#### 13. What are the tokens available on Zoth?
 
 Zoth has two types of tokens.
 
 **The Zoth asset token:**
 
-Zoth Asset Tokens are LP tokens provided to Lenders as a proof of participation. One can redeem ZAT after the maturity period is over. Zoth Asset Tokens are not security tokens, as they do not fall under Howey's test.&#x20;
+Zoth Asset Tokens are LP tokens provided to Lenders as a proof of participation. One can redeem ZAT after the maturity period is over.&#x20;
 
 **The Zoth Platform Token ($ZOTH):**
 
 Zoth platform token incentivizes the community to participate in Zoth ecosystem. Zoth tokens are used in Fee structure of Zoth and Zoth governance module.
 
-#### 14. If it's a stablecoin, where would your reserves be held? What is this pegged to?
+#### 14. If it's a stablecoin, where would your reserves be held?  What is this pegged to?
 
 Zoth asset tokens are not stable coins. They are LP tokens provided to lenders as a proof of participation. They are not Tradable or Transferable. Furthermore, they can **ONLY** be redeemed on Zoth platform after the maturity of the pool.
 
