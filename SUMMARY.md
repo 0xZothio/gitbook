@@ -1,14 +1,13 @@
 # Table of contents
 
 * [Welcome to ZOTH](README.md)
-* [Products](products.md)
 
 ## How it Works?
 
 * [Zoth Protocol](how-it-works/zoth-protocol.md)
 * [Invest With Zoth](how-it-works/invest-with-zoth.md)
 * [General FAQs](how-it-works/general-faqs.md)
-* [Governance](how-it-works/governance.md)
+* [Governance](governance.md)
 
 ## Legal
 
