@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to ZOTH](README.md)
-* [Trust & Security](trust-and-security.md)
 * [Products](products.md)
 
 ## How it Works?
