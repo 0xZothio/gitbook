@@ -1,13 +1,15 @@
 # Table of contents
 
 * [Welcome to ZOTH](README.md)
-
-## How it Works?
-
-* [Zoth Protocol](how-it-works/zoth-protocol.md)
-* [Invest With Zoth](how-it-works/invest-with-zoth.md)
-* [General FAQs](how-it-works/general-faqs.md)
+* [Products](products/README.md)
+  * [Intro to ZOTH - FI](products/intro-to-zoth-fi.md)
+  * [Assets on ZOTH-FI](products/assets-on-zoth-fi.md)
+  * [Invest with ZOTH-FI](products/invest-with-zoth-fi.md)
+  * [Our Values](products/our-values.md)
+* [Zoth Protocol](zoth-protocol.md)
+* [General FAQs](general-faqs.md)
 * [Governance](governance.md)
+* [Glossary](glossary.md)
 
 ## Legal
 
