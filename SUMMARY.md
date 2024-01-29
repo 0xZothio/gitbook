@@ -8,7 +8,7 @@
   * [Our Values](products/our-values.md)
 * [Zoth Protocol](zoth-protocol.md)
 * [General FAQs](general-faqs.md)
-* [Governance](governance.md)
+* [ZOTH Token](zoth-token.md)
 * [Glossary](glossary.md)
 
 ## Legal
