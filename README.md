@@ -31,5 +31,5 @@ Key aspects of this transition include:
 Zoth envisions a future where the boundaries between TradFi and Onchain Fi are blurred, enabling new opportunities for enhanced liquidity and efficient tokenizing mechanisms for RWAs.
 
 \
-Join Our Community \
-We'd love to hear from you. Please consider joining us on Twitter and/or Telegram. You can also contact us at contactus@zoth.io
+**Join Our Community** \
+We'd love to hear from you. Please consider joining us on [Twitter](https://twitter.com/zothdotio) and/or [Telegram](broken-reference). You can also contact us at contactus@zoth.io

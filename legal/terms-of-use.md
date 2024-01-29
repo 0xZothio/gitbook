@@ -2,8 +2,6 @@
 
 Terms of Use
 
-Last Updated 10th August 2023
-
 Thank you for visiting our Company’s website (“Website” or “forum” or “platform” or “application”).
 
 Please review these Terms of Use very carefully. By accessing our website, you are agreeing to these and are expressing that you have been given reasonable access to review these Terms prior to your continued use of our website. This Agreement is binding as of the date you access our website.

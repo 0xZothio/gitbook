@@ -2,8 +2,6 @@
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY AS IT CONTAINS IMPORTANT INFORMATION AND AFFECTS YOUR LEGAL RIGHTS.
 
-Last updated: 10th August 2023
-
 **INTRODUCTION:**
 
 Thank you for visiting https://zoth.io/ (hereinafter referred to as “platform”, “protocol” or "Website").

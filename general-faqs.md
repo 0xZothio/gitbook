@@ -16,8 +16,8 @@ To begin your journey as an investor with Zoth, connect your wallet and complete
 
 There are various ways to actively engage with the Zoth protocol. Here are the top methods to get involved:
 
-1. Join our vibrant community on Telegram and become an active member, sharing ideas and insights.
-2. Explore opportunities as a Lender in the Lending Pool.
+1. Join our community on Telegram and become an active member, sharing ideas and insights.
+2. Explore opportunities as an Investor in the upcoming pools.
 3. Consider becoming a borrower to Lending Pools, offering support and backing to borrowers.
 
 By participating in these avenues, you can actively contribute to and benefit from the Zoth ecosystem.
@@ -36,11 +36,11 @@ All loans are in USDC. We are planning on allowing support for other cryptocurre
 
 #### 8. What is the underlying collateral?
 
-Borrowers on the protocol submit real-world assets validated by Zoth validators as collateral.
+Borrowers on the protocol submit RWAs validated by Zoth validators as collateral.
 
 #### 9. What happens if a **Borrower defaults?**
 
-Invoice factoring deals are insured 90% by leading credit insurance companies. Zoth provides 10% first-loss guarantee for end-to-end coverage.
+For instance, Invoice factoring deals are insured 90% by leading credit insurance companies. Zoth provides a 10% first-loss guarantee for end-to-end coverage.
 
 #### 10. **What are the deals available on Zoth?**
 
@@ -72,13 +72,21 @@ Zoth has two types of tokens.
 
 Zoth Asset Tokens are LP tokens provided to Lenders as a proof of participation. One can redeem ZAT after the maturity period is over.&#x20;
 
-**The Zoth Platform Token ($ZOTH):**
+**Zoth Token ($ZOTH):**
 
-Zoth platform token incentivizes the community to participate in Zoth ecosystem. Zoth tokens are used in Fee structure of Zoth and Zoth governance module.
+$ZOTH is the native token of Zoth ecosystem, Tokenomics is designed to ensure there is a circular economy for the Zoth ecosystem. $ZOTH will be instrumental in:
+
+• Incentivizing Liquidity Providers (LPs).&#x20;
+
+• Rewarding creditworthy borrowers.&#x20;
+
+• Establishing a DAO for foundation operations.&#x20;
+
+• Creating an RWA validator ecosystem.
 
 #### 14. If it's a stablecoin, where would your reserves be held?  What is this pegged to?
 
-Zoth asset tokens are not stable coins. They are LP tokens provided to lenders as a proof of participation. They are not Tradable or Transferable. Furthermore, they can **ONLY** be redeemed on Zoth platform after the maturity of the pool.
+Zoth asset tokens are not stablecoins. They are LP tokens provided to lenders as proof of participation. They are not Tradable or Transferable. Furthermore, they can **ONLY** be redeemed on the Zoth platform after the maturity of the pool.
 
 Zoth native platform tokens ($ZOTH) are not stable tokens. Zoth native tokens are the means we are raising our funds through private rounds.
 

@@ -27,6 +27,6 @@
 
 Users can view and manage their investments in the portfolio section.
 
-ZOTH-FI team is committed to providing a seamless investment experience and offers support at every step of the investment journey.&#x20;
+The team is committed to providing a seamless investment experience and offers support at every step of the investment journey.&#x20;
 
 Please contact us at contactus@zoth.io, in case of any queries.
