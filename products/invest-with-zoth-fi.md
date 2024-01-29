@@ -4,8 +4,8 @@
 
 **Step 1: Onboarding**
 
-1. **Connect Wallet**: New users start by connecting their wallet to the Zoth DApp.
-   * Follow the on-screen instructions to securely link your digital wallet.
+1. **Connect Wallet**: New users start by connecting their wallets to the Zoth platform.
+   * Follow the on-screen instructions to securely link your wallet.
 
 **Step 2: Verification Process**
 
