@@ -9,6 +9,7 @@
 * [Zoth Protocol](zoth-protocol.md)
 * [General FAQs](general-faqs.md)
 * [ZOTH Token](governance.md)
+* [Governance](<governance (1).md>)
 * [Glossary](glossary.md)
 
 ## Legal
