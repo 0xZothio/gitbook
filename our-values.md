@@ -10,7 +10,7 @@ We embrace diversified risk by balancing a mix of top-rated Corporate Bonds and 
 
 In traditional finance (TradFi), establishing and managing a fixed-income product involves various parties such as fund managers, asset managers, custodians, fund administrators, counterparties, lawyers, broker dealer networks and more. This complexity only increases in on-chain finance, especially when linking on-chain capital to off-chain assets. This makes the choice of partners crucial.
 
-#### Values
+### Values
 
 Zoth upholds the core values of Transparency, Trust, and Fairness in every aspect of its operations, particularly in the intricate world of on-chain finance.&#x20;
 
