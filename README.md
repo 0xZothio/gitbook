@@ -19,4 +19,4 @@ Zoth envisions a future where the boundaries between TradFi and Onchain Fi are b
 
 \
 **Join Our Community** \
-We'd love to hear from you. Please consider joining us on [Twitter](https://twitter.com/zothdotio) and/or [Telegram](broken-reference). You can also contact us at contactus@zoth.io
+We'd love to hear from you. Please consider joining us on [Discord](https://discord.com/invite/xBZhGn4AH8), [Twitter](https://twitter.com/zothdotio) and [Telegram](https://telegram.me/zothio). You can also contact us at contactus@zoth.io
