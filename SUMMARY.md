@@ -1,11 +1,16 @@
 # Table of contents
 
 * [Welcome to ZOTH](README.md)
-* [Products](products/README.md)
-  * [Intro to ZOTH - FI](products/intro-to-zoth-fi.md)
-  * [Assets on ZOTH-FI](products/assets-on-zoth-fi.md)
-  * [Invest with ZOTH-FI](products/invest-with-zoth-fi.md)
-  * [Our Values](products/our-values.md)
+* [Our Values](our-values.md)
+* [Intro to ZOTH - FI](intro-to-zoth-fi.md)
+* [Zoth Secure Trade Finance - ZSTF](zoth-secure-trade-finance-zstf/README.md)
+  * [Invest with ZTLN](zoth-secure-trade-finance-zstf/invest-with-ztln.md)
+  * [Risk Disclosure](zoth-secure-trade-finance-zstf/risk-disclosure.md)
+  * [Anti-Money Laundering Policy and Counter-Terrorist Financing (CTF) Compliance](zoth-secure-trade-finance-zstf/anti-money-laundering-policy-and-counter-terrorist-financing-ctf-compliance.md)
+  * [Onboarding Disclaimer](zoth-secure-trade-finance-zstf/onboarding-disclaimer.md)
+  * [Legal FAQs](zoth-secure-trade-finance-zstf/readme.md)
+* [Zoth Tokenized Liquid Notes (ZTLN)](zoth-tokenized-liquid-notes-ztln/README.md)
+  * [Invest with ZTLN](zoth-tokenized-liquid-notes-ztln/invest-with-ztln.md)
 * [Zoth Protocol](zoth-protocol.md)
 * [General FAQs](general-faqs.md)
 * [ZOTH Token](governance.md)
@@ -14,12 +19,10 @@
 
 ## Legal
 
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Use](legal/terms-of-use.md)
-* [Risk Disclosure](legal/risk-disclosure.md)
-* [Onboarding Disclaimer](legal/onboarding-disclaimer.md)
-* [Legal FAQs](<README (1).md>)
-* [Anti-Money Laundering Policy and Counter-Terrorist Financing (CTF) Compliance](legal/anti-money-laundering-policy-and-counter-terrorist-financing-ctf-compliance.md)
+***
+
+* [Terms of Use](terms-of-use.md)
+* [Privacy Policy](privacy-policy.md)
 
 ## CONNECT
 
