@@ -1,6 +1,6 @@
 # Intro to ZOTH - FI
 
-Zoth - Fixed Income (Zoth-Fi) is an Institutional Grade Fixed Income Marketplace, that facilitates qualified investos to experience top-tier, sustainable, and compliant fixed-income opportunities designed for the future through stablecoins.
+Zoth - Fixed Income (Zoth-Fi) is an Institutional Grade Fixed Income Marketplace, that facilitates qualified investors to experience top-tier, sustainable, and compliant fixed-income opportunities designed for the future through stablecoins.
 
 Zoth-Fi focuses on high-quality assets, sustainable yield, and world-class client service. It brings financial assets onto blockchain rails for DeFi integrations and efficient global markets. The platform provides secure access to top-tier, short-term assets, ensures compliance across multiple jurisdictions, offers tailored investment options, diversifies portfolios with real-world asset yields, and delivers comprehensive liquidity solutions.
 

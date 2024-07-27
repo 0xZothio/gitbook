@@ -60,7 +60,7 @@ If the pool tenure is less, we have a lock-in-period equivalent to the pool tenu
 
 14. **How does Zoth assess the risk of the borrowers?**
 
-We have an in-house team to carry out due diligence before we onboard any buyer and use public databases like Coface, Credit Safe, as well. Please review our [Onboarding & Risk Mitigation policy](https://docs.zoth.io/zoth/legal/invoice-discounting-and-global-trade-finance) for more details.   &#x20;
+We have an in-house team to carry out due diligence before we onboard any buyer and use public databases like Coface, Credit Safe, as well. Please review our[ Onboarding Disclaimer](onboarding-disclaimer.md) for more details.   &#x20;
 
 15. **How does the platform ensure funds are safe? What happens if a Borrower defaults?** &#x20;
 
