@@ -24,9 +24,9 @@ By participating in these avenues, you can actively contribute to and benefit fr
 
 ### **ZSTF**
 
-5. **Is Accredited Investor status required to participate in Zoth's Lending Pool?**
+5. **Is Accredited Investor status required to participate in ZTSF pools?**
 
-Yes, Accredited Investor status is mandatory to participate in Zoth's Lending Pool.
+Yes, Accredited Investor status is mandatory to participate in ZTSF.
 
 6. **Can users onboard using a wallet?**
 
@@ -72,7 +72,7 @@ The collaterals cannot be redeemed until the loan tenure is matured. The only wa
 
 Tokenized liquid notes are digital versions of traditional fixed-income instruments on a blockchain. They provide enhanced liquidity, transparency, and accessibility through decentralized platforms.
 
-14. **What is Zoth Tokenized Liquid Notes (ZTLN) Tokens?**
+14. **What are Zoth Tokenized Liquid Notes (ZTLN)?**
 
 &#x20;ZTLN Tokens are ERC-20 tokens representing the ownership of structured product units. Each token is a unit of a fully collateralized certificate that tracks the listed value of a specified traded underlying security and is fully backed by that security.
 
@@ -80,11 +80,11 @@ Tokenized liquid notes are digital versions of traditional fixed-income instrume
 
 &#x20;The issuer has carefully selected a range of high-quality investment-grade corporate bonds issued by globally renowned banks and US Treasury bills.
 
-16. **On which blockchains are Zoth Tokenized Liquid Notes (ZTLN) Tokens available?**
+16. **On which blockchains are Zoth Tokenized Liquid Notes (ZTLN) available?**
 
 ZTLN Tokens are blockchain agnostic and are currently available on Base and Ethereum.
 
-17. **Who is eligible to invest in Zoth tokenized liquid notes?**
+17. **Who is eligible to invest in ZTLN?**
 
 &#x20;Qualified investors under Article 2(e) of Regulation (EU) 2017/1129 and retail clients under Article 4(1)(11) of Directive 2014/65/EU are eligible to invest. Investors from the USA are not eligible to subscribe to the notes.
 
@@ -92,11 +92,11 @@ ZTLN Tokens are blockchain agnostic and are currently available on Base and Ethe
 
 Zoth tokenized liquid notes are administered by Apex Corporate & Fund Services Ltd, with digital asset custody by GC Exchange Limited (GCEX). Custodians and traders include Interactive Brokers LLC. Zoth ensures transparency and security through continuous audits by a reputable global audit firm, weekly NAVs, and providing unmatched transparency to build trust.
 
-18. **Is it safe to invest in tokenized liquid notes?**
+18. **Is it safe to invest in ZTLN?**
 
 Investing in tokenized liquid notes is relatively safe with continuous audits and real-time reserve verification. However, risks include regulatory changes, technology vulnerabilities, and market volatility. It is advisable to refer to the subscription agreement, conduct thorough research, and consider personal risk tolerance before investing.
 
-18. **How do I choose a tokenized liquid note?**
+18. **How do I choose a ZTLN?**
 
 Consider factors such as the portfolio investment strategy, credit quality of the securities, expense ratio, past performance, and NAV of the underlying assets.
 
