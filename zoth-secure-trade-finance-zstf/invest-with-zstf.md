@@ -1,6 +1,6 @@
-# Invest with ZOTH-FI
+# Invest with ZSTF
 
-#### Onboarding Guide
+### Onboarding Guide
 
 **Step 1: Onboarding**
 

@@ -6,19 +6,9 @@ This page is designed to answer the most common questions asked about Zoth, but 
 
 Tokenization is the process of converting real-world assets, such as invoice factoring, invoice discounting, inventory financing, global trade finance, property, art, or securities, into digital tokens that can be stored, transferred, and traded on a blockchain network. It enables fractional ownership, increased liquidity, and transparency for traditional assets.
 
-2. **What is Zoth protocol?**
+2. **Who can invest through ZSTF?**
 
-Zoth is a DeFi lending protocol bringing emerging market real-world assets to serve small & medium businesses, not served by the regular banking system. Zoth bridges the gap between DeFi liquidity and RWAs in emerging markets. The liquidity module provides a framework to create liquidity for on-chain real-world assets. Zoth also enables the borrowers into the pool to get additional credit by collateralizing their loans.
-
-Zoth is a protocol that facilitates the lending and borrowing of ERC-20 tokens by connecting borrowers and lenders. The protocol acts as a marketplace for loan pools, enabling lenders to earn yield by participating in these pools. The protocol provides the platform but does not participate directly in any deals. Investors must perform their due diligence before depositing funds in any available borrower pools.
-
-3. **Why Zoth Protocol?**
-
-Through the Emerging Market Index Fund, Zoth brings world-class assets into the hands of DeFi Lenders. We enable Asset Originators to use tokenized real-world assets as collateral to obtain liquidity from the DeFi ecosystem. We have a stringent onboarding process of the borrower & the assets. Zoth create a mutualization pool to de-risk the lender’s capital. The DeFi lender can easily invest in Zoth Index Fund to asset originator or borrowers and earn interest on their stablecoin.   &#x20;
-
-4. **Who can invest through Zoth?**
-
-Zoth is currently open for Institutions and accredited investors with valid KYC. &#x20;
+ZSTF is currently open for Institutions and accredited investors with valid KYC. &#x20;
 
 You are not a member of any sanctions list or equivalent maintained by the United States government, the United Kingdom government, the European Union, or the United Nations (collectively, "Sanctions Lists Persons") and you do not intend to transact with any Restricted Person or Sanctions List Person.
 
