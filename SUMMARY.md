@@ -28,7 +28,9 @@
 
 ## CONNECT
 
-* [Telegram](https://telegram.me/zothio)
 * [Twitter](https://twitter.com/zothdotio)
+* [Discord](https://discord.com/invite/xBZhGn4AH8)
+* [Telegram](https://telegram.me/zothio)
 * [LinkedIn](https://www.linkedin.com/company/82144276)
 * [Medium](https://medium.com/@zoth.io)
+* [Zoth-Fi](https://app.zoth.io/)
