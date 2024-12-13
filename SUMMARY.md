@@ -2,7 +2,7 @@
 
 * [Welcome to ZOTH](README.md)
 * [Our Values](our-values.md)
-* [Intro to ZOTH - FI](intro-to-zoth-fi.md)
+* [Zoth Protocol](zoth-protocol.md)
 * [Zoth Secure Trade Finance - ZSTF](zoth-secure-trade-finance-zstf/README.md)
   * [Invest with ZSTF](zoth-secure-trade-finance-zstf/invest-with-zstf.md)
   * [Risk Disclosure](zoth-secure-trade-finance-zstf/risk-disclosure.md)
@@ -13,7 +13,7 @@
   * [Legal Disclaimer](zoth-tokenized-liquid-notes-ztln/legal-disclaimer.md)
   * [Terms of Use](zoth-tokenized-liquid-notes-ztln/terms-of-use.md)
   * [Privacy Policy](zoth-tokenized-liquid-notes-ztln/privacy-policy.md)
-* [Zoth Protocol](zoth-protocol.md)
+* [Zoth Protocol](zoth-protocol-1.md)
 * [General FAQs](general-faqs.md)
 * [ZOTH Token](governance.md)
 * [Governance](<governance (1).md>)
