@@ -2,7 +2,6 @@
 
 * [Welcome Zoth](README.md)
 * [Overview of the Current Stablecoin Market](overview-of-the-current-stablecoin-market.md)
-* [Page](page.md)
 * [Our Values](our-values.md)
 * [Zoth Protocol](zoth-protocol.md)
 * [Zoth FI (Fixed-Income) Platform](zoth-fi-fixed-income-platform.md)
