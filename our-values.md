@@ -1,29 +1,27 @@
 # Our Values
 
-At Zoth, we collaborate exclusively with the most reputable and well-established partners in every function. In the realm of finance, especially in on-chain finance, trust and security are of paramount importance. Recognizing this, we at Zoth are dedicated to maintaining both the trust you place in us and the security of your funds.&#x20;
+The team at Zoth identified a major gap in the stablecoin market where retail users were often excluded from accessing sustainable financial tools. Highlighting challenges, focusing on emerging markets and unlocking the potential of stablecoins to empower communities. Products like fixed-income RWAs provide the unbanked with opportunities for financial inclusion and growth, enabling them to participate in a more equitable financial system. Zoth envisions a future where financial infrastructure is open, transparent, and permissionless, creating a thriving ecosystem that is both community-driven and inclusive.
 
-For instance, consider **Zoth Secure Trade Finance (ZSTF)**, which invest in secured short-term receivables sourced from esteemed factoring companies in emerging markets. We embrace Diversified Risk by factoring three invoices from different borrowers, payable by different buyers. As invoice financing occurs at the final stage of a business transaction, it represents the safest form of trade finance – a globally secure asset class with historically sub-1% non-performing assets (NPAs). We also implement multiple risk mitigation strategies, including First Loss Coverage Guarantee, Promissory Note, and Institutional Credit Guarantee. Additionally, we exercise Control of cash flow for all customers of end borrowers through the Banking as a Service product offered by the Asset Originator.
+#### Permissionless: Open access to financial opportunities
 
-Consider the **Zoth Tokenized Liquid Note (ZTLN)**, designed to provide accredited and professional investors with regulatory-compliant access to a USD-denominated investment-grade curated fixed income portfolio via blockchain technology. ZTLN focuses on low-risk instruments like US Treasury Bills and bonds issued by renowned global banks, offering exposure to assets with minimal market and counterparty risks.
+ZeUSD is a fully composable RWA-backed CDP (Collateralised Debt Position) stable token designed to bring sustainable financial opportunities to the community. Today, Real World Assets (RWAs) are often confined within institutional barriers, restricting community access to valuable fixed-income opportunities. By reimagining tokenization and leveraging DeFi, we aim to unlock RWAs, enabling them to flow freely in a permissionless, omnichain, and community-driven manner. ZeUSD empowers users to seamlessly engage in lending, borrowing, liquidity provision, and yield generation strategies. By democratizing access to high-quality, RWA-backed assets, ZeUSD benefits retail users, institutional investors, and DeFi participants alike.
 
-We embrace diversified risk by balancing a mix of top-rated Corporate Bonds and US Treasury Bills to achieve optimal performance. Our stringent compliance ensures that investments are managed securely within regulatory standards across multiple jurisdictions. Additionally, ZTLN features a comprehensive liquidity solution, supported by a trusted ecosystem of licensed and reputed brokers, custodians, and managers.
+#### Fairness: Empowering Credit with Risk-Optimized Solutions
 
-In traditional finance (TradFi), establishing and managing a fixed-income product involves various parties such as fund managers, asset managers, custodians, fund administrators, counterparties, lawyers, broker dealer networks and more. This complexity only increases in on-chain finance, especially when linking on-chain capital to off-chain assets. This makes the choice of partners crucial.
+Trust is the cornerstone of our financial ecosystem, exemplified through **Zoth Secure Trade Finance (ZSTF)**. This product focuses on secured, short-term receivables sourced from esteemed factoring companies in emerging markets, providing a reliable, globally secure asset class. ZSTF embraces Diversified Risk by factoring invoices from different borrowers, backed by multiple layers of risk mitigation strategies such as first loss coverage guarantee, promissory notes, and institutional credit guarantees.
 
-### Values
+#### Quality Assets: High quality fixed income products
 
-Zoth upholds the core values of Transparency, Trust, and Fairness in every aspect of its operations, particularly in the intricate world of on-chain finance.&#x20;
+Fairness drives our commitment to equitable financial inclusion. With **Zoth Tokenized Liquid Note Prime (ZTLN-P)**, accredited and professional investors gain regulatory-compliant access to USD-denominated, investment-grade fixed-income portfolios via blockchain technology.
 
-**Transparency**
+ZTLN focuses on low-risk, high-quality instruments such as US Treasury Bills, Corporate Bonds and iShares managed by BlackRock
 
-Our commitment to Transparency is evident in our clear communication and openness about the operations, risks, and strategies associated with asset classes on ZOTH-FI. We ensure that our partners and clients are well-informed and confident in their decisions.
+This product balances performance and security by diversifying risk across top-rated bonds and treasury bills, while its comprehensive liquidity solutions ensure smooth operations within stringent regulatory standards. By offering access to high-quality assets, ZTLN sets a benchmark in on-chain finance for professional investors seeking stability and growth
 
-**Trust**
+#### Community First: Ecosystem by the community, for the community
 
-Trust is the cornerstone of our relationship with partners and clients. By collaborating exclusively with reputable and well-established entities, we safeguard the security of funds and maintain the high level of confidence placed in us. Our dedication to securing assets from esteemed asset managers and originators in emerging markets exemplifies our commitment to trustworthiness.
+Zoth’s ecosystem is built to empower communities and redefine access to financial opportunities. Supporting this vision is **Zoth Atlas**, our permissionless gateway to RWAs. By providing frictionless, compliant access to institutional-grade financial products, Zoth Atlas fosters financial inclusion and long-term wealth creation.
 
-**Fairness**
+At Zoth, our values of Transparency, Trust, and Fairness are not just guiding principles they are the foundation of our approach to bridging traditional and on-chain finance. By combining education, innovation, and community-driven solutions, we aim to unlock the full potential of Real World Assets and empower individuals globally.
 
-Fairness is integral to our business philosophy, guiding our interactions with all stakeholders. We embrace Diversified Risk to ensure equitable risk distribution and protect our client's interests. Our risk mitigation strategies, such as the High-Quality Credit Rating for ZTLN, First Loss Coverage Guarantee, Promissory Note, and Institutional Credit Guarantee for ZSTF, are designed to provide fair protection against unforeseen losses.
-
-At Zoth, these values are not just principles but the foundation of our approach to bridging the gap between on-chain finance and traditional finance, ensuring that we maintain the highest standards of integrity, security, and transparency in every transaction.
+Through products like ZeUSD, ZSTF, and ZTLN, we ensure that our community remains at the center of everything we do, driving sustainable economic growth and financial inclusion for all.
