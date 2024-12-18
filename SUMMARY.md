@@ -9,27 +9,32 @@
   * [Anti-Money Laundering Policy](zoth-secure-trade-finance-zstf/anti-money-laundering-policy.md)
   * [Onboarding Disclaimer](zoth-secure-trade-finance-zstf/onboarding-disclaimer.md)
   * [Legal FAQs](zoth-secure-trade-finance-zstf/readme.md)
-* [Zoth Tokenized Liquid Notes (ZTLN)](zoth-tokenized-liquid-notes-ztln/README.md)
-  * [Legal Disclaimer](zoth-tokenized-liquid-notes-ztln/legal-disclaimer.md)
-  * [Terms of Use](zoth-tokenized-liquid-notes-ztln/terms-of-use.md)
-  * [Privacy Policy](zoth-tokenized-liquid-notes-ztln/privacy-policy.md)
 * [Zoth Protocol](zoth-protocol-2.md)
 * [General FAQs](general-faqs.md)
 * [ZOTH Token](governance.md)
 * [Governance](<governance (1).md>)
 * [Glossary](glossary.md)
 
+## Tech Center
+
+* [Architecture](tech-center/architecture.md)
+* [LTV Mechanism](tech-center/ltv-mechanism.md)
+* [Smart Contracts](tech-center/smart-contracts/README.md)
+  * [ZeUSD Token](tech-center/smart-contracts/zeusd-token.md)
+  * [ZeUSD Router](tech-center/smart-contracts/zeusd-router.md)
+  * [Collateral Vault](tech-center/smart-contracts/collateral-vault.md)
+  * [Sub Vaults](tech-center/smart-contracts/sub-vaults.md)
+* [Contract Deployments](tech-center/contract-deployments.md)
+
 ## Legal
 
-***
-
-* [Terms of Use](terms-of-use.md)
-* [Privacy Policy](privacy-policy.md)
+* [Terms of Use](legal/terms-of-use.md)
+* [Privacy Policy](legal/privacy-policy.md)
 
 ## CONNECT
 
 * [Twitter](https://twitter.com/zothdotio)
-* [Discord](https://discord.com/invite/xBZhGn4AH8)
+* [Discord](https://discord.gg/zothdotio)
 * [Telegram](https://telegram.me/zothio)
 * [LinkedIn](https://www.linkedin.com/company/82144276)
 * [Medium](https://medium.com/@zoth.io)
