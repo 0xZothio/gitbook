@@ -26,7 +26,6 @@
   * [ZTLN](faqs/ztln.md)
   * [ZeUSD](faqs/zeusd.md)
 * [ZOTH Token](governance.md)
-* [Governance](<governance (1).md>)
 * [Glossary](glossary.md)
 
 ## Tech Center
