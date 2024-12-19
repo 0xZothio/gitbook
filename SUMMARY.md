@@ -23,7 +23,7 @@
 * [FAQs](faqs/README.md)
   * [General](faqs/general.md)
   * [ZSTF](faqs/zstf.md)
-  * [ZTLN](faqs/ztln.md)
+  * [ZTLN-P](faqs/ztln-p.md)
   * [ZeUSD](faqs/zeusd.md)
 * [ZOTH Token](governance.md)
 * [Glossary](glossary.md)
