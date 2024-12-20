@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome Zoth](README.md)
+* [Welcome to Zoth](README.md)
 * [Overview of the Current Stablecoin Market](overview-of-the-current-stablecoin-market.md)
 * [Our Values](our-values.md)
 * [Zoth Protocol](zoth-protocol.md)
