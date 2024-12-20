@@ -20,7 +20,7 @@
   * [Mechanics of ZeUSD](zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
   * [Minting Reward and Withdrawal Fees](zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
 * [Atlas - Permissionless Gateway for RWAs](atlas-permissionless-gateway-for-rwas.md)
-* [FAQs](faqs/README.md)
+* [FAQs](general-faqs.md)
   * [General](faqs/general.md)
   * [ZSTF](faqs/zstf.md)
   * [ZTLN-P](faqs/ztln-p.md)

@@ -4,7 +4,7 @@
 
 ## **Abstract**
 
-**Zoth** is building a C**ommunity-powered RWAfi Ecosystem** to address the broken state of **Real-World Assets (RWAs).** For too long, RWAs were confined to institutional circles, stifling their potential for democratization. Zoth breaks these barriers by providing a decentralized ecosystem that connects liquidity across **Traditional Finance (TradFi)** and **Decentralized Finance (DeFi)**, enabling a free flow of assets and capital.
+**Zoth** is building a **Community-powered RWAfi Ecosystem** to address the broken state of **Real-World Assets (RWAs).** For too long, RWAs were confined to institutional circles, stifling their potential for democratization. Zoth breaks down these barriers by providing a decentralized ecosystem that connects liquidity across **Traditional Finance (TradFi)** and **Decentralized Finance (DeFi)**, enabling a free flow of assets and capital.
 
 We believe that the widespread adoption of RWAfi within DeFi requires the active participation of retail investors, which has historically been limited by fragmented systems and unfair incentives. Zoth is dedicated to creating an inclusive system where retail investors are not just spectators, but active participants who fuel the growth of RWAs in DeFi. This includes creating a more accessible and fairer ecosystem where previously locked fixed-income assets can be freely utilized across DeFi.
 
@@ -28,10 +28,6 @@ The inevitable shift of the massive TradFi industry making its way on-chain repr
 Zoth's vision is to build an end-to-end RWAfi Ecosystem that combines new financial instruments with the stability of TradFi and the scalability of DeFi. **Zoth democratizes access to creation and management of omni-chain, composable, yield-bearing RWA-backed assets, on-chain.**
 
 Building a robust RWAfi ecosystem requires a stable foundation, and for the crypto world, such a foundation is often found in permissionless RWA-backed tokens. These digital assets, designed to maintain a stable value, are pivotal for bridging the gap between traditional and on-chain finance. As we strive to democratize access to RWAs, it’s crucial to understand the evolution of stablecoins, their current state, and the inherent challenges that Zoth seeks to address through its innovative RWAfi solutions.
-
-\
-**Join Our Community** \
-We'd love to hear from you. Please consider joining us on [Discord](https://discord.com/invite/xBZhGn4AH8), [Twitter](https://twitter.com/zothdotio), and [Telegram](https://telegram.me/zothio). You can also contact us at gm@zoth.io
 
 **Zoth** is building a C**ommunity-powered RWAfi Ecosystem** to address the broken state of **Real-World Assets (RWAs).** For too long, RWAs were confined to institutional circles, stifling their potential for democratization. Zoth breaks these barriers by providing a decentralized ecosystem that connects liquidity across **Traditional Finance (TradFi)** and **Decentralized Finance (DeFi)**, enabling a free flow of assets and capital.
 
