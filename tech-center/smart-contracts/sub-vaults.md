@@ -2,7 +2,7 @@
 
 ## Product Overview
 
-Sub Vaults serve as specialized asset managers within the Zoth. They handle specific collateral types and their interactions with external protocols, acting as secure vaults for user deposits and managing protocol-specific integrations.
+**Sub Vaults** serve as specialized asset managers within the Zoth. They handle specific collateral types and their interactions with external protocols, acting as secure vaults for user deposits and managing protocol-specific integrations.
 
 ## Core Responsibilities
 

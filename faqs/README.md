@@ -4,29 +4,25 @@
 
 1. **What are the tokens available on Zoth?**
 
-Zoth has two types of tokens.
+Zoth has two types of tokens:
 
-**The Zoth asset token:**
+**The Zoth asset token -** These are LP tokens provided to lenders as a proof of participation. One can redeem ZAT after the maturity period is over.&#x20;
 
-Zoth Asset Tokens are LP tokens provided to Lenders as a proof of participation. One can redeem ZAT after the maturity period is over.&#x20;
+**Zoth Token ($ZOTH) - The** native token of the Zoth ecosystem, Tokenomics is designed to ensure there is a circular economy for the Zoth ecosystem. $ZOTH will be instrumental in:
 
-**Zoth Token ($ZOTH):**
+• Incentivizing Liquidity Providers (LPs)
 
-$ZOTH is the native token of Zoth ecosystem, Tokenomics is designed to ensure there is a circular economy for the Zoth ecosystem. $ZOTH will be instrumental in:
+• Rewarding creditworthy borrowers
 
-• Incentivizing Liquidity Providers (LPs).&#x20;
+• Establishing a DAO for foundation operations
 
-• Rewarding creditworthy borrowers.&#x20;
+• Creating an RWA validator ecosystem
 
-• Establishing a DAO for foundation operations.&#x20;
+2. &#x20;**If it's a stablecoin, where would your reserves be held? What is this pegged to?**
 
-• Creating an RWA validator ecosystem.
+Zoth asset tokens are not stablecoins. They are LP tokens provided to lenders as proof of participation. They are **NOT** tradable or transferable. Furthermore, they can **ONLY** be redeemed on the Zoth platform after the maturity of the pool.
 
-2. &#x20;**If it's a stablecoin, where would your reserves be held?  What is this pegged to?**
-
-Zoth asset tokens are not stablecoins. They are LP tokens provided to lenders as proof of participation. They are not Tradable or Transferable. Furthermore, they can **ONLY** be redeemed on the Zoth platform after the maturity of the pool.
-
-Zoth native platform tokens ($ZOTH) are not stable tokens. Zoth native tokens are the means we are raising our funds through private rounds.
+Zoth native platform token ($ZOTH) is not a stable token. $ZOTH is the means we are using to raise our funds through private rounds.
 
 3. **Will the token minting protocol be controlled by your team or network validators?**
 
@@ -42,10 +38,10 @@ The tokens will be distributed automatically by the smart contract whenever an e
 
 6. **Will a DAO or the project team control the initial mint?**
 
-The Zoth foundation will control the initial mint of the token. Specific details are mentioned in the report on the initial mint.
+The Zoth Foundation will control the initial mint of the token. Specific details are mentioned in the report.
 
 7. **How can I get updates by Zoth Protocol?**
 
-To stay updated with the latest happenings and updates of the Zoth protocol, subscribe to the Zoth Medium page and follow us on Twitter. Alternatively, join our telegram group for additional real-time updates.
+To stay updated with the latest happenings and updates of the Zoth protocol, subscribe to the Zoth Medium page and follow us on Twitter. Alternatively, join our Telegram group for additional real-time updates.
 
-By utilizing these channels, you'll have access to the latest news, developments, and updates related to the Zoth protocol.
+By utilizing these channels, you will have access to the latest news, developments, and updates related to the Zoth protocol.

@@ -2,9 +2,9 @@
 
 **RWA Collateralisation and ZeUSD Minting Process**
 
-ZeUSD is created when users deposit eligible Real World Assets (RWA) as collateral to open a collateralized debt position. Currently accepted collateral includes both on-chain and off-chain assets, specifically Treasuries, ETFs, Money Markets Funds etc. These assets are secured either through:
+ZeUSD is created when users deposit eligible RWA as collateral to open a collateralized debt position. Currently accepted collateral includes both on-chain and off-chain assets—specifically, Treasuries, ETFs, Money Markets Funds, etc. These assets are secured either through:
 
-* Isolated access-controlled, escrow smart contract vaults for on-chain assets
+* Isolated access-controlled escrow smart contract vaults for on-chain assets
 * A traditional escrow account or an omnibus account for off-chain assets
 
 To maintain stability, ZeUSD implements Safe Loan-to-Value (LTV) ratios that create a protective buffer against potential collateral price fluctuations. This system helps preserve ZeUSD's stability even if the underlying collateral value decreases.

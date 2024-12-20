@@ -6,7 +6,7 @@ Yes, Accredited Investor status is mandatory to participate in ZTSF.
 
 2. **Can users onboard using a wallet?**
 
-Zoth supports onboarding through the MetaMask wallet. Our roadmap also includes expanding onboarding through other wallet providers as well.
+Zoth supports onboarding through the MetaMask wallet. Our roadmap also includes expanding onboarding through other wallet providers.
 
 3. **What is the currency of the loans?**
 

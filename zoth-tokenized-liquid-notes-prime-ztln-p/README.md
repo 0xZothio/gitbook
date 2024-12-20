@@ -1,6 +1,6 @@
 # Zoth Tokenized Liquid Notes Prime (ZTLN-P)
 
-**ZTLN-Prime or ZTLN-P** is designed to provide accredited and professional investors with regulatory-compliant access to a USD-denominated, investment-grade fixed income portfolio via blockchain technology. ZTLN-P comprises investment-grade MMF/ETF issued by reputed financial institutions. The investment objective of ZLTN-P is to provide investors with stable, secure & low-risk returns without lock-ins.
+**ZTLN-Prime or ZTLN-P** is designed to provide accredited and professional investors with regulatory-compliant access to a USD-denominated, investment-grade fixed income portfolio via blockchain technology. ZTLN-P comprises investment-grade MMF/ETF issued by reputed financial institutions. The investment objective of ZLTN-P is to provide investors with stable, secure, and low-risk returns without lock-ins.
 
 #### **Key Features of ZTLN-P:**
 
@@ -15,6 +15,6 @@
 * **Continuous Audits -** Ensuring transparency and security through continuous audits by a reputable global audit firm.
 * **Zero Coupon or Principal Risk -** All underlying assets have fixed-rate coupons, ensuring consistent returns.
 * **Compliance and Security -** Strict adherence to regulatory standards, providing a secure and transparent investment environment.
-* **Tax Implications -** Vary by country—-investors should consult with a tax advisor for specific requirements.
+* **Tax Implications -** Vary by country—investors should consult with a tax advisor for specific requirements.
 
-RWAs such as ZTLN-P offer secure investments backed by high-quality financial instruments, they often have barriers to entry, such as minimum investment thresholds and eligibility criteria. To democratize access to the stability and benefits of RWAs for retail investors, a decentralized and permissionless layer is needed.
+RWAs such as ZTLN-P offer secure investments backed by high-quality financial instruments and often have barriers to entry, such as minimum investment thresholds and eligibility criteria. To democratize access to the stability and benefits of RWAs for retail investors, a decentralized and permissionless layer is needed.

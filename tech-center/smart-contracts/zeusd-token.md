@@ -2,7 +2,7 @@
 
 ## Overview
 
-ZeUSD Token is an upgradeable ERC-20 token that serves as the core stable asset of the ZeUSD protocol. It incorporates advanced features like blacklisting, role-based access control, and cross-chain compatibility through Layer Zero.
+ZeUSD is an upgradeable ERC-20 token that serves as the core stable asset of the ZeUSD protocol. It incorporates advanced features like blacklisting, role-based access control, and cross-chain compatibility through Layer Zero.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ ZeUSD Token is an upgradeable ERC-20 token that serves as the core stable asset 
 * Name: ZeUSD
 * Symbol: ZeUSD
 * Decimals: 6
-* Implementation: ERC20 Upgradeable
+* Implementation: ERC-20 Upgradeable
 
 ### 2. Access Control System
 
