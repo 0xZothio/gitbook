@@ -1,6 +1,6 @@
 # Zoth Tokenized Liquid Notes Prime (ZTLN-P)
 
-**ZTLN-Prime or ZTLN-P** is designed to provide accredited and professional investors with regulatory-compliant access to a USD-denominated, investment-grade fixed income portfolio via blockchain technology. ZTLN-P comprises investment-grade MMF/ETF issued by reputed financial institutions. The investment objective of ZLTN-P is to provide investors with stable, secure, and low-risk returns without lock-ins.
+**ZTLN-Prime or ZTLN-P** is designed to provide accredited and institutional investors regulatory-compliant access to a USD-denominated, investment-grade fixed-income portfolio via blockchain technology. ZTLN-P comprises investment-grade MMF/ETF issued by reputed financial institutions. The investment objective of ZLTN-P is to provide investors with stable, secure, and low-risk returns without lock-ins.
 
 #### **Key Features of ZTLN-P:**
 

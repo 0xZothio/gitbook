@@ -4,19 +4,19 @@ Zoth identified a major gap in the stablecoin market, where retail users were of
 
 #### Permissionless: Open access to financial opportunities
 
-ZeUSD is a fully composable RWA-backed Collateralized Debt Position (CDP) stable token designed to bring sustainable financial opportunities to the community. Today, RWAs are often confined within institutional barriers, restricting community access to valuable fixed-income opportunities. By reimagining tokenization and leveraging DeFi, we aim to unlock RWAs, enabling them to flow freely in a permissionless, omnichain, and community-driven manner. ZeUSD empowers users to seamlessly engage in lending, borrowing, liquidity provision, and yield generation strategies. By democratizing access to high-quality, RWA-backed assets, ZeUSD benefits retail users, institutional investors, and DeFi participants alike.
+ZeUSD is a fully composable RWA-backed Collateralized Debt Position (CDP) stable token designed to bring sustainable financial opportunities to the community. Today, RWAs are often confined within institutional barriers, restricting community access to valuable fixed-income opportunities. By reimagining tokenization and leveraging DeFi, we aim to unlock RWAs, enabling them to flow freely in a permissionless, omnichain, and community-driven manner. ZeUSD empowers users to seamlessly engage in lending, borrowing, liquidity provision, and yield generation strategies. By democratizing access to high-quality RWA-backed products, ZeUSD benefits retail users, institutional investors, and DeFi participants alike.
 
 #### Fairness: Empowering Credit with Risk-Optimized Solutions
 
-Trust is the cornerstone of our financial ecosystem, exemplified through **Zoth Secure Trade Finance (ZSTF)**. This product focuses on secured, short-term receivables sourced from esteemed factoring companies in emerging markets, providing a reliable and globally secure asset class. ZSTF embraces Diversified Risk by factoring invoices from different borrowers, backed by multiple layers of risk mitigation strategies such as first loss coverage guarantee, promissory notes, and institutional credit guarantees.
+Trust is the cornerstone of our financial ecosystem, exemplified through **Zoth Secure Trade Finance (ZSTF)**. This product focuses on secured, short-term receivables sourced from esteemed factoring companies in emerging markets, providing a reliable and globally secure asset class. ZSTF embraces Diversified Risk by factoring invoices from different borrowers, backed by multiple layers of risk mitigation strategies such as first loss coverage guarantee, Corporate Guarantee, Promissory notes, and Institutional credit guarantees/Trade Insurance.
 
 #### Quality Assets: High quality fixed income products
 
 Fairness drives our commitment to equitable financial inclusion. With **Zoth Tokenized Liquid Note Prime (ZTLN-P)**, accredited and professional investors gain regulatory-compliant access to USD-denominated, investment-grade fixed-income portfolios via blockchain technology.
 
-ZTLN focuses on low-risk, high-quality instruments such as U.S. Treasury Bills, Corporate Bonds and iShares managed by BlackRock.
+ZTLN-P focuses on low-risk, high-quality instruments such as U.S. Treasury Bills, Corporate Bonds, and MMF/ETFs like iShares managed by BlackRock.
 
-This product balances performance and security by diversifying risk across top-rated bonds and treasury bills, while its comprehensive liquidity solutions ensure smooth operations within stringent regulatory standards. By offering access to high-quality assets, ZTLN sets a benchmark in on-chain finance for professional investors seeking stability and growth
+This product balances performance and security by diversifying risk across top-rated bonds and treasury bills, while its comprehensive liquidity solutions ensure smooth operations within stringent regulatory standards. By offering access to high-quality assets, ZTLN-P sets a benchmark in on-chain finance for professional investors seeking stability and growth.
 
 #### Community First: Ecosystem by the community, for the community
 

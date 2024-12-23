@@ -18,7 +18,7 @@ Zoth pools list carefully curated RWAs using the Zoth protocol. In the long run 
 
 **Investment-Grade Sovereign Bonds:**
 
-> Zoth incorporates relatively low-risk investment-grade sovereign bonds issued by national governments, focusing on those from stable, high-growth emerging markets, providing regular interest payments and principal repayment. These bonds are fundamental for government funding of public services and projects, and serve as benchmarks for borrowing costs in those countries.
+> Zoth bring relatively low-risk investment-grade sovereign bonds issued by national governments from stable, high-growth emerging markets, providing regular interest payments and principal repayment. These bonds are fundamental for government funding of public services and projects, and serve as benchmarks for borrowing costs in those countries.
 
 **Money Market Funds and Treasury Bills (T-bills):**
 
