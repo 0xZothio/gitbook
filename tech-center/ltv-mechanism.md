@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Banner 14.png
+coverY: 0
+---
+
 # LTV Mechanism
 
 ## Issuance Mechanics of ZeUSD
@@ -45,4 +50,4 @@ c. **Liquidation Risk - weighted at 40%**
   * Another factor that also might affect ease of liquidation indirectly is
     * **Liquidation Time:** How quickly the collateral can be sold.
 
-Issuers of ZeUSD earn a **minting reward** along with the incentivizing inflow of on-chain or off-chain RWAs into the issuance engine. As the time of creation of this paper, issuers can issue ZeUSD only on Ethereum. However, Zoth protocol has plans to expand the issuance mechanism to other networks as well. Once issuance is completed, users have a choice of bridging ZeUSD to any preffered chain of choice, as ZeUSD is an omni-chain token.
+Issuers of ZeUSD earn a **minting reward** along with the incentivizing inflow of on-chain or off-chain RWAs into the issuance engine. As the time of creation of this paper, issuers can issue ZeUSD only on Ethereum. However, Zoth protocol has plans to expand the issuance mechanism to other networks as well. Once issuance is completed, users have a choice of bridging ZeUSD to any preferred chain of choice, as ZeUSD is an omni-chain token.

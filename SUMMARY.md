@@ -1,32 +1,26 @@
 # Table of contents
 
-* [Welcome to Zoth](README.md)
-* [Overview of the Current Stablecoin Market](overview-of-the-current-stablecoin-market.md)
-* [Our Values](our-values.md)
-* [Zoth Protocol](zoth-protocol.md)
-* [Zoth FI (Fixed-Income) Platform](zoth-fi-fixed-income-platform.md)
-* [Products on Zoth FI](products-on-zoth-fi.md)
-* [Zoth Secure Trade Finance - ZSTF](zoth-secure-trade-finance-zstf/README.md)
-  * [Invest with ZSTF](zoth-secure-trade-finance-zstf/invest-with-zstf.md)
-  * [Risk Disclosure](zoth-secure-trade-finance-zstf/risk-disclosure.md)
-  * [Anti-Money Laundering Policy](zoth-secure-trade-finance-zstf/anti-money-laundering-policy.md)
-  * [Onboarding Disclaimer](zoth-secure-trade-finance-zstf/onboarding-disclaimer.md)
-  * [Legal FAQs](zoth-secure-trade-finance-zstf/readme.md)
-* [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](zoth-tokenized-liquid-notes-prime-ztln-p/README.md)
-  * [Legal Disclaimer](zoth-tokenized-liquid-notes-prime-ztln-p/legal-disclaimer.md)
-  * [Terms of Use](zoth-tokenized-liquid-notes-prime-ztln-p/terms-of-use.md)
-  * [Privacy Policy](zoth-tokenized-liquid-notes-prime-ztln-p/privacy-policy.md)
-* [ZeUSD - An Omni-chain, and Composable Stable Token](zeusd-an-omni-chain-and-composable-stable-token/README.md)
-  * [Mechanics of ZeUSD](zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
-  * [Minting Reward and Withdrawal Fees](zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
-* [Atlas - Permissionless Gateway for RWAs](atlas-permissionless-gateway-for-rwas.md)
-* [FAQs](general-faqs.md)
-  * [General](faqs/general.md)
-  * [ZSTF](faqs/zstf.md)
-  * [ZTLN-P](faqs/ztln-p.md)
-  * [ZeUSD](faqs/zeusd.md)
-* [ZOTH Token](governance.md)
-* [Glossary](glossary.md)
+## Getting Started
+
+* [Introduction](README.md)
+* [Overview](getting-started/overview.md)
+* [Why Zoth](getting-started/why-zoth.md)
+* [Our Values](getting-started/our-values.md)
+* [Zoth Protocol](getting-started/zoth-protocol/README.md)
+  * [ZOTH Fi - Fixed Income Products](getting-started/zoth-protocol/zoth-fi-fixed-income-products.md)
+  * [Atlas - Permissionless Gateway for RWAs](getting-started/zoth-protocol/atlas-permissionless-gateway-for-rwas.md)
+* [FAQs](getting-started/faqs.md)
+* [Glossary](getting-started/glossary.md)
+
+## Products
+
+* [ZeUSD - An Omni-chain, and Composable Stable Token](products/zeusd-an-omni-chain-and-composable-stable-token/README.md)
+  * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
+  * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
+* [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
+* [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
+  * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
+* [ZOTH Token](products/zoth-token.md)
 
 ## Tech Center
 
@@ -39,16 +33,21 @@
   * [Sub Vaults](tech-center/smart-contracts/sub-vaults.md)
 * [Contract Deployments](tech-center/contract-deployments.md)
 
-## Legal
+## LEGAL
 
-* [Terms of Use](legal/terms-of-use.md)
-* [Privacy Policy](legal/privacy-policy.md)
+* [ZTLN-P](legal/ztln-p/README.md)
+  * [Legal Disclaimer](legal/ztln-p/legal-disclaimer.md)
+  * [Terms of Use](legal/ztln-p/terms-of-use.md)
+  * [Privacy Policy](legal/ztln-p/privacy-policy.md)
+* [ZSTF](legal/zstf/README.md)
+  * [Terms of Use](legal/zstf/terms-of-use.md)
+  * [Privacy Policy](legal/zstf/privacy-policy.md)
+  * [Risk Disclosure](legal/zstf/risk-disclosure.md)
+  * [Onboarding Disclaimer](legal/zstf/onboarding-disclaimer.md)
+  * [Legal FAQs](legal/zstf/readme.md)
+* [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
 
-## CONNECT
+## Resources
 
-* [Twitter](https://twitter.com/zothdotio)
-* [Discord](https://discord.gg/zothdotio)
-* [Telegram](https://telegram.me/zothio)
-* [LinkedIn](https://www.linkedin.com/company/82144276)
-* [Medium](https://medium.com/@zoth.io)
-* [Zoth-Fi](https://app.zoth.io/)
+* [Brand Assets](resources/brand-assets.md)
+* [Official links](resources/official-links.md)

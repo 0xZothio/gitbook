@@ -61,7 +61,7 @@ Direct interface with the ZeUSD token contract for:
 * Managing token supply
 * Tracking user balances
 
-#### 2.3 Layer Zero Cross-Chain Operations
+#### 2.3 LayerZero Cross-Chain Operations
 
 Enables seamless cross-chain functionality through:
 
@@ -100,7 +100,7 @@ In this process:
    * Current oracle prices
    * LTV ratios
 4. Mints ZeUSD to user's wallet
-5. Records position in CollateralVault
+5. Records position in Collateral Vault
 
 #### 1.2 Stablecoin Deposits
 
@@ -204,11 +204,11 @@ This process involves:
 
 1. User Request: User initiates stable token deposit (e.g., USDC)
 2. Access Checks: Verifies user's permission to use the protocol
-3. Vault Verification: Locates correct SubVault for the stable token
+3. Vault Verification: Locates correct Sub Vault for the stable token
 4. Asset Validation: Confirms stable token is supported
-5. Token Transfer: Moves stable tokens to SubVault
-6. Protocol Integration: SubVault deposits stables into underlying protocol
-7. Record Keeping: Records the stable deposit in CollateralVault
+5. Token Transfer: Moves stable tokens to Sub Vault
+6. Protocol Integration: Sub Vault deposits stables into underlying protocol
+7. Record Keeping: Records the stable deposit in Collateral Vault
 8. ZeUSD Issuance: Mints equivalent ZeUSD based on stable deposit
 
 ### 3. Burn Flow
@@ -219,16 +219,16 @@ The burn process includes:
 
 1. Burn Request: User initiates burn of ZeUSD to reclaim their collateral
 2. Permission Check: Verifies user's authorization
-3. Vault Location: Identifies correct SubVault storing user's collateral
+3. Vault Location: Identifies correct Sub Vault storing user's collateral
 4. Asset Verification: Confirms asset type matches original deposit
-5. Position Update: Marks the deposit as inactive in CollateralVault
+5. Position Update: Marks the deposit as inactive in Collateral Vault
 6. Token Burning: Burns the specified amount of ZeUSD
-7. Collateral Release: Withdraws collateral from SubVault
+7. Collateral Release: Withdraws collateral from Sub Vault
 8. Return Assets: Transfers collateral back to user's wallet
 
 ## Oracle Integration
 
-The Router relies on price oracles through the CollateralVault for calculating mint amounts:
+The Router relies on price oracles through the Collateral Vault for calculating mint amounts:
 
 1. Price Discovery
    * Collateral prices from Chainlink oracles
@@ -272,7 +272,7 @@ error InsufficientBalance(string token);
 
 The Router implements UUPS upgradeability pattern:
 
-* State variable organisation
+* State variable organization
 * Implementation slot management
-* Proper initialisation sequence
+* Proper initialization sequence
 * Storage gap for future upgrades

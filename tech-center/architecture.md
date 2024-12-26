@@ -2,15 +2,15 @@
 description: >-
   Explore the detailed architecture of our Solidity contracts, designed for
   scalability, transparency, and seamless integration.
+cover: ../.gitbook/assets/Banner 14.png
+coverY: 0
 ---
 
 # Architecture
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Practice - Architecture 3 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 The Zoth protocol contracts are meticulously designed to handle intricate operations, including asset swaps between Real World Assets (RWAs) and stable token, lifecycle management of the ZeUSD stable token, issuance of structured financial products, efficient asset exchange without relying on traditional liquidity pools, and precise asset pricing for dependable transaction execution.
-
-
 
 ## **ZeUSD Token**
 
