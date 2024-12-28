@@ -36,5 +36,5 @@
 * **Zoth - Fixed Income (Zoth-Fi):** An offering that provides access to Institutional Grade Fixed Income assets through Stablecoins.
 * **Zoth Proof of Reserve:** A contract demonstrating the reserve of invoices for lenders and the community.
 * **Zoth Validators:** Stakeholders who perform due diligence on curated assets to ensure they meet the platform's criteria.
-* **Zoth Tokenized Liquid Notes (ZTLN):** A product providing accredited investors with regulatory-compliant access to a USD-denominated, investment-grade fixed income portfolio via blockchain technology, focusing on low-risk instruments like US Treasury Bills and top-rated corporate bonds.
+* **Zoth Tokenized Liquid Notes Prime (ZTLN -P):** A product providing institutional/accredited investors with regulatory-compliant access to a USD-denominated, investment-grade fixed-income portfolio via blockchain technology, focusing on low-risk instruments like US Treasury Bills and top-rated ETF/MMF **.**
 * **Zoth Secure Trade Finance (ZSTF):** A product that invests in secured short-term receivables sourced from esteemed factoring companies in emerging markets, offering high-yield opportunities with robust risk management and multiple layers of security.

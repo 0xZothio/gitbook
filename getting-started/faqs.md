@@ -167,7 +167,7 @@ ZTLN-P Tokens are ERC-20 tokens representing the ownership of structured product
 
 <summary>What are the underlying assets?</summary>
 
-The issuer has carefully selected a range of high-quality investment-grade corporate bonds issued by globally renowned banks and US Treasury bills.
+The issuer has carefully selected a range of high-quality investment-grade Instruments like US Treasury bills & ETF/MMFs from Financial Intitutions
 
 </details>
 
@@ -175,7 +175,7 @@ The issuer has carefully selected a range of high-quality investment-grade corpo
 
 <summary>What is the minimum amount I can invest or redeem?</summary>
 
-The minimum investment is USD 100,000.
+The minimum investment is USD 100,000 excluding the investment related fees
 
 </details>
 
@@ -183,7 +183,7 @@ The minimum investment is USD 100,000.
 
 <summary>What measures are in place to ensure transparency and security?</summary>
 
-Zoth tokenized liquid notes are administered by Apex Corporate & Fund Services Ltd, with digital asset custody by GC Exchange Limited (GCEX). Custodians and traders include Interactive Brokers LLC. Zoth ensures transparency and security through continuous audits by a reputable global audit firm, weekly NAVs, and providing unmatched transparency to build trust.
+Zoth tokenized liquid notes are administered by Soroban Fund Services (Hong Kong) Limited, Trader and Custodian are Doo Prime and Doo Consulting Limited (a trust company registered in Hong Kong and authorized and regulated by the Hong Kong Companies Registry). Zoth ensures transparency and security through periodic audits by a reputable global audit firm and weekly NAVs, Thus providing unmatched transparency to build trust.
 
 </details>
 
@@ -191,7 +191,7 @@ Zoth tokenized liquid notes are administered by Apex Corporate & Fund Services L
 
 <summary>Is there a fee associated with tokenized liquid notes?</summary>
 
-There is a fixed fee of 0.10% per transaction and a servicing fee of 0.50% per annum.
+Yes, there is a fee associated with tokenized liquid notes, please refer Fact sheet for the details
 
 </details>
 
@@ -207,7 +207,7 @@ The underlying assets are high-quality fixed-rate investment-grade bonds issued 
 
 <summary>Are the tokens transferable in nature?</summary>
 
-Tokens are transferable across wallets subject to KYC and are fully collateralized by the underlying asset, issued in compliance with the Securitization Laws of Luxembourg.
+Tokens are transferable across wallets subject to KYC and are fully collateralized by the underlying asset, issued in compliance with the CIMA, Cayman Islands.
 
 </details>
 
@@ -215,7 +215,7 @@ Tokens are transferable across wallets subject to KYC and are fully collateraliz
 
 <summary>Does the issuer have the right to rebalance to maintain portfolio yield?</summary>
 
-Yes, the issuer can mitigate risk by investing in higher or lower yielding securities to maintain portfolio yield.
+Yes, the issuer can mitigate risk by investing in higher or lower-yielding securities to maintain portfolio yield.
 
 </details>
 
@@ -223,15 +223,15 @@ Yes, the issuer can mitigate risk by investing in higher or lower yielding secur
 
 <summary>Does Zoth have access to subscriber funds?</summary>
 
-Zoth does not have access or control over funds received from subscribers. Funds go directly into a wallet maintained with GCEX via a smart contract deployed by the issuer.
+Zoth does not have access or control over funds received from subscribers. Funds go directly into a wallet maintained with Doo Prime via a smart contract deployed by the issuer.
 
 </details>
 
 <details>
 
-<summary>When is a subscriber eligible for the coupon rate?</summary>
+<summary>When is a subscriber eligible for the yield payout?</summary>
 
-A fixed coupon of 6% is payable quarterly to subscribers holding liquid notes on the record date.
+A yield of 4-5%  APR is payable to subscribers holding liquid notes at the time of redemption.
 
 </details>
 

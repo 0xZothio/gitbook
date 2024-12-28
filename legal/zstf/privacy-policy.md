@@ -158,5 +158,5 @@ Any cause of action you may have with respect to your use of the Website must be
 
 **CONTACT US:**
 
-For any query or assistance, feel free to Contact Us with our customer service team at contactus@zoth.io In accordance with the PDPA, you may make data access or data correction requests or request information regarding policies and practices and kinds of data held. Such requests should be addressed to: Data Protection Officer (DPO) Metaco Intelligence Corporation Email: dpo@zoth.io\
+For any query or assistance, feel free to Contact Us with our customer service team at gm@zoth.io In accordance with the PDPA, you may make data access or data correction requests or request information regarding policies and practices and kinds of data held. Such requests should be addressed to: Data Protection Officer (DPO) Metaco Intelligence Corporation Email: dpo@zoth.io\
 Please note that if your Personal Data has been provided to us by a third party, you should contact such party directly to make any queries, feedback, and access and correction requests to Metaco on your behalf.
