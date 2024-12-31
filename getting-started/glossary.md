@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Glossary
 
 * **Annual Percentage Return (APR):** The actual yearly income earned from an investment, represented as a percentage over the term of a loan.
