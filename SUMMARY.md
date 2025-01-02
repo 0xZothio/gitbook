@@ -51,4 +51,5 @@
 
 * [Brand Assets](resources/brand-assets.md)
 * [Official links](resources/official-links.md)
+* [Audits](resources/audits.md)
 * [Onchain Data](resources/onchain-data.md)
