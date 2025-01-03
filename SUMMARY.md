@@ -52,4 +52,5 @@
 * [Brand Assets](resources/brand-assets.md)
 * [Official links](resources/official-links.md)
 * [Audits](resources/audits.md)
+* [ZeUSD Risks and Mitigation Strategies](resources/zeusd-risks-and-mitigation-strategies.md)
 * [Onchain Data](resources/onchain-data.md)
