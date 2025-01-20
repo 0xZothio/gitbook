@@ -33,3 +33,16 @@ Each of our contracts is fully verified, with inspectable code. By using transpa
 ### ZeUSD Infrastructure
 
 <table><thead><tr><th width="261">Contract Name</th><th>Address</th></tr></thead><tbody><tr><td>ZeUSD OFT</td><td><a href="https://pacific-explorer.manta.network/address/0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761">0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761</a></td></tr></tbody></table>
+
+
+
+## Metis Andromeda Mainnet
+
+
+
+### ZeUSD Infrastructure
+
+<table><thead><tr><th width="261">Contract Name</th><th>Address</th></tr></thead><tbody><tr><td>ZeUSD OFT</td><td><a href="https://explorer.metis.io/token/0x2d3D1a6982840Dd88bC2380Fd557F8A9D5e27a77">0x2d3D1a6982840Dd88bC2380Fd557F8A9D5e27a77</a></td></tr></tbody></table>
+
+
+
