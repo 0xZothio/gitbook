@@ -18,9 +18,11 @@
   * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
   * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
   * [Add ZeUSD to Metamask](products/zeusd-an-omni-chain-and-composable-stable-token/add-zeusd-to-metamask.md)
+* [ZeUSD Debt Position (ZDP)](products/zeusd-debt-position-zdp.md)
 * [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
+* [Zoth Rewards](products/zoth-rewards.md)
 * [ZOTH Token](products/zoth-token.md)
 
 ## Tech Center
