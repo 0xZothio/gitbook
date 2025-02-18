@@ -18,7 +18,7 @@
   * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
   * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
   * [Add ZeUSD to Metamask](products/zeusd-an-omni-chain-and-composable-stable-token/add-zeusd-to-metamask.md)
-* [ZeUSD Debt Position (ZDP)](products/zeusd-debt-position-zdp.md)
+* [ZeUSD Debt Position (ZeDP)](products/zeusd-debt-position-zdp.md)
 * [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
@@ -39,7 +39,7 @@
   * [USYC (By Hashnote)](tech-center/eligible-real-world-assets/usyc-by-hashnote.md)
   * [USD0++ (By Usual Money)](tech-center/eligible-real-world-assets/usd0++-by-usual-money.md)
   * [TBILL (By OpenEden)](tech-center/eligible-real-world-assets/tbill-by-openeden.md)
-  * [STBT (By MatrixDock)](tech-center/eligible-real-world-assets/stbt-by-matrixdock.md)
+  * [wSTBT (By MatrixDock)](tech-center/eligible-real-world-assets/wstbt-by-matrixdock.md)
   * [Wrapped $M (By M0)](tech-center/eligible-real-world-assets/wrapped-usdm-by-m0.md)
 * [Contract Deployments](tech-center/contract-deployments.md)
 
