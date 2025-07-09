@@ -12,6 +12,10 @@ Each of our contracts is fully verified, with inspectable code. By using transpa
 
 ## Ethereum Mainnet
 
+### ZeUSD V2 Infrastructure
+
+<table><thead><tr><th width="249">Contract Name</th><th>Address</th></tr></thead><tbody><tr><td>Access Manager</td><td><a href="https://etherscan.io/address/0xC59f3b833A6366B2Fb45008156253F11885F34EC">0xC59f3b833A6366B2Fb45008156253F11885F34EC</a></td></tr><tr><td>Registry</td><td><a href="https://etherscan.io/address/0x675D73734546b2f668b27659bEBFaD7582902a18">0x675D73734546b2f668b27659bEBFaD7582902a18</a></td></tr><tr><td>Price Oracle</td><td><a href="https://etherscan.io/address/0xDD5F6461fE8503b98f0AAB53ff390d327515C17f">0xDD5F6461fE8503b98f0AAB53ff390d327515C17f</a></td></tr><tr><td>Vault Registry</td><td><a href="https://etherscan.io/address/0x70072cDBf497CE235d3D55695DB6842C8A31d36d">0x70072cDBf497CE235d3D55695DB6842C8A31d36d</a></td></tr><tr><td>Withdrawal System</td><td><a href="https://etherscan.io/address/0x4Fb32D9cc9540E002fCF78bFe6FFDCb3aA4008B8">0x4Fb32D9cc9540E002fCF78bFe6FFDCb3aA4008B8</a></td></tr><tr><td>ZeUSD Router V2</td><td><a href="https://etherscan.io/address/0x061a5839B9057E5Ed675C6982FDFAB31A3011D95">0x061a5839B9057E5Ed675C6982FDFAB31A3011D95</a></td></tr><tr><td>ZeUSD</td><td><a href="https://etherscan.io/address/0xb16eB11Db006230d13fC0d9679e50a5A4D389809">0xb16eB11Db006230d13fC0d9679e50a5A4D389809</a></td></tr><tr><td>ZeUSD_CDP</td><td><a href="https://etherscan.io/address/0x400b1894b0B68D359622F79e961915B36e454803">0x400b1894b0B68D359622F79e961915B36e454803</a></td></tr><tr><td>USYC Vault</td><td><a href="https://etherscan.io/address/0x255f6bbEC8C3310Fd78cB679Da529Da9aa0D25A6">0x255f6bbEC8C3310Fd78cB679Da529Da9aa0D25A6</a></td></tr></tbody></table>
+
 
 
 ### Zoth Tokenized Liquid Notes Prime (ZTLN-P)

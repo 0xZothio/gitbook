@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Wrapped $M (By M0)
 
 ## What is M0? <a href="#what-is-m0" id="what-is-m0"></a>

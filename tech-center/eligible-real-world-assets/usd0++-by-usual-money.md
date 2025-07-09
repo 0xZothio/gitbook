@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # USD0++ (By Usual Money)
 
 ## What is Usual Money?

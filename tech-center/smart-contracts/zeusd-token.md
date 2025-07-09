@@ -2,80 +2,113 @@
 
 ## Overview
 
-ZeUSD is an upgradeable ERC-20 token that serves as the core stable asset of the ZeUSD protocol. It incorporates advanced features like blacklisting, role-based access control, and cross-chain compatibility through Layer Zero.
+ZeUSD is an upgradeable ERC-20 token that serves as the core stable asset of the ZeUSD protocol. It implements advanced compliance features including blacklisting and role-based access control through OpenZeppelin's AccessManager.
 
 ## Key Features
 
 ### 1. Token Configuration
 
-* Name: ZeUSD
-* Symbol: ZeUSD
-* Decimals: 6
-* Implementation: ERC-20 Upgradeable
+* **Name:** ZeUSD
+* **Symbol**: ZeUSD
+* **Decimals**: 18
+* **Implementation**: ERC-20 Upgradeable with UUPS proxy pattern
 
 ### 2. Access Control System
 
-* DEFAULT\_ADMIN\_ROLE (Owner): Controls administrative functions
-* ADMIN\_ROLE (Admin): Manages operational features.&#x20;
-* [Router](zeusd-router.md): Exclusive minting privileges
+The token uses OpenZeppelin's AccessManager for role-based permissions:
+
+* **Registry Integration**: Core contract addresses managed through central Registry
+* **Access Manager**: Handles role-based permissions
+* **Router**: Exclusive minting/burning privileges
 
 ### 3. Security Features
 
 #### Blacklist System
 
-* Prevents malicious actors from using the token
-* Administrators can add/remove addresses
-* Affects transfers and approvals
-
 ```solidity
-mapping(address => bool) private _blacklist;
+function setBlacklistStatus(address account, bool status) external {
+    // Only authorized roles can blacklist
+    // Emits Blacklisted event
+}
 
-function setBlacklistStatus(address account, bool status) external onlyRole(ADMIN_ROLE) {
-    _blacklist[account] = status;
-    emit Blacklisted(account, status);
+function isBlacklisted(address account) external view returns (bool) {
+    // Returns blacklist status of account
 }
 ```
+
+* Prevents blacklisted addresses from using the token
+* Affects all token operations (transfers, approvals)
+* Managed by authorized roles
+* Events emitted for all blacklist changes
 
 #### Router Control
 
-* Only authorized router can mint/burn tokens
-* Prevents unauthorized token creation
-* Ensures protocol integrity
-
 ```solidity
-modifier onlyRouter() {
-    require(msg.sender == router, "Only router can call");
-    _;
+function mint(address to, uint256 amount) external {
+    // Only authorized router can mint
+    // Validates blacklist status
+    // Emits Transfer event
 }
 ```
+
+* Only authorized router can mint/burn tokens
+* Ensures protocol security and integrity
+* Validates all operations through Registry
+
+
 
 ## Core Functions
 
-### Minting
+### 1. Minting
 
 ```solidity
-function mint(address to, uint256 amount) external onlyRouter {
-    _mint(to, amount);
-}
+function mint(address to, uint256 amount) external;
 ```
 
-* Called exclusively by router
-* Creates new tokens based on collateral
+* Restricted to authorized router
+* Creates new tokens based on validated deposits
+* Includes blacklist validation
 * Emits Transfer event
 
-### Burning
+### 2. Burning
 
 ```solidity
-function burn(uint256 amount) external onlyRouter {
-    _burn(msg.sender, amount);
-}
+function burn(uint256 amount) external;
 
-function burnFrom(address account, uint256 amount) external onlyRouter {
-    _spendAllowance(account, msg.sender, amount);
-    _burn(account, amount);
-}
+function burnFrom(address account, uint256 amount) external;
 ```
 
-* Destroys tokens when collateral is redeemed
-* Requires approval for burnFrom
+* Destroys tokens during withdrawal process
+* Requires proper authorization
+* Includes blacklist checks
 * Updates total supply
+* Emits Transfer event
+
+### 3. Error Handling
+
+```solidity
+error ZeUSD_Unauthorized(string _message);
+error ZeUSD_InvalidRegistryAddress();
+error ZeUSD_InvalidAccessManagerAddress();
+```
+
+* Custom errors for better error handling
+* Specific error types for different scenarios
+* Clear error messages for debugging
+
+### 4. Events
+
+* Standard ERC20 events (Transfer, Approval)
+* Custom events for blacklist changes
+* Detailed event parameters for tracking
+
+### 5. Upgradability
+
+* Implements UUPS upgrade pattern
+* Managed through AccessManager roles
+* Preserves state during upgrades
+* Supports future protocol improvements
+
+This updated documentation reflects the current implementation with 18 decimals (instead of 6), the new access control system through AccessManager, and the more comprehensive error handling system using custom errors.
+
+\

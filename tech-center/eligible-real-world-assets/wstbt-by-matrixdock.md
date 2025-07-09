@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # wSTBT (By MatrixDock)
 
 ## What is Matrixdock?

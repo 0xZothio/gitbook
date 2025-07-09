@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # TBILL (By OpenEden)
 
 ## What is OpenEden?

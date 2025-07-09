@@ -2,20 +2,6 @@
 description: The current state of RWAs is broken.
 cover: ../.gitbook/assets/Banner 10.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # Overview
