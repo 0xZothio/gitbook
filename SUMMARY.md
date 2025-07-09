@@ -31,7 +31,7 @@
 * [LTV Mechanism](tech-center/ltv-mechanism.md)
 * [Smart Contracts](tech-center/smart-contracts/README.md)
   * [ZeUSD Token](tech-center/smart-contracts/zeusd-token.md)
-  * [ZeUSD Router V2](tech-center/smart-contracts/zeusd-router-v2.md)
+  * [ZeUSD Router V2](tech-center/smart-contracts/zeusd-router.md)
   * [Vault System Architecture](tech-center/smart-contracts/vault-system-architecture.md)
   * [Vaults](tech-center/smart-contracts/vaults.md)
 * [Eligible Real World Assets](tech-center/eligible-real-world-assets/README.md)
@@ -55,6 +55,8 @@
   * [Onboarding Disclaimer](legal/zstf/onboarding-disclaimer.md)
   * [Legal FAQs](legal/zstf/readme.md)
 * [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
+* [ZeUSD](legal/zeusd/README.md)
+  * [Terms and Conditions](legal/zeusd/terms-and-conditions.md)
 
 ## Resources
 
