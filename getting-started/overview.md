@@ -1,5 +1,6 @@
 ---
 description: The current state of RWAs is broken.
+hidden: true
 cover: ../.gitbook/assets/Banner 10.png
 coverY: 0
 ---
@@ -36,3 +37,4 @@ Despite their growth and adoption, the leading stablecoin models, often not desi
 While the need for traditional assets within crypto is clear, existing RWA solutions often restrict access through long verification requirements, whitelisted tokens, fragmented liquidity, and a lack of DeFi integrations. These restrictions primarily exclude retail investors who are pivotal to any ecosystem's growth.&#x20;
 
 _Built for the community, Zoth is designed to solve this by providing permissionless access to a wide ecosystem of RWAFi, unlocking the full potential of RWAs within DeFi._
+

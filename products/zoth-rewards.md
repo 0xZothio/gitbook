@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Zoth Rewards
 
 Zoth ensures fair value for both users and active participants through their contributions to the protocol, beyond just on-chain interactions. Zoth offers two tracks for users to contribute:

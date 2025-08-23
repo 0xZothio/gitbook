@@ -14,10 +14,20 @@
 
 ## Products
 
+* [Fund-as-a-Service for Tokenization (FAAST)](products/fund-as-a-service-for-tokenization-faast/README.md)
+  * [Who It's For?](products/fund-as-a-service-for-tokenization-faast/who-its-for.md)
+  * [Why FAAST?](products/fund-as-a-service-for-tokenization-faast/why-faast.md)
+  * [How It Works?](products/fund-as-a-service-for-tokenization-faast/how-it-works.md)
+  * [FAQs](products/fund-as-a-service-for-tokenization-faast/faqs.md)
 * [ZeUSD - An Omni-chain, and Composable Stable Token](products/zeusd-an-omni-chain-and-composable-stable-token/README.md)
   * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
   * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
   * [Add ZeUSD to Metamask](products/zeusd-an-omni-chain-and-composable-stable-token/add-zeusd-to-metamask.md)
+* [Payx7](products/payx7/README.md)
+  * [Who it’s for?](products/payx7/who-its-for.md)
+  * [Why Payx7](products/payx7/why-payx7.md)
+  * [How it Works?](products/payx7/how-it-works.md)
+* [Stablecoin Studio](products/stablecoin-studio.md)
 * [ZeUSD Debt Position (ZeDP)](products/zeusd-debt-position-zdp.md)
 * [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
@@ -63,5 +73,6 @@
 * [Brand Assets](resources/brand-assets.md)
 * [Official links](resources/official-links.md)
 * [Audits](resources/audits.md)
-* [ZeUSD Risks and Mitigation Strategies](resources/zeusd-risks-and-mitigation-strategies.md)
+* [ZeUSD Risks and Mitigation Strategies](resources/zeusd-risks-and-mitigation-strategies/README.md)
+  * [Zoth Security Framework](resources/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources/onchain-data.md)

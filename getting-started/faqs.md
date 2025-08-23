@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQs
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>General FAQs</td><td><a href="../.gitbook/assets/Banner 16.png">Banner 16.png</a></td><td><a href="faqs.md#general-questions">#general-questions</a></td></tr><tr><td>Discovering ZeUSD</td><td><a href="../.gitbook/assets/Banner 10.png">Banner 10.png</a></td><td><a href="faqs.md#discovering-zeusd">#discovering-zeusd</a></td></tr><tr><td>How does ZTLN-P work?</td><td><a href="../.gitbook/assets/Banner 19.png">Banner 19.png</a></td><td><a href="faqs.md#how-does-ztln-p-works">#how-does-ztln-p-works</a></td></tr><tr><td>ZSTF : Zoth Secure Trade Finance</td><td><a href="../.gitbook/assets/Banner 15.png">Banner 15.png</a></td><td><a href="faqs.md#zstf-zoth-secure-trade-finance">#zstf-zoth-secure-trade-finance</a></td></tr></tbody></table>

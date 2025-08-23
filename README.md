@@ -6,10 +6,10 @@ coverY: 0
 
 # Introduction
 
-**Zoth** is building a **community-powered RWAFi Ecosystem** to address the broken state of **Real-World Assets (RWAs).** For too long, RWAs were confined to institutional circles, stifling their potential for democratization. Zoth breaks down these barriers by providing a decentralized ecosystem that connects liquidity across **Traditional Finance (TradFi)** and **Decentralized Finance (DeFi)**, enabling a free flow of assets and capital.
+Zoth is building the first full-stack **StableFi OS**, a complete infrastructure that empowers institutions, banks, corporates, and fintechs to launch, scale, and monetize stablecoins in under 90 days.&#x20;
 
-We believe that the widespread adoption of RWAFi within DeFi requires the active participation of retail investors, which has historically been limited by fragmented systems and unfair incentives. Zoth is dedicated to creating an inclusive system where retail investors are not just spectators, but active participants who fuel the growth of RWAs in DeFi. This includes creating a more accessible and fairer ecosystem where previously locked fixed-income assets can be freely utilized across DeFi.
+Unlike existing platforms that only provide technology and legal frameworks, Zoth takes a holistic approach by integrating regulatory cover, dynamic reserve and risk management, and a built-in adoption and distribution network. This ensures that every stablecoin launched through Zoth is not only secure and compliant but also positioned for real-world liquidity and growth.&#x20;
 
-Our vision is to build an end-to-end RWAFi ecosystem that combines new financial instruments with the stability of TradFi and the scalability of DeFi.&#x20;
+> By bridging the gap between Traditional Finance and Decentralized Finance, Zoth is creating resilient infrastructure that enables stablecoins to move beyond issuance toward sustainable adoption, utility, and scale, bringing the world’s financial systems onchain.
 
-> **Together, we're democratizing access to the creation and management of omni-chain, composable, yield-bearing RWA-backed products on-chain.**
+\
