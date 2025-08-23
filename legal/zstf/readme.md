@@ -22,7 +22,7 @@ Zoth would be seeking to submit a copy of passport, tax registration number alon
 
 6. **How Zoth is protecting user data and privacy?**
 
-Protecting user data and privacy is crucial for our company. Implement strong security measures such as encryption, multi-factor authentication, and secure storage practices. Comply with data protection and privacy laws, including GDPR if applicable, to safeguard user information. Please review our [Privacy Policy](privacy-policy.md) for more details.&#x20;
+Protecting user data and privacy is crucial for our company. Implement strong security measures such as encryption, multi-factor authentication, and secure storage practices. Comply with data protection and privacy laws, including GDPR if applicable, to safeguard user information. Please review our [Privacy Policy](../privacy-policy.md) for more details.&#x20;
 
 7. **What are the team doing to stay ahead of potential regulations changes?**
 
