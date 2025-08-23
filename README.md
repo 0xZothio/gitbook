@@ -1,5 +1,5 @@
 ---
-description: The Community Powered Re-staking Layer for RWAFi
+description: The first full stack StableFi OS to redefine the Finance
 cover: .gitbook/assets/Banner 9.png
 coverY: 0
 ---
