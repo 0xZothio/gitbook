@@ -3,7 +3,7 @@
 Payx7 orchestrates your entire cross-border payment flow in four simple steps:
 
 1. **Request**
-   1. Businesses onboard via Payx7’s secure, KYC/KYB-compliant process.
+   1. Businesses onboard via secure, KYC/KYB-compliant process.
    2. Sub-accounts are issued by licensed partners.
 2. **Route**
    1. Smart Routing Engine finds the most efficient path across OTC liquidity partners.
@@ -20,7 +20,7 @@ Payx7 orchestrates your entire cross-border payment flow in four simple steps:
 
 ## What do you get with Payx7?
 
-* **End-to-End Remittance in Minutes** - Currency conversion cleared and visible in near real time.
+* **End-to-End Remittance in Seconds** - Currency conversion cleared and visible in near real time.
 * **Automated KYC/KYB** - Fast onboarding with compliance baked in.
 * **Smart Routing & Treasury Orchestration** - Always optimal path and liquidity usage.
 * **Real-Time Updates** - Status tracking at every leg of the journey.
