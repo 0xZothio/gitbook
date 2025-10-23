@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Fund-as-a-Service for Tokenization (FAAST)
 
 ## Introduction

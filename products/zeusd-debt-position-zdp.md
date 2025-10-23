@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ZeUSD Debt Position (ZeDP)
 
 The ZeUSD Debt Position (ZeDP) is an ERC 721 token implementation that represents Collateralized Debt Positions (CDPs) as transferable NFTs. It adds transferability and composability for on-chain CDPs issued on Zoth.
