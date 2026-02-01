@@ -1,5 +1,6 @@
 ---
 description: Onchain Metrics of Zoth Protocol
+hidden: true
 ---
 
 # Onchain Data

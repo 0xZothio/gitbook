@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ZeUSD Risks and Mitigation Strategies
 
 ### Risks Involved

@@ -2,6 +2,7 @@
 description: >-
   This page serves as a centralized hub for all our smart contract deployments,
   allowing you to effortlessly verify their authenticity.
+hidden: true
 ---
 
 # Contract Deployments

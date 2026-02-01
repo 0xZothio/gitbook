@@ -1,5 +1,6 @@
 ---
 description: Anti-Money Laundering Policy and Counter-Terrorist Financing (CTF) Compliance
+hidden: true
 ---
 
 # Anti-Money Laundering Policy

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Terms of Use
 
 Terms of Use

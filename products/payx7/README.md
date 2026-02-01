@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Payx7
 
 ## Introduction
@@ -22,7 +26,6 @@ Businesses choose Payx7 because it solves the biggest pain points of legacy remi
 * **Smart Routing Engine** - Routes transactions to the best OTC partner in real time based on FX rate, partner fees, and SLA.
 * **Regulatory Compliance** - Built with AML, KYC, and FIU-aligned processes at the core.
 * **Plug-and-Play Simplicity** - Simple APIs and dashboards; no UI replacement needed.
-* **Full Transparency** - Bank deposit reference, on-chain transaction hash, and payout confirmation for every transaction.\
+* **Full Transparency** - Bank deposit reference, on-chain transaction hash, and payout confirmation for every transaction.<br>
 
-
-\
+<br>

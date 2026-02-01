@@ -1,8 +1,11 @@
 ---
 description: Business Risk Disclosure & Limited Liability
+hidden: true
 ---
 
 # Risk Disclosure
+
+
 
 1. The protocol is/ shall not be liable to the investors and borrowers for any loss, damages, expenses, claims, costs (including, but not limited to legal costs), or expenses arising from any circumstances. The protocol is/ shall not responsible for any loss of profits or special, exemplary, consequential or punitive damages, even if informed of the possibility of such damages. The protocol provides secured investment opportunities; however, it shall not be considered as guaranteed returns.&#x20;
 2. Zoth is not liable, and you will not hold Zoth responsible for any delays, defaults, frauds, misrepresentations etc. on part of any counterparty(ies).

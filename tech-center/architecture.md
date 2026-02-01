@@ -2,6 +2,7 @@
 description: >-
   Explore the detailed architecture of our Solidity contracts, designed for
   scalability, transparency, and seamless integration.
+hidden: true
 cover: ../.gitbook/assets/Banner 14.png
 coverY: 0
 ---

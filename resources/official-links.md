@@ -1,5 +1,6 @@
 ---
 description: 'Please find all the official links here:'
+hidden: true
 ---
 
 # Official links

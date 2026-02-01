@@ -1,5 +1,6 @@
 ---
 description: No gatekeeping. No hidden agendas. No privileged access.
+hidden: true
 cover: ../.gitbook/assets/Banner 10.png
 coverY: 0
 ---
