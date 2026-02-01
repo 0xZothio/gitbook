@@ -76,11 +76,11 @@
   * [Zoth Security Framework](resources/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources/onchain-data.md)
 
-## NEW Getting Started
+## Getting Started
 
-* [The Zoth Ecosystem](new-getting-started/the-zoth-ecosystem.md)
-* [The Core Problem](new-getting-started/the-core-problem.md)
-* [Why a Stablecoin Neobank](new-getting-started/why-a-stablecoin-neobank.md)
+* [The Zoth Ecosystem](getting-started-1/the-zoth-ecosystem.md)
+* [The Core Problem](getting-started-1/the-core-problem.md)
+* [Why a Stablecoin Neobank](getting-started-1/why-a-stablecoin-neobank.md)
 
 ## Vision & Mission
 
