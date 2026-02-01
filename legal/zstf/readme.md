@@ -94,4 +94,4 @@ While our platform provides information and guidance related to tokenization, we
 
 The distribution of dividends or income generated from tokenized assets depends on the specific terms and conditions outlined in the “token agreement.” Typically, dividends or income may be distributed to token holders in proportion to their ownership. Our platform provides visibility into dividend distributions and ensures transparent record-keeping of income generated from tokenized assets.
 
-\
+<br>

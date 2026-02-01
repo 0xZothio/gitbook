@@ -26,4 +26,4 @@ Payx7 orchestrates your entire cross-border payment flow in four simple steps:
 * **Real-Time Updates** - Status tracking at every leg of the journey.
 * **Full Audit Trail** - Immutable records: bank references, blockchain hashes, payout proofs.
 * **Ops Dashboard + API** - Partners get both a simple dashboard and developer APIs.\
-  \
+  <br>

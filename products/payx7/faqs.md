@@ -4,8 +4,7 @@
 
 <summary>Is Payx7 a licensed money mover?</summary>
 
-Payx7 is a technology platform. Licensed partners in each country handle customer funds and conversions.\
-
+Payx7 is a technology platform. Licensed partners in each country handle customer funds and conversions.<br>
 
 </details>
 
@@ -23,8 +22,7 @@ You submit documents once through Payx7. Final checks and approval are completed
 
 Most transfers finish in seconds. End-of-day batches can be configured if preferred.
 
-\
-
+<br>
 
 </details>
 
@@ -32,8 +30,7 @@ Most transfers finish in seconds. End-of-day batches can be configured if prefer
 
 <summary>Do we need to change our app or branch system?</summary>
 
-No. Keep your existing setup. Send orders to Payx7 (via simple handoff/API) and track everything in the dashboard.\
-
+No. Keep your existing setup. Send orders to Payx7 (via simple handoff/API) and track everything in the dashboard.<br>
 
 </details>
 
@@ -59,8 +56,7 @@ Usually takes hours from document submission to your first live transfer.
 
 Yes. Funds are handled by licensed partners. Payx7 never holds customer funds and provides full visibility on each step.
 
-\
-
+<br>
 
 </details>
 

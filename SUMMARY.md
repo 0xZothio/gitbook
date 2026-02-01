@@ -75,3 +75,67 @@
 * [ZeUSD Risks and Mitigation Strategies](resources/zeusd-risks-and-mitigation-strategies/README.md)
   * [Zoth Security Framework](resources/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources/onchain-data.md)
+
+## NEW Getting Started
+
+* [The Zoth Ecosystem](new-getting-started/the-zoth-ecosystem.md)
+* [The Core Problem](new-getting-started/the-core-problem.md)
+* [Why a Stablecoin Neobank](new-getting-started/why-a-stablecoin-neobank.md)
+
+## Vision & Mission
+
+* [The Future of Money](vision-and-mission/the-future-of-money.md)
+* [Zoth’s Long-Term Mission](vision-and-mission/zoths-long-term-mission.md)
+
+## The Hierarchical Architecture
+
+* [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
+* [Layer 1: FAAST](the-hierarchical-architecture/layer-1-faast.md)
+* [Layer 2: zToken Vaults](the-hierarchical-architecture/layer-2-ztoken-vaults.md)
+* [Layer 3: ZEUSD](the-hierarchical-architecture/layer-3-zeusd.md)
+* [Layer 4: Stablecoin Neobank](the-hierarchical-architecture/layer-4-stablecoin-neobank.md)
+
+## zTOKEN Vaults
+
+* [What are zTOKEN Vaults?](ztoken-vaults/what-are-ztoken-vaults.md)
+* [Architecture of zTOKEN Vaults](ztoken-vaults/architecture-of-ztoken-vaults.md)
+* [Flexibility and Security of zTOKEN Vaults](ztoken-vaults/flexibility-and-security-of-ztoken-vaults.md)
+
+## ZEUSD: Liquid Yield assets
+
+* [What is ZEUSD?](zeusd-liquid-yield-assets/what-is-zeusd.md)
+* [How ZEUSD Generates Yield](zeusd-liquid-yield-assets/how-zeusd-generates-yield.md)
+* [Why Yield is Sustainable, Not Ponzi](zeusd-liquid-yield-assets/why-yield-is-sustainable-not-ponzi.md)
+* [Why Yield is Sustainable, Not Ponzi](zeusd-liquid-yield-assets/why-yield-is-sustainable-not-ponzi-1.md)
+* [Minting & Redemption Flows](zeusd-liquid-yield-assets/minting-and-redemption-flows.md)
+
+## Security and Risk Management Framework
+
+* [Overview: Defense-in-Depth Architecture](security-and-risk-management-framework/overview-defense-in-depth-architecture.md)
+* [Smart Contract Security](security-and-risk-management-framework/smart-contract-security.md)
+* [Custody and Operational Security](security-and-risk-management-framework/custody-and-operational-security.md)
+* [Oracle and Attestation Security](security-and-risk-management-framework/oracle-and-attestation-security.md)
+* [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
+* [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
+* [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
+* [Governance Risks](security-and-risk-management-framework/governance-risks.md)
+* [Legal and Regulatory Risks](security-and-risk-management-framework/legal-and-regulatory-risks.md)
+* [User Responsibilities and Risk Disclosure](security-and-risk-management-framework/user-responsibilities-and-risk-disclosure.md)
+
+## &#x20;Zocta: Universal Loyalty Engine
+
+* [What Are Zocta Points?](zocta-universal-loyalty-engine/what-are-zocta-points.md)
+* [How Users Earn Zocta Points?](zocta-universal-loyalty-engine/how-users-earn-zocta-points.md)
+
+## Zoth Token Utility&#x20;
+
+* [Zoth Token Utility](zoth-token-utility/zoth-token-utility.md)
+
+## Security architecture
+
+* [Security architecture](security-architecture/security-architecture.md)
+
+## Roadmap&#x20;
+
+* [Roadmap](roadmap/roadmap.md)
+* [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)

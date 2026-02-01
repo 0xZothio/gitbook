@@ -1,0 +1,5 @@
+# Overview: Defense-in-Depth Architecture
+
+Zoth implements a comprehensive, multi-layered security framework designed to protect user capital, maintain protocol integrity, and ensure operational resilience across all system components. The security architecture operates on defense-in-depth principles, where multiple independent security controls work in concert to prevent, detect, and respond to threats at the smart contract, operational, and infrastructure layers.
+
+The protocol's risk management philosophy recognizes that no single security measure is sufficient in isolation. Instead, Zoth combines proactive security controls (code audits, formal verification, access controls), real-time threat detection (AI-powered transaction monitoring, anomaly detection), reactive mechanisms (pause functionality, incident response protocols), and economic incentives (bug bounties, attestor liability) to create a resilient security posture capable of withstanding sophisticated attacks and operational failures.

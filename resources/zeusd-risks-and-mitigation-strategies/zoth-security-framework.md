@@ -38,8 +38,7 @@ To reinforce our technology stack, we conducted an extensive 360° security audi
   * Secured endpoints
   * **Multisig wallets**
 * Integration with **Ledger hardware wallets**\
-  \
-
+  <br>
 
 #### Post-Deployment Monitoring
 

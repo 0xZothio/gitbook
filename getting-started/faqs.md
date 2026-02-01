@@ -52,8 +52,7 @@ Zoth Token ($ZOTH) - The native token of the Zoth ecosystem, Tokenomics is desig
 
 • Creating an RWA validator ecosystem
 
-\
-
+<br>
 
 </details>
 

@@ -14,8 +14,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
 
 
 
-2.  **DEFINITIONS**\
-
+2.  **DEFINITIONS**<br>
 
     1. "Digital Assets" means blockchain-based assets, including but not limited to cryptocurrencies, stablecoins, tokenized real-world assets, and other blockchain-native tokens supported by the Zoth Protocol.
     2. "Zoth Protocol" refers to the decentralized, blockchain-based platform developed by Zoth that facilitates lending, borrowing, and other decentralized financial transactions governed by smart contracts.
@@ -39,8 +38,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     20. “$ZOTH (Zoth Token)” means the native token of the Zoth Platform, used for governance, validator rewards, liquidity staking rewards, and community incentives.
 
 
-3.  **INTERPRETATIONS**\
-
+3.  **INTERPRETATIONS**<br>
 
     1. Modifications: We reserve the right to change or modify these Terms at any time and at our sole discretion by posting a notification on our Website. Any changes to or modifications of these Terms will be in effect as of the “Last Updated Date” referred to at the top. You should review these Terms before using any Services. You agree and understand that by using the Services after the “Last Updated Date”, you accept and it will be deemed that you agree to the revised Terms.
     2. Comprehensive Agreement: These Terms, along with the Privacy Policy \[insert link of privacy policy] and any rules outlined on the Website, constitute the complete and exclusive Agreement between you and us pertaining to your use of the Platform. These Terms supersede any prior or contemporaneous negotiations, discussions, agreements, understandings, representations, and warranties, whether written or oral, between you and us regarding the subject matter.
@@ -50,8 +48,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     The language in these Terms will be interpreted as to its fair meaning, and not strictly for or against any party.
 
 
-4.  **ABOUT THE PLATFORM**\
-
+4.  **ABOUT THE PLATFORM**<br>
 
     1. Zoth is a decentralized finance (DeFi) protocol designed to revolutionize the lending and borrowing of ERC-20 tokens. By utilizing blockchain technology and smart contracts, Zoth enables secure, transparent, and automated financial transactions without relying on centralized intermediaries.
     2. The Zoth Protocol operates as a permissionless, decentralized platform on the  Blockchain, allowing users to lend and borrow Digital Assets securely and transparently. Zoth’s non-custodial nature ensures that users retain full control over their funds and private keys at all times.
@@ -86,8 +83,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
 
 6. **Zoth Atlas - Permissionless Gateway for Real World Assets (RWAs)**\
    \
-   **Zoth Atlas provides a decentralized platform where users can tokenize, trade, or manage real-world assets without needing prior authorization or involvement from centralized intermediaries. In this context, "permissionless" implies that the platform is open to anyone without gatekeeping restrictions, thus enabling broader participation in asset-backed blockchain finance.**\
-
+   **Zoth Atlas provides a decentralized platform where users can tokenize, trade, or manage real-world assets without needing prior authorization or involvement from centralized intermediaries. In this context, "permissionless" implies that the platform is open to anyone without gatekeeping restrictions, thus enabling broader participation in asset-backed blockchain finance.**<br>
    1.  Zoth Atlas provides:
 
        * Educational and Distribution Tools: Ensuring users understand RWAs while offering institutional-grade, RWA-backed tokens in an open, compliant, and user-friendly manner.
@@ -107,15 +103,13 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     5. Network Availability: ZeUSD issuance is currently exclusive to the Ethereum, Avalanche, Manta, and Metis networks with plans to expand to additional blockchain ecosystems. As an omnichain token, ZeUSD can be bridged to supported networks post-issuance, enhancing cross-chain operability.
 
 
-8.  **REDEMPTION MECHANISM**\
-
+8.  **REDEMPTION MECHANISM**<br>
 
     1. Redemption Process: To retrieve collateral, users must repay their outstanding ZeUSD positions and may have to pay a nominal withdrawal fee prior to such withdrawal. These fees contribute to protocol revenue and are distributed among $ZOTH token stakers.
     2. Redemption Fees: Redemption fees are dynamic and may vary based on prevailing protocol conditions. A zero-fee state may also apply, removing cost barriers for redemptions.
 
 
-9.  **LIQUIDATION MECHANISM**\
-
+9.  **LIQUIDATION MECHANISM**<br>
 
     1. Liquidation Conditions: If users fail to redeem their ZeUSD positions, the protocol initiates a liquidation process. This involves:
        * Selling the underlying collateral.
@@ -123,8 +117,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     2. Liquidation Parameters: The LTV ratio of the collateral determines the specific conditions and parameters for liquidation.
 
 
-10. **FEE, MINTING REWARDS, AND WITHDRAWAL FEES**\
-
+10. **FEE, MINTING REWARDS, AND WITHDRAWAL FEES**<br>
     1. Fee: In connection with your use of the Services, you are required to pay all fees necessary for interacting with the  Blockchain, including transaction costs, as well as all other fees reflected on the Site at the time of your use of the Services. Although we attempt to provide accurate fee information, this information reflects our estimates of fees, which may vary from the actual fees paid to use the Services and interact with the  Blockchain.
     2. You understand that the  Blockchain remains under development, which creates technological and security risks when using the Services in addition to uncertainty relating to Digital Assets and transactions therein. You acknowledge that the cost of transacting on the  Blockchain is variable and may increase at any time causing impact to any activities taking place on the  Blockchain, which may result in price fluctuations or increased costs when using the Services.
     3. The Minting Rewards and Withdrawal Fees mechanisms are designed to regulate the supply and demand of ZeUSD, ensuring stability and aligning user incentives with the protocol's goals. Minting rewards are incentives provided to users who contribute eligible Real World Assets (RWAs) as collateral to mint ZeUSD. These rewards encourage the creation of ZeUSD and support the protocol's liquidity and adoption. Withdrawal fees are nominal charges applied when users redeem their collateral by repaying their ZeUSD. These fees disincentivize unnecessary redemptions, help maintain protocol stability, and contribute to the protocol's revenue. Currently withdrawals fee upto 60 bps would be charged based on the underlying asset.
@@ -143,8 +136,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
         * Zero Fee: No redemption costs apply, encouraging collateral withdrawal.
 
 
-11. **INTELLECTUAL PROPERTY**\
-
+11. **INTELLECTUAL PROPERTY**<br>
     1. Ownership of Intellectual Property: All rights, titles, and interests in and to the Zoth Platform, including but not limited to its software, user interfaces, underlying algorithms, designs, graphics, trademarks, service marks, logos, and any other proprietary technology or content associated with the Services (collectively, the “Intellectual Property”), are and will remain the exclusive property of Zoth or its licensors. This includes all improvements, enhancements, modifications, and derivative works of the Intellectual Property, regardless of any feedback or suggestions provided by users. Nothing in these Terms shall be construed as transferring any ownership rights to you or any third party.
     2. Limited License: Subject to your compliance with these Terms, Zoth grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to access and use the Zoth Platform and Services solely for your personal, non-commercial purposes. This license is granted exclusively for the purpose of interacting with the supported blockchain networks and decentralized applications (dApps) provided by the Services. Any other use of the Services or Intellectual Property not expressly permitted under these Terms is strictly prohibited.
     3. Prohibited Actions: You shall not, directly or indirectly:
@@ -176,8 +168,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     4. You are (i) aged 18 or over, (ii) you are of the age of majority in your jurisdiction, (iii) agree to provide accurate, current, and complete information when using our services, (iv) you are accessing the Service from a jurisdiction in which it is legal to do so, (v) you are not a Politically Exposed Person (“PEP”) nor are you on any applicable sanctions lists or terrorism finance watchlists, including but not limited to those of the U.S. and the E.U., and (vi) that you will inform us immediately if you are placed onto one of these lists or change your residence to a prohibited jurisdiction within 24 hours of such information.
 
 
-13. **USER RESPONSIBILTY**\
-
+13. **USER RESPONSIBILTY**<br>
 
     1. Secure your account information. This includes your username, password, and any other sensitive information that you use to access the website.
     2. &#x20;Be aware of phishing attacks. Phishing attacks are a common way for scammers to steal user information. Be on the lookout for emails or text messages that appear to be from the website but that ask you to provide personal information. Do not click on any links in these emails or text messages, and do not provide any personal information. Zoth will not be held responsible for the same.
@@ -190,19 +181,16 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     9. Do your own research. Before using the Website, it is important to do your own research about the Zoth and the Website. This includes reading reviews, understanding the Terms, and learning about the risks involved.
 
 
-14. **THIRD PARTY LINKS AND INTEGRATIONS**\
-
+14. **THIRD PARTY LINKS AND INTEGRATIONS**<br>
 
     1. The Zoth Platform and Services may include links to third-party websites, platforms, applications, or services, including but not limited to decentralized applications (dApps) and blockchain-based services. These links and integrations are provided solely for your convenience and do not constitute an endorsement, sponsorship, or affiliation by Zoth. Zoth does not review, approve, monitor, endorse, warrant, or make representations regarding the content, functionality, accuracy, legality, or appropriateness of any third-party services.
     2. By accessing or using third-party services through links or integrations on the Zoth Platform, you do so entirely at your own risk. Zoth has no control over these third-party services and is not responsible for their content, security, privacy practices, or any damages, losses, or liabilities that may result from your use or interaction with them. You acknowledge that your use of third-party services is governed exclusively by the terms and conditions and privacy policies of those third parties and not by these Terms.
     3. Zoth is not liable for the actions, omissions, errors, or failures of any third parties, including but not limited to providers of blockchain networks, dApps, or other integrated platforms. Zoth does not guarantee the legality, suitability, or quality of the products or services offered by third parties and expressly disclaims any liability arising from your engagement with such services.
     4. Security Risks: Engaging with third-party services may expose you to risks, including but not limited to phishing, hacking, fraud, or other malicious activities. Zoth strongly advises that you conduct thorough due diligence before interacting with any third-party platforms. This includes reviewing their security measures, terms of service, privacy policies, and user feedback. You are responsible for verifying the authenticity and reliability of third-party services and taking appropriate precautions to safeguard your digital assets and personal information.
-    5. Availability and Compatibility: Third-party services are subject to changes, updates, interruptions, or discontinuation by their respective providers, which are beyond the control of Zoth. Zoth makes no guarantees regarding the continued availability, functionality, or compatibility of third-party services with the Zoth Platform. Zoth reserves the right to modify, suspend, or remove integrations with third-party services at any time without prior notice.\
+    5. Availability and Compatibility: Third-party services are subject to changes, updates, interruptions, or discontinuation by their respective providers, which are beyond the control of Zoth. Zoth makes no guarantees regarding the continued availability, functionality, or compatibility of third-party services with the Zoth Platform. Zoth reserves the right to modify, suspend, or remove integrations with third-party services at any time without prior notice.<br>
 
 
-
-15. **NO WARRANTIES**\
-
+15. **NO WARRANTIES**<br>
 
     1. Zoth provides its Platform and Services on an "as-is" and "as-available" basis without any warranties, representations, or guarantees, whether express or implied. To the fullest extent permitted by applicable law, Zoth expressly disclaims all implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, and completeness. Zoth makes no guarantees that the Platform or Services will meet your requirements, operate uninterrupted, or be free of errors. By using the Platform, you acknowledge and agree that your access and use are at your sole risk.
     2. While Zoth endeavors to maintain the availability and functionality of the Platform and Services, we do not warrant or guarantee that they will be uninterrupted, timely, secure, or error-free. There may be delays, failures, interruptions, or technical issues that could impact your experience. Zoth does not guarantee that any defects or issues will be identified or resolved within a specific timeframe and does not provide any assurance that such issues will be rectified. Maintenance, upgrades, or unforeseen technical difficulties may affect the availability or performance of the Platform or Services.
@@ -210,8 +198,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     4. In the event of disputes or disagreements related to the Platform, Services, or these Terms, Zoth’s management will have full discretion to interpret and enforce the Terms and resolve disputes. Zoth’s decisions in such matters shall be final and binding, and you agree to abide by such decisions. You further agree not to challenge or appeal Zoth’s decisions and to comply with any instructions or resolutions issued as part of the dispute resolution process.
 
 
-16. **INDEMNITY**\
-
+16. **INDEMNITY**<br>
 
     1. You agree to indemnify, defend, and hold harmless Zoth, its affiliates, subsidiaries, partners, officers, directors, employees, agents, licensors, service providers, and their respective officers, employees, and agents (collectively, the "Indemnified Parties") from and against any and all claims, actions, demands, losses, damages, liabilities, costs, or expenses, including reasonable attorneys' fees, legal costs, and settlement amounts, arising out of or in connection with:
        * Your Use of the Platform and Services: Any use or misuse of the Platform or Services provided by Zoth, including activities conducted through your Zoth account or through any accounts or platforms linked to your Zoth account.
@@ -223,8 +210,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     3. Survival of Obligations: Your indemnification obligations under this section are in addition to any other legal or equitable remedies available to Zoth. These obligations shall survive the termination, expiration, or suspension of these Terms, as well as your cessation of use of the Platform and Services.
 
 
-17. **LIMITATION OF LIABILITY**\
-
+17. **LIMITATION OF LIABILITY**<br>
 
     1. To the fullest extent permitted by applicable law, Zoth, its affiliates, subsidiaries, officers, directors, employees, agents, licensors, service providers, and their respective officers, employees, and agents (collectively, the "Zoth Parties") shall not be liable for any direct, indirect, incidental, special, consequential, punitive, or exemplary damages, including but not limited to damages for loss of profits, goodwill, data, breach, use, or other intangible losses, arising out of or resulting from:
        * Access and Use of the Platform and Services: Your access to, use of, or inability to access or use the Platform or Services provided by Zoth.
@@ -239,8 +225,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     2. Exclusions and Limitations: Nothing in these Terms shall exclude or limit Zoth’s liability for death or personal injury resulting from its negligence or any other liability that cannot be excluded or limited under applicable law. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the above limitations may not apply to you. If any portion of this limitation of liability is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 
-18. **PROHIBITED USES**\
-
+18. **PROHIBITED USES**<br>
 
     1. Personal Use: The Services provided by Zoth are intended solely for the User’s personal use. Users are permitted to use the Services only for personal purposes and are strictly prohibited from creating multiple accounts, including but not limited to activities involving collusion, exploitation, or abuse of the Services.
     2. Exploitation and Bugs: The Services are provided "as is," and any exploitation of the Services, including the manipulation of program logic or code (i.e., bugs), constitutes a prohibited use and a material breach of this Agreement. Any funds or benefits obtained through such exploitation will be considered invalid and immediately deemed the property of Zoth, without limitation.
@@ -252,8 +237,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
        **NOTICE TO PARENTS AND GUARDIANS**: By granting permission for a minor to access the Services, you agree to these Terms on behalf of the minor. You are responsible for supervising the minor’s online activities. If you do not agree to these Terms, you must not permit the minor to use the Services.
 
 
-19. **TERMINATION AND SUSPENSION**\
-
+19. **TERMINATION AND SUSPENSION**<br>
 
     1. Zoth reserves the right, at its sole discretion, to suspend, restrict, or terminate your access to the Services and the Platform, in whole or in part, at any time and without prior notice under the following circumstances:
        * You breach any of the provisions outlined in this Agreement.
@@ -276,14 +260,12 @@ in an individual capacity or on behalf of a company or other legal entity, you r
        * Zoth shall not be liable to you or any third party for termination-related consequences, including loss of data, assets, or other impacts.
 
 
-20. **NEGOTIATION**\
-
+20. **NEGOTIATION**<br>
 
     1. In the event of any dispute arising out of or relating to this Agreement, the parties agree to first attempt to resolve the dispute informally through good-faith negotiation. Either party may initiate negotiations by providing written notice via email to the other party, clearly stating the nature of the dispute. If the dispute cannot be resolved through negotiation within 30 days of the initiation of negotiations, the parties agree to submit the dispute in court as mentioned in the Governing Law clause.
 
 
-21. **GOVERNING LAW**\
-
+21. **GOVERNING LAW**<br>
 
     1. These Terms, as well as all disputes or claims arising out of or in connection with these Terms, their subject matter, or the activities of You or Zoth in connection with or contemplated by these Terms, including Your access to, use of, or receipt of products and Services (including any acts or omissions related thereto), shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles
     2. Any dispute, controversy, or claim arising out of or in connection with this Agreement, including any question regarding its existence, validity, interpretation, breach or termination, or the legal relationships established by this Agreement, shall be referred to and finally resolved by arbitration.
@@ -292,8 +274,7 @@ in an individual capacity or on behalf of a company or other legal entity, you r
     5. The arbitral award shall be final and binding on the Parties and may be enforced in any court of competent jurisdiction. Each Party shall bear its own costs of arbitration, and the costs of arbitration shall be borne equally, unless otherwise determined by the arbitral tribunal.
 
 
-22. **MISCELLANEOUS**\
-
+22. **MISCELLANEOUS**<br>
     1. &#x20;Entire Agreement: These Terms, along with any policies, guidelines, or documents that Zoth makes available through the Platform or Services, constitute the entire agreement between You and Zoth. They supersede all prior or contemporaneous agreements, communications, or arrangements, whether oral or written, regarding the Services.
     2. &#x20;Maintenance of Platform: Your access to and use of the Platform may occasionally be interrupted for reasons including, but not limited to, maintenance, updates, repairs, or upgrades conducted by Zoth. While we strive to notify users of scheduled maintenance when feasible, urgent maintenance may occur without prior notice. During such periods, certain features of the Services may be temporarily unavailable or limited. Zoth endeavors to minimize disruptions and will schedule maintenance during off-peak hours whenever possible to ensure optimal performance, security, and functionality of the Services.
     3. &#x20;Severability: If any provision of these Terms is found to be unlawful, invalid, or unenforceable, that provision shall be severable from these Terms and shall not affect the validity and enforceability of the remaining provisions, which shall remain in full force and effect.
@@ -308,9 +289,8 @@ in an individual capacity or on behalf of a company or other legal entity, you r
 
 
 
-\
+<br>
 
 
 
-
-\
+<br>
