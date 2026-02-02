@@ -2,8 +2,7 @@
 
 ## Getting Started
 
-* [Introduction](README.md)
-* [Overview](getting-started/overview.md)
+* [Overview](README.md)
 * [Why Zoth](getting-started/why-zoth.md)
 * [Our Values](getting-started/our-values.md)
 * [Zoth Protocol](getting-started/zoth-protocol/README.md)
