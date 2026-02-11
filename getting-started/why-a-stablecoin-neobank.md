@@ -20,4 +20,4 @@ A Stablecoin Neobank is the inevitable convergence of these essential components
 * automated treasury and liquidity routing
 * Embedded KYC/AML/KYB for secure integration and robust secondary market distribution for asset liquidity
 
-This turns Zoth into The Definitive Platform for Next-Generation Stablecoin Banking—the integrated financial stack where digital assets, compliant yield, and global payment rails seamlessly converge.
+This turns Zoth into The Definitive Platform for Next-Generation Stablecoin Banking, the integrated financial stack where digital assets, compliant yield, and global payment rails seamlessly converge.

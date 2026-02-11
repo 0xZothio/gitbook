@@ -2,9 +2,9 @@
 
 ### Unifying Yield, Payments, Cards and Compliance
 
-Zoth is building the nextgen Stablecoin Neobank - an integrated financial Infrastructure that unifies yield, payments, cards, liquidity, compliance, and security into a single, institution-grade platform.\
+Zoth is building a privacy-first stablecoin neobank ecosystem—an integrated financial infrastructure that unifies yield, payments, cards, liquidity, compliance, and security into a single, institution-grade platform.\
 \
-At the center of the ecosystem is ZEUSD, a Liquid Yield Asset engineered to deliver sustainable returns through diversified RWA and DeFi strategies, built on a transparent, compliant, and fully auditable framework.
+At the center of the ecosystem is ZeUSD, a Liquid Yield Asset engineered to deliver sustainable returns through diversified RWA and DeFi strategies, built on a transparent, compliant, and fully auditable framework.
 
 Zoth combines the ease of a neobank, the transparency of blockchain, and the performance of institutional-grade treasury solutions to create a complete next-generation financial layer for both retail and enterprise users, providing:
 

@@ -2,13 +2,13 @@
 
 The zTOKEN vault architecture achieves a careful balance between fund manager flexibility and investor protection through layered security mechanisms and clearly delineated control boundaries.
 
-### <mark style="color:$info;">Fund Manager Flexibility</mark>
+### Fund Manager Flexibility
 
 Fund managers operate with substantial discretion within their vault's mandate. Managers can freely adjust tactical allocations, select specific protocols or counterparties, modify position sizing, and adapt strategies to evolving market conditions without requiring governance approval or protocol-level permission. This operational latitude enables professional managers to respond dynamically to opportunities and risks, replicating the agility of traditional hedge funds and asset managers.
 
 Managers maintain complete control over investment execution across the full spectrum of blockchain ecosystems. Strategies can span any DeFi protocol, operate on any supported blockchain network, and trade any token asset, whether established cryptocurrencies, emerging altcoins, or tokenized real-world assets. This unrestricted access to the global digital asset opportunity set maximizes the potential for alpha generation while maintaining protocol-level risk oversight.
 
-### <mark style="color:$info;">Protocol-Level Security Controls</mark>
+### Protocol-Level Security Controls
 
 While fund managers exercise broad operational discretion, the protocol implements multiple layers of security controls that operate independently of manager actions:
 
@@ -18,7 +18,7 @@ Vault contracts implement both blacklist and whitelist functionality, enabling t
 
 All vault participants must complete Know Your Customer (KYC) verification before directly depositing into individual zTOKEN vaults, ensuring compliance with applicable securities regulations and creating audit trails for regulatory reporting. This permissioned access model for direct vault participation contrasts with ZEUSD, which allows permissionless deposits for users seeking diversified exposure without direct fund participation.
 
-### <mark style="color:$info;">Liquidity Management and Redemption Safeguards</mark>
+### Liquidity Management and Redemption Safeguards
 
 zTOKEN vaults implement a tiered liquidity architecture designed to accommodate both routine redemptions and larger withdrawal requests without forcing destabilizing liquidations. Each vault maintains an instant withdrawal buffer held in liquid stablecoin assets, enabling immediate redemptions for smaller withdrawal amounts without impacting deployed strategy positions.
 
@@ -26,7 +26,7 @@ For withdrawal requests exceeding the instant buffer capacity, fund managers are
 
 Fund managers bear contractual liability for meeting liquidity obligations within specified timeframes, creating strong economic incentives for prudent liquidity risk management and appropriate buffer maintenance.
 
-### <mark style="color:$info;">Audit and Monitoring Infrastructure</mark>
+### Audit and Monitoring Infrastructure
 
 Security assurance for zTOKEN vaults operates across multiple dimensions:
 
@@ -36,7 +36,7 @@ Beyond pre-deployment audits, the protocol implements continuous monitoring syst
 
 The protocol employs artificial intelligence-based transaction analysis to detect potentially malicious transactions before execution. This proactive security layer examines transaction patterns, counterparty relationships, and fund flow dynamics to identify and block suspicious activity, providing defense-in-depth beyond static contract security.
 
-### <mark style="color:$info;">Governance and Emergency Authority</mark>
+### Governance and Emergency Authority
 
 Control over vault parameters and operational boundaries is carefully allocated between fund manager discretion, token holder governance, and Foundation emergency authority:
 
@@ -46,9 +46,6 @@ ZOTH token holders exercise governance authority over systemic parameters affect
 
 The Zoth Foundation retains emergency executive authority to take immediate action in response to security threats, regulatory requirements, or operational crises. This includes the ability to pause contracts, modify risk parameters, or intervene in fund operations when necessary to protect investor capital or ensure protocol stability. Such emergency powers are designed for exceptional circumstances and are subject to post-action governance review to maintain accountability.
 
-### <mark style="color:$info;">Upgradeability and Evolution</mark>
+### Upgradeability and Evolution
 
-The upgradeable nature of zTOKEN vault contracts, with upgrade authority restricted to the Zoth Foundation, enables the protocol to incorporate security improvements, optimize gas efficiency, and adapt to evolving best practices without disrupting live vaults or requiring user migrations. This controlled upgradeability model balances the immutability benefits of blockchain technology with the practical necessity of maintaining current security standards in a rapidly evolving technological landscape.\
-<br>
-
-<br>
+The upgradeable nature of zTOKEN vault contracts, with upgrade authority restricted to the Zoth Foundation, enables the protocol to incorporate security improvements, optimize gas efficiency, and adapt to evolving best practices without disrupting live vaults or requiring user migrations. This controlled upgradeability model balances the immutability benefits of blockchain technology with the practical necessity of maintaining current security standards in a rapidly evolving technological landscape.

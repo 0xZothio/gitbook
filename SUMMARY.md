@@ -27,8 +27,8 @@
 
 ## ZEUSD: Liquid Yield assets
 
-* [What is ZEUSD?](zeusd-liquid-yield-assets/what-is-zeusd.md)
-* [How ZEUSD Generates Yield](zeusd-liquid-yield-assets/how-zeusd-generates-yield.md)
+* [What is ZeUSD?](zeusd-liquid-yield-assets/what-is-zeusd.md)
+* [How ZeUSD Generates Yield](zeusd-liquid-yield-assets/how-zeusd-generates-yield.md)
 * [Why Yield is Sustainable, Not Ponzi](zeusd-liquid-yield-assets/why-yield-is-sustainable-not-ponzi.md)
 * [Why Yield is Sustainable, Not Ponzi](zeusd-liquid-yield-assets/why-yield-is-sustainable-not-ponzi-1.md)
 * [Minting & Redemption Flows](zeusd-liquid-yield-assets/minting-and-redemption-flows.md)

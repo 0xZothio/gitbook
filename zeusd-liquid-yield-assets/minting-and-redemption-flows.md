@@ -1,12 +1,12 @@
 # Minting & Redemption Flows
 
-Minting Process
+### Minting Process
 
 Users can mint ZEUSD at any time without restriction or delay. Upon deposit of accepted collateral (typically stablecoins), the allocator contract automatically distributes the incoming capital to appropriate vaults according to current governance-approved allocation weights. This automated distribution ensures that new deposits immediately begin generating yield and that the protocol's overall allocation remains consistent with established risk parameters.
 
 The minting process occurs on-chain in a single transaction, with users receiving ZEUSD tokens that immediately begin accruing value based on the aggregate performance of underlying vaults. There are no minimum deposit requirements, lock-up periods, or minting fees beyond standard blockchain transaction costs.
 
-Redemption Process
+### Redemption Process
 
 ZEUSD redemptions operate through a two-tier system designed to balance immediate liquidity with capital efficiency. Under normal operating conditions, users can redeem ZEUSD at any time, receiving stablecoins from the liquidity buffer in atomic transactions. This instant redemption capability ensures that ZEUSD maintains functional parity with traditional stablecoins during routine operations.
 
