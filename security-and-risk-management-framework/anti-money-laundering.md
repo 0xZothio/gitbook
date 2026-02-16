@@ -1,10 +1,10 @@
 ---
-description: Anti-Money Laundering Policy and Counter-Terrorist Financing (CTF) Compliance
+description: >-
+  Introduction Anti-Money Laundering Policy and Counter-Terrorist Financing
+  (CTF) Compliance
 ---
 
 # Anti-Money Laundering
-
-### **Introduction**
 
 Zoth is committed to the highest anti-money laundering (AML) and counter-terrorist financing (CTF) compliance standards. We understand the importance of preventing our business from being used to launder money or finance terrorist activities.
 

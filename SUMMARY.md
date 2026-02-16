@@ -45,6 +45,8 @@
   * [Terms of Use](security-and-risk-management-framework/governance-risks/terms-of-use.md)
 * [Legal and Regulatory Risks](security-and-risk-management-framework/legal-and-regulatory-risks.md)
 * [User Responsibilities and Risk Disclosure](security-and-risk-management-framework/user-responsibilities-and-risk-disclosure.md)
+* [Terms of Use](security-and-risk-management-framework/terms-of-use.md)
+* [Anti-Money Laundering](security-and-risk-management-framework/anti-money-laundering.md)
 
 ## &#x20;Zocta: Universal Loyalty Engine
 
@@ -63,10 +65,6 @@
 
 * [Roadmap](roadmap/roadmap.md)
 * [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
-
-## LEGAL
-
-* [Anti-Money Laundering](legal/anti-money-laundering.md)
 
 ## RESOURCES
 
@@ -125,19 +123,19 @@
 
 ## LEGAL
 
-* [ZTLN-P](legal-1/ztln-p/README.md)
-  * [Legal Disclaimer](legal-1/ztln-p/legal-disclaimer.md)
-  * [Terms of Use](legal-1/ztln-p/terms-of-use.md)
-  * [Privacy Policy](legal-1/ztln-p/privacy-policy.md)
-* [ZSTF](legal-1/zstf/README.md)
-  * [Onboarding Disclaimer](legal-1/zstf/onboarding-disclaimer.md)
-  * [Legal FAQs](legal-1/zstf/readme.md)
-* [Anti-Money Laundering Policy](legal-1/anti-money-laundering-policy.md)
-* [Privacy Policy](legal-1/privacy-policy.md)
-* [Terms of Use](legal-1/terms-of-use.md)
-* [Risk Disclosure](legal-1/risk-disclosure.md)
-* [ZeUSD](legal-1/zeusd/README.md)
-  * [Terms and Conditions](legal-1/zeusd/terms-and-conditions.md)
+* [ZTLN-P](legal/ztln-p/README.md)
+  * [Legal Disclaimer](legal/ztln-p/legal-disclaimer.md)
+  * [Terms of Use](legal/ztln-p/terms-of-use.md)
+  * [Privacy Policy](legal/ztln-p/privacy-policy.md)
+* [ZSTF](legal/zstf/README.md)
+  * [Onboarding Disclaimer](legal/zstf/onboarding-disclaimer.md)
+  * [Legal FAQs](legal/zstf/readme.md)
+* [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [Terms of Use](legal/terms-of-use.md)
+* [Risk Disclosure](legal/risk-disclosure.md)
+* [ZeUSD](legal/zeusd/README.md)
+  * [Terms and Conditions](legal/zeusd/terms-and-conditions.md)
 
 ## Resources
 
