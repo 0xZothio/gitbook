@@ -1,6 +1,14 @@
 ---
+cover: >-
+  .gitbook/assets/Intro - The first full stack Stablecoin OS to redefine
+  finance.png
+coverY: 0
+coverHeight: 391
 layout:
   width: default
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
