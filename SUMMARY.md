@@ -16,7 +16,7 @@
 * [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
 * [Layer 1: FAAST](the-hierarchical-architecture/layer-1-faast.md)
 * [Layer 2: zToken Vaults](the-hierarchical-architecture/layer-2-ztoken-vaults.md)
-* [Layer 3: ZEUSD](the-hierarchical-architecture/layer-3-zeusd.md)
+* [Layer 3: USDZe](the-hierarchical-architecture/layer-3-usdze.md)
 * [Layer 4: Stablecoin Neobank](the-hierarchical-architecture/layer-4-stablecoin-neobank.md)
 
 ## zTOKEN Vaults
@@ -25,12 +25,12 @@
 * [Architecture of zTOKEN Vaults](ztoken-vaults/architecture-of-ztoken-vaults.md)
 * [Flexibility and Security of zTOKEN Vaults](ztoken-vaults/flexibility-and-security-of-ztoken-vaults.md)
 
-## ZEUSD: Liquid Yield assets
+## USDZe: Liquid Yield assets
 
-* [What is ZeUSD?](zeusd-liquid-yield-assets/what-is-zeusd.md)
-* [How ZeUSD Generates Yield](zeusd-liquid-yield-assets/how-zeusd-generates-yield.md)
-* [Why Yield is Sustainable, Not Ponzi](zeusd-liquid-yield-assets/why-yield-is-sustainable-not-ponzi.md)
-* [Minting & Redemption Flows](zeusd-liquid-yield-assets/minting-and-redemption-flows.md)
+* [What is USDZe?](usdze-liquid-yield-assets/what-is-usdze.md)
+* [How USDZe Generates Yield](usdze-liquid-yield-assets/how-usdze-generates-yield.md)
+* [Why Yield is Sustainable, Not Ponzi](usdze-liquid-yield-assets/why-yield-is-sustainable-not-ponzi.md)
+* [Minting & Redemption Flows](usdze-liquid-yield-assets/minting-and-redemption-flows.md)
 
 ## Security and Risk Management Framework
 

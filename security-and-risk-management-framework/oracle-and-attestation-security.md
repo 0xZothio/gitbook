@@ -2,7 +2,7 @@
 
 #### <mark style="color:$info;">Decentralized Attestation Network</mark>
 
-ZEUSD's value depends critically on accurate NAV reporting from the decentralized attestation network. To ensure oracle integrity, the protocol implements multiple security layers around the attestation process:
+USDZe's value depends critically on accurate NAV reporting from the decentralized attestation network. To ensure oracle integrity, the protocol implements multiple security layers around the attestation process:
 
 Each zTOKEN vault has a designated fund administrator who serves as the primary attestor, independently calculating and verifying vault NAV based on direct access to portfolio positions and pricing sources. These fund administrators are regulated entities subject to industry oversight and professional standards, importing traditional fund industry accountability mechanisms into the blockchain environment.
 

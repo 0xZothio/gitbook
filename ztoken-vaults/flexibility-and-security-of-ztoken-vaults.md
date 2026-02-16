@@ -16,7 +16,7 @@ All vault contracts incorporate emergency pause functionality, allowing the Zoth
 
 Vault contracts implement both blacklist and whitelist functionality, enabling the protocol to restrict interactions with addresses identified as malicious or to limit participation to verified counterparties as required by specific vault strategies or regulatory requirements. These access control mechanisms support compliance with sanctions regimes and anti-money laundering requirements while preventing protocol interaction with known bad actors.
 
-All vault participants must complete Know Your Customer (KYC) verification before directly depositing into individual zTOKEN vaults, ensuring compliance with applicable securities regulations and creating audit trails for regulatory reporting. This permissioned access model for direct vault participation contrasts with ZEUSD, which allows permissionless deposits for users seeking diversified exposure without direct fund participation.
+All vault participants must complete Know Your Customer (KYC) verification before directly depositing into individual zTOKEN vaults, ensuring compliance with applicable securities regulations and creating audit trails for regulatory reporting. This permissioned access model for direct vault participation contrasts with USDZe, which allows permissionless deposits for users seeking diversified exposure without direct fund participation.
 
 ### Liquidity Management and Redemption Safeguards
 
@@ -42,7 +42,7 @@ Control over vault parameters and operational boundaries is carefully allocated 
 
 Fund managers retain unilateral control over all investment decisions within their stated strategy mandate, including asset selection, position sizing, protocol selection, and tactical rebalancing.
 
-ZOTH token holders exercise governance authority over systemic parameters affecting the broader protocol, including allocation weights for ZEUSD's distribution across underlying zTOKEN vaults and deposit/withdrawal limits that affect protocol-wide liquidity and risk exposure.
+ZOTH token holders exercise governance authority over systemic parameters affecting the broader protocol, including allocation weights for USDZe's distribution across underlying zTOKEN vaults and deposit/withdrawal limits that affect protocol-wide liquidity and risk exposure.
 
 The Zoth Foundation retains emergency executive authority to take immediate action in response to security threats, regulatory requirements, or operational crises. This includes the ability to pause contracts, modify risk parameters, or intervene in fund operations when necessary to protect investor capital or ensure protocol stability. Such emergency powers are designed for exceptional circumstances and are subject to post-action governance review to maintain accountability.
 

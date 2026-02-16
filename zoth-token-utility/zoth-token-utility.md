@@ -6,7 +6,7 @@ Participation in Protocol Governance: $ZOTH holders are granted voting rights on
 
 #### Enhanced Yield and Incentives
 
-Enhanced Yield and Rewards via Staking and Loyalty Integrations: Staking $ZOTH provides users with opportunities for enhanced yield on other Zoth products, such as higher interest rates on Liquid Yield assets holdings (ZEUSD) or reduced transaction fees. The token is central to loyalty programs designed to reward active and long-term participation in the Zoth network.
+Enhanced Yield and Rewards via Staking and Loyalty Integrations: Staking $ZOTH provides users with opportunities for enhanced yield on other Zoth products, such as higher interest rates on Liquid Yield assets holdings (USDZe) or reduced transaction fees. The token is central to loyalty programs designed to reward active and long-term participation in the Zoth network.
 
 #### Value Accrual and Sustainability
 

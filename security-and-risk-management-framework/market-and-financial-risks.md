@@ -8,11 +8,11 @@ Unlike protocols with algorithmic strategy execution or hard-coded investment ru
 
 Users should conduct appropriate due diligence on individual vault strategies, manager track records, and risk profiles before allocating capital. Direct zTOKEN vault investment requires KYC, creating an accredited or sophisticated investor framework where participants are expected to understand and accept manager-specific risks.
 
-#### Diversification Through ZEUSD
+#### Diversification Through USDZe
 
-For users seeking to mitigate individual vault and manager risks, ZEUSD provides diversification across multiple underlying strategies and fund managers. The governance-determined allocation weights spread capital across RWA and DeFi vaults, reducing concentration risk and dampening the impact of any single vault's underperformance or failure.
+For users seeking to mitigate individual vault and manager risks, USDZe provides diversification across multiple underlying strategies and fund managers. The governance-determined allocation weights spread capital across RWA and DeFi vaults, reducing concentration risk and dampening the impact of any single vault's underperformance or failure.
 
-However, ZEUSD diversification does not eliminate systemic risks affecting multiple vaults simultaneously. Market-wide disruptions, regulatory changes, or protocol-level failures can impact ZEUSD value even with diversified underlying holdings. Additionally, while allocation weights are set through governance, the protocol does not enforce maximum concentration limits, meaning governance could theoretically allocate excessive capital to single vaults or correlated strategies.
+However, USDZe diversification does not eliminate systemic risks affecting multiple vaults simultaneously. Market-wide disruptions, regulatory changes, or protocol-level failures can impact USDZe value even with diversified underlying holdings. Additionally, while allocation weights are set through governance, the protocol does not enforce maximum concentration limits, meaning governance could theoretically allocate excessive capital to single vaults or correlated strategies.
 
 #### Stress Testing and Scenario Analysis
 

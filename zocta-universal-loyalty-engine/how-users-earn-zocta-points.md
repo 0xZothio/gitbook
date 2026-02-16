@@ -2,7 +2,7 @@
 
 &#x20;Users accumulate Zocta Points by performing high-value, ecosystem-positive actions, including:
 
-* Holding, using, or transacting with ZEUSD
+* Holding, using, or transacting with USDZe
 * Spending through Zoth Cards
 * On-ramping, off-ramping, and cross-border payment activity
 * Referrals, account milestones, and verified partner activity
