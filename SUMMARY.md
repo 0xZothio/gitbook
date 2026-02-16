@@ -41,7 +41,8 @@
 * [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
 * [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
 * [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
-* [Governance Risks](security-and-risk-management-framework/governance-risks.md)
+* [Governance Risks](security-and-risk-management-framework/governance-risks/README.md)
+  * [Terms of Use](security-and-risk-management-framework/governance-risks/terms-of-use.md)
 * [Legal and Regulatory Risks](security-and-risk-management-framework/legal-and-regulatory-risks.md)
 * [User Responsibilities and Risk Disclosure](security-and-risk-management-framework/user-responsibilities-and-risk-disclosure.md)
 
@@ -52,16 +53,25 @@
 
 ## Zoth Token Utility&#x20;
 
-* [Zoth Token Utility](zoth-token-utility/zoth-token-utility.md)
+* [$ZOTH Utility](zoth-token-utility/usdzoth-utility.md)
 
 ## Security architecture
 
-* [Security architecture](security-architecture/security-architecture.md)
+* [Zoth’s Multi-Layered Security Architecture](security-architecture/zoths-multi-layered-security-architecture.md)
 
 ## Roadmap&#x20;
 
 * [Roadmap](roadmap/roadmap.md)
 * [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
+
+## LEGAL
+
+* [Anti-Money Laundering](legal/anti-money-laundering.md)
+
+## RESOURCES
+
+* [Brand Assets](resources/brand-assets.md)
+* [Official Links](resources/official-links.md)
 
 ## Getting Started
 
@@ -115,25 +125,25 @@
 
 ## LEGAL
 
-* [ZTLN-P](legal/ztln-p/README.md)
-  * [Legal Disclaimer](legal/ztln-p/legal-disclaimer.md)
-  * [Terms of Use](legal/ztln-p/terms-of-use.md)
-  * [Privacy Policy](legal/ztln-p/privacy-policy.md)
-* [ZSTF](legal/zstf/README.md)
-  * [Onboarding Disclaimer](legal/zstf/onboarding-disclaimer.md)
-  * [Legal FAQs](legal/zstf/readme.md)
-* [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Use](legal/terms-of-use.md)
-* [Risk Disclosure](legal/risk-disclosure.md)
-* [ZeUSD](legal/zeusd/README.md)
-  * [Terms and Conditions](legal/zeusd/terms-and-conditions.md)
+* [ZTLN-P](legal-1/ztln-p/README.md)
+  * [Legal Disclaimer](legal-1/ztln-p/legal-disclaimer.md)
+  * [Terms of Use](legal-1/ztln-p/terms-of-use.md)
+  * [Privacy Policy](legal-1/ztln-p/privacy-policy.md)
+* [ZSTF](legal-1/zstf/README.md)
+  * [Onboarding Disclaimer](legal-1/zstf/onboarding-disclaimer.md)
+  * [Legal FAQs](legal-1/zstf/readme.md)
+* [Anti-Money Laundering Policy](legal-1/anti-money-laundering-policy.md)
+* [Privacy Policy](legal-1/privacy-policy.md)
+* [Terms of Use](legal-1/terms-of-use.md)
+* [Risk Disclosure](legal-1/risk-disclosure.md)
+* [ZeUSD](legal-1/zeusd/README.md)
+  * [Terms and Conditions](legal-1/zeusd/terms-and-conditions.md)
 
 ## Resources
 
-* [Brand Assets](resources/brand-assets.md)
-* [Official links](resources/official-links.md)
-* [Audits](resources/audits.md)
-* [ZeUSD Risks and Mitigation Strategies](resources/zeusd-risks-and-mitigation-strategies/README.md)
-  * [Zoth Security Framework](resources/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
-* [Onchain Data](resources/onchain-data.md)
+* [Brand Assets](resources-1/brand-assets.md)
+* [Official links](resources-1/official-links.md)
+* [Audits](resources-1/audits.md)
+* [ZeUSD Risks and Mitigation Strategies](resources-1/zeusd-risks-and-mitigation-strategies/README.md)
+  * [Zoth Security Framework](resources-1/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
+* [Onchain Data](resources-1/onchain-data.md)
