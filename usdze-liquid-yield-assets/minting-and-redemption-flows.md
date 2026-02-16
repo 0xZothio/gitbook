@@ -15,3 +15,5 @@ When redemption requests exceed available liquidity buffer capacity, the protoco
 Fund managers bear contractual liability for meeting T+2 settlement obligations. Failure to provide committed liquidity within the specified timeframe exposes fund managers to potential penalties and governance actions, creating strong incentives for maintaining appropriate liquidity levels and risk management practices.
 
 The redemption value of USDZe is determined by oracle-reported vault NAVs, updated biweekly, ensuring that users receive fair value reflecting the current aggregate value of underlying positions. Yield accrues through appreciation of USDZe's value rather than through rebasing or separate claim mechanisms, meaning that yield is automatically compounded into the token's redemption value based on attestor-verified vault performance.
+
+<figure><img src="../.gitbook/assets/Instant deposit and redemption flow.png" alt=""><figcaption></figcaption></figure>
