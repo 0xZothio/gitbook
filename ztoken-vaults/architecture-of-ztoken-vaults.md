@@ -10,7 +10,7 @@ Vault contracts implement upgradeable proxy patterns, enabling protocol improvem
 
 ### Vault Creation and Onboarding
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 zTOKEN vault creation follows a permissioned process requiring comprehensive Know Your Business (KYB) verification and compliance screening. The onboarding pathway accommodates fund managers across the operational maturity spectrum:
 

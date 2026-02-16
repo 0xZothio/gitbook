@@ -11,12 +11,12 @@ zTOKEN vaults are strategy-specific investment vehicles, with each vault typical
 * Private Credit  Lending Vaults: Direct credit facilities and structured lending arrangements
 * Geographic-Specific Vaults: Funds focused on particular jurisdictions or regional opportunities
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 ※ Vaults based on single strategy and risk tier. Not a mixed strategy and risk tier. Risk-Tier Vaults: Categorized by risk profile (conservative, moderate, aggressive) to accommodate diverse investor preferences
 
 * Single-Strategy Vaults: Highly specialized funds executing discrete strategies within narrow mandates
 
 While fund managers maintain complete operational control over their strategy execution and can deploy capital across any DeFi protocol, blockchain network, or token asset, most vaults concentrate on singular or closely related investment domains to maintain strategic coherence and operational efficiency.
 
-The zTOKEN vault ecosystem forms the yield-generating substrate for higher-level protocol products. Notably, USDZe, the protocol's flagship Liquid Yield Token—is itself structured as a vault that allocates capital across multiple underlying zTOKEN vaults according to governance-determined weights. This hierarchical architecture allows USDZe to offer diversified, risk-adjusted yield while individual zTOKEN vaults provide specialized exposure for investors seeking targeted strategies.
+The zTOKEN vault ecosystem forms the yield-generating substrate for higher-level protocol products. Notably, USDZe, the protocol's flagship Liquid Yield Token—is itself structured as a vault that allocates capital across multiple underlying zTOKEN vaults according to governance-determined weights. This hierarchical architecture allows USDZe to offer diversified, risk-adjusted yield while individual zTOKEN vaults provide specialized exposure for investors seeking targeted strategies.<br>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

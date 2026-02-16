@@ -6,6 +6,6 @@ The protocol is engineered for zero-slippage transactions, as the value of USDZe
 
 The oracle infrastructure operates through a decentralized attestation network where off-chain fund attestors provide consensus on USDZe's price. Attestations occur biweekly (twice per week), ensuring that the on-chain price reflects current underlying asset values with minimal latency. Each vault contributing to USDZe's backing has a designated attestor, supplemented by an additional independent attestor to enhance verification integrity. This multi-party attestation model creates accountability while maintaining operational efficiency.
 
-To ensure attestation accuracy, attestors bear financial liability for any losses resulting from incorrect price reporting. Additionally, ZOTH token holders retain governance rights to challenge attestations they believe to be inaccurate, creating a checks-and-balances system that protects the protocol and its users from potential malfeasance or error.
+To ensure attestation accuracy, attestors bear financial liability for any losses resulting from incorrect price reporting. Additionally, ZOTH token holders retain governance rights to challenge attestations they believe to be inaccurate, creating a checks-and-balances system that protects the protocol and its users from potential malfeasance or error.<br>
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
