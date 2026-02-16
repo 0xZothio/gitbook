@@ -1,11 +1,6 @@
 ---
-cover: .gitbook/assets/Frame 2147227098.png
-coverY: 0
 layout:
   width: default
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
