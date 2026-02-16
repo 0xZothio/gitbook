@@ -1,25 +1,28 @@
 # Zoth’s Long-Term Mission
 
-### &#x20;Building an Economic Engine for Emerging Markets&#xD;<br>
+### Building an Economic Engine for Emerging Markets & the Agentic Economy
 
-Most global financial innovation historically ignores emerging markets, despite contributing over $1.2 trillion in annual remittances and rapidly growing digital economies.\
-These markets face persistent problems:
+Most global financial innovation historically overlooks emerging markets, despite contributing over $1.2 trillion in annual remittances and rapidly expanding digital economies.
+
+These markets continue to face structural challenges:
 
 * slow and expensive cross-border payments
-* low or inaccessible yield opportunities
-* reliance on informal FX channels
-* limited access to institutional-grade financial tools
+* limited access to stable, yield-generating dollar products
+* reliance on informal or fragmented FX channels
+* restricted access to institutional-grade financial infrastructure
 
-Zoth’s long-term vision is to build a stablecoin-powered economic engine that empowers emerging markets with:
+Zoth’s long-term vision is to build a privacy-first, stablecoin-powered economic engine designed for both the Global South and the emerging Agentic Economy, where individuals, businesses, and AI-driven agents transact seamlessly across borders.
 
-* high-yield digital dollars&#x20;
-* Global Business Payment Infrastructure&#x20;
-* global spending access&#x20;
+Zoth empowers users with:
+
+* high-yield digital dollars
+* global business payment infrastructure
+* programmable money for human and agent-driven transactions
+* global spending access
 * compliant and transparent financial rails
-* enterprise-grade tokenization infrastructure&#x20;
+* enterprise-grade tokenization infrastructure
 
-Zoth integrates these components for both retail and institutional users, unifying Yield, Payments, Cards, Institutional-grade Security, and Compliance into a single, seamless platform.
+By integrating yield, payments, cards, institutional-grade security, compliance, and programmable financial logic into a unified platform, Zoth enables capital to move efficiently between people, businesses, and autonomous systems.
 
-Over the next decade, Zoth aims to become the primary infrastructure layer for money movement and yield in emerging economies.
+Over the next decade, Zoth aims to become the foundational infrastructure layer for money movement, yield generation, and programmable finance across emerging economies and the agent-powered digital landscape.
 
-<br>
