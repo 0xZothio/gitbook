@@ -2,7 +2,7 @@
 
 USDZe generates sustainable yield through a diversified allocation strategy spanning both real-world assets (RWA) and decentralized finance protocols. This dual-approach architecture maximizes risk-adjusted returns while maintaining appropriate diversification across asset classes and yield generation mechanisms.
 
-#### Real-World Asset (RWA) Strategy
+### Real-World Asset (RWA) Strategy
 
 The RWA component of USDZe's backing encompasses tokenized exposure to traditional financial instruments and commodities. This includes allocations to physical gold, secured credit lines, equity positions, and other institutional-grade assets. These RWA integrations provide stable, predictable yield streams that are uncorrelated with crypto-native volatility, serving as a stabilizing foundation for the protocol's overall yield profile.
 
@@ -10,7 +10,7 @@ The RWA component of USDZe's backing encompasses tokenized exposure to tradition
 
 The DeFi component leverages on-chain protocols to generate additional yield through multiple mechanisms. Strategies include providing liquidity to decentralized exchanges, writing covered options, lending assets through money markets, and capturing funding rates in perpetual futures markets. This DeFi allocation captures opportunities unique to blockchain-based finance while maintaining risk management protocols appropriate to each strategy type.
 
-#### Risk-Weighted Optimization via Allocator
+### Risk-Weighted Optimization via Allocator
 
 Capital deposited into USDZe is managed through a risk-weighted allocator contract that determines the distribution of funds across individual yield-generating vaults. The aggregate net asset value (NAV) of these constituent vaults determines the current value of USDZe. This modular architecture allows the protocol to optimize yield generation while maintaining granular risk management at the vault level.
 

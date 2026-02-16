@@ -13,7 +13,7 @@ These markets continue to face structural challenges:
 
 Zoth’s long-term vision is to build a privacy-first, stablecoin-powered economic engine designed for both the Global South and the emerging Agentic Economy, where individuals, businesses, and AI-driven agents transact seamlessly across borders.
 
-Zoth empowers users with:
+#### Zoth empowers users with:
 
 * high-yield digital dollars
 * global business payment infrastructure

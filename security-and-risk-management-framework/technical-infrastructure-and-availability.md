@@ -1,12 +1,12 @@
 # Technical Infrastructure and Availability
 
-#### Multi-Chain Deployment
+### Multi-Chain Deployment
 
 Zoth initially deploys on Base and Ethereum, with technical architecture designed for rapid expansion to additional EVM-compatible blockchains as user demand and strategic opportunities emerge. This multi-chain capability provides operational flexibility and reduces concentration risk on single blockchain networks.
 
 The protocol's versatile infrastructure allows deployment to new EVM chains with minimal development effort, enabling quick response to evolving blockchain adoption patterns, fee structures, and user preferences. However, each new chain deployment introduces integration risks and requires security validation of chain-specific components before production use.
 
-#### Infrastructure Monitoring and Resilience
+### Infrastructure Monitoring and Resilience
 
 Backend infrastructure implements load balancing across distributed servers to maintain performance and availability during high-traffic periods. This horizontal scaling capability ensures that the platform remains responsive even when transaction volumes surge during periods of market volatility or viral user adoption.
 

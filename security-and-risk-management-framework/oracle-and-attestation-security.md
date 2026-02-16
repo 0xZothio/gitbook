@@ -1,6 +1,6 @@
 # Oracle and Attestation Security
 
-#### <mark style="color:$info;">Decentralized Attestation Network</mark>
+### Decentralized Attestation Network
 
 USDZe's value depends critically on accurate NAV reporting from the decentralized attestation network. To ensure oracle integrity, the protocol implements multiple security layers around the attestation process:
 
@@ -14,7 +14,7 @@ Attestors bear direct financial liability for losses resulting from incorrect NA
 
 Beyond direct attestor liability, ZOTH token holders retain governance rights to challenge NAV attestations they believe to be inaccurate. This community oversight layer adds a third verification mechanism, enabling distributed stakeholders to identify and contest suspicious attestations before they impact users. Successful governance challenges can trigger attestor penalties and forced NAV corrections, creating accountability beyond bilateral contractual relationships.
 
-#### <mark style="color:$info;">Fallback Mechanisms and Tolerance Bounds</mark>
+### Fallback Mechanisms and Tolerance Bounds
 
 NAV updates can only be submitted through authorized off-chain calls by fund administrators or the Zoth entity, with multiple validation checks preventing unauthorized oracle manipulation. The system implements tolerance bounds that define acceptable ranges for NAV updates based on historical volatility and expected return distributions. Updates falling outside tolerance bounds are automatically flagged for manual review before acceptance.
 
