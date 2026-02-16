@@ -8,4 +8,6 @@
 * Referrals, account milestones, and verified partner activity
 * Maintaining consistent usage and activity streaks over time
 
-Together, Zocta Points act as the connective tissue across the Zoth ecosystem —aligning user behavior with platform growth while creating a durable, engagement-driven loyalty layer across the ecosystem.
+Together, Zocta Points act as the connective tissue across the Zoth ecosystem —aligning user behavior with platform growth while creating a durable, engagement-driven loyalty layer across the ecosystem.<br>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

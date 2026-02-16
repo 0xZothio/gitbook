@@ -19,4 +19,4 @@ While fund managers maintain complete operational control over their strategy ex
 
 The zTOKEN vault ecosystem forms the yield-generating substrate for higher-level protocol products. Notably, USDZe, the protocol's flagship Liquid Yield Token—is itself structured as a vault that allocates capital across multiple underlying zTOKEN vaults according to governance-determined weights. This hierarchical architecture allows USDZe to offer diversified, risk-adjusted yield while individual zTOKEN vaults provide specialized exposure for investors seeking targeted strategies.<br>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
