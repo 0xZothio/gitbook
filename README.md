@@ -19,7 +19,7 @@ layout:
 
 # The Zoth Ecosystem
 
-### Unifying Yield, Payments, Cards, and Compliance
+### Unifying Yield, Payments, Cards, Compliance and Agentic Infrastructure
 
 Zoth is building a privacy-first stablecoin neobank for the Global South and the emerging Agentic Economy, an integrated financial infrastructure that unifies yield, payments, cards, liquidity, compliance, and security into a single, institution-grade platform.
 
