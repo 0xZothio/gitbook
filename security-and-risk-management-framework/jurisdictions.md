@@ -1,7 +1,5 @@
 # Jurisdictions
 
-## zVault & zOPAL - Available Jurisdictions
-
 #### Are zVault & zOPAL available everywhere?
 
 No, zVaults & zOPAL are not available to:
