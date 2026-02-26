@@ -1,6 +1,6 @@
-# Flexibility and Security of zTOKEN Vaults
+# Flexibility and Security of zVaults
 
-The zTOKEN vault architecture achieves a careful balance between fund manager flexibility and investor protection through layered security mechanisms and clearly delineated control boundaries.
+The zVaults architecture achieves a careful balance between fund manager flexibility and investor protection through layered security mechanisms and clearly delineated control boundaries.
 
 ### Fund Manager Flexibility
 
@@ -16,11 +16,11 @@ All vault contracts incorporate emergency pause functionality, allowing the Zoth
 
 Vault contracts implement both blacklist and whitelist functionality, enabling the protocol to restrict interactions with addresses identified as malicious or to limit participation to verified counterparties as required by specific vault strategies or regulatory requirements. These access control mechanisms support compliance with sanctions regimes and anti-money laundering requirements while preventing protocol interaction with known bad actors.
 
-All vault participants must complete Know Your Customer (KYC) verification before directly depositing into individual zTOKEN vaults, ensuring compliance with applicable securities regulations and creating audit trails for regulatory reporting. This permissioned access model for direct vault participation contrasts with USDZe, which allows permissionless deposits for users seeking diversified exposure without direct fund participation.
+All vault participants must complete Know Your Customer (KYC) verification before directly depositing into individual zVaults, ensuring compliance with applicable securities regulations and creating audit trails for regulatory reporting. This permissioned access model for direct vault participation contrasts with USDZe, which allows permissionless deposits for users seeking diversified exposure without direct fund participation.
 
 ### Liquidity Management and Redemption Safeguards
 
-zTOKEN vaults implement a tiered liquidity architecture designed to accommodate both routine redemptions and larger withdrawal requests without forcing destabilizing liquidations. Each vault maintains an instant withdrawal buffer held in liquid stablecoin assets, enabling immediate redemptions for smaller withdrawal amounts without impacting deployed strategy positions.
+zVaults implement a tiered liquidity architecture designed to accommodate both routine redemptions and larger withdrawal requests without forcing destabilizing liquidations. Each vault maintains an instant withdrawal buffer held in liquid stablecoin assets, enabling immediate redemptions for smaller withdrawal amounts without impacting deployed strategy positions.
 
 For withdrawal requests exceeding the instant buffer capacity, fund managers are obligated to provide liquidity within a T+3 (three business day) settlement window. This timeframe allows orderly position liquidation even for less-liquid investments while maintaining reasonable redemption speed for investors. The T+3 standard aligns with settlement conventions in traditional securities markets and provides sufficient time for managers to execute exits without material price impact.
 
@@ -28,7 +28,7 @@ Fund managers bear contractual liability for meeting liquidity obligations withi
 
 ### Audit and Monitoring Infrastructure
 
-Security assurance for zTOKEN vaults operates across multiple dimensions:
+Security assurance for zVaults operates across multiple dimensions:
 
 Smart contracts and backend infrastructure undergo comprehensive audits by top-tier blockchain security firms prior to deployment. These audits identify potential vulnerabilities in contract logic, access controls, and integration points before capital is at risk.
 
@@ -42,10 +42,10 @@ Control over vault parameters and operational boundaries is carefully allocated 
 
 Fund managers retain unilateral control over all investment decisions within their stated strategy mandate, including asset selection, position sizing, protocol selection, and tactical rebalancing.
 
-ZOTH token holders exercise governance authority over systemic parameters affecting the broader protocol, including allocation weights for USDZe's distribution across underlying zTOKEN vaults and deposit/withdrawal limits that affect protocol-wide liquidity and risk exposure.
+ZOTH token holders exercise governance authority over systemic parameters affecting the broader protocol, including allocation weights for USDZe's distribution across underlying zVaults and deposit/withdrawal limits that affect protocol-wide liquidity and risk exposure.
 
 The Zoth Foundation retains emergency executive authority to take immediate action in response to security threats, regulatory requirements, or operational crises. This includes the ability to pause contracts, modify risk parameters, or intervene in fund operations when necessary to protect investor capital or ensure protocol stability. Such emergency powers are designed for exceptional circumstances and are subject to post-action governance review to maintain accountability.
 
 ### Upgradeability and Evolution
 
-The upgradeable nature of zTOKEN vault contracts, with upgrade authority restricted to the Zoth Foundation, enables the protocol to incorporate security improvements, optimize gas efficiency, and adapt to evolving best practices without disrupting live vaults or requiring user migrations. This controlled upgradeability model balances the immutability benefits of blockchain technology with the practical necessity of maintaining current security standards in a rapidly evolving technological landscape.
+The upgradeable nature of zVault contracts, with upgrade authority restricted to the Zoth Foundation, enables the protocol to incorporate security improvements, optimize gas efficiency, and adapt to evolving best practices without disrupting live vaults or requiring user migrations. This controlled upgradeability model balances the immutability benefits of blockchain technology with the practical necessity of maintaining current security standards in a rapidly evolving technological landscape.

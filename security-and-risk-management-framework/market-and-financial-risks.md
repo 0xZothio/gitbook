@@ -4,7 +4,7 @@
 
 The Zoth protocol grants fund managers substantial operational autonomy to execute investment strategies across diverse asset classes, protocols, and blockchain networks. While this flexibility enables skilled managers to generate alpha and adapt to evolving market conditions, it also means that individual vault performance depends critically on manager competence, discipline, and risk management practices.
 
-Unlike protocols with algorithmic strategy execution or hard-coded investment rules, zTOKEN vaults expose users to traditional fund management risks including poor investment decisions, excessive leverage, concentration risk, and manager fraud. The protocol mitigates these risks through rigorous manager vetting, ongoing performance monitoring, and governance oversight, but cannot eliminate manager-specific risks entirely.
+Unlike protocols with algorithmic strategy execution or hard-coded investment rules, zVaults expose users to traditional fund management risks including poor investment decisions, excessive leverage, concentration risk, and manager fraud. The protocol mitigates these risks through rigorous manager vetting, ongoing performance monitoring, and governance oversight, but cannot eliminate manager-specific risks entirely.
 
 Users should conduct appropriate due diligence on individual vault strategies, manager track records, and risk profiles before allocating capital. Direct zTOKEN vault investment requires KYC, creating an accredited or sophisticated investor framework where participants are expected to understand and accept manager-specific risks.
 

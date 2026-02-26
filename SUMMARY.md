@@ -15,15 +15,15 @@
 
 * [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
 * [Layer 1: FAAST](the-hierarchical-architecture/layer-1-faast.md)
-* [Layer 2: zToken Vaults](the-hierarchical-architecture/layer-2-ztoken-vaults.md)
+* [Layer 2: zVaults](the-hierarchical-architecture/layer-2-zvaults.md)
 * [Layer 3: USDZe](the-hierarchical-architecture/layer-3-usdze.md)
 * [Layer 4: Stablecoin Neobank](the-hierarchical-architecture/layer-4-stablecoin-neobank.md)
 
-## zTOKEN Vaults
+## zVaults
 
-* [What are zTOKEN Vaults?](ztoken-vaults/what-are-ztoken-vaults.md)
-* [Architecture of zTOKEN Vaults](ztoken-vaults/architecture-of-ztoken-vaults.md)
-* [Flexibility and Security of zTOKEN Vaults](ztoken-vaults/flexibility-and-security-of-ztoken-vaults.md)
+* [What are zVaults?](zvaults/what-are-zvaults.md)
+* [Architecture of zVaults](zvaults/architecture-of-zvaults.md)
+* [Flexibility and Security of zVaults](zvaults/flexibility-and-security-of-zvaults.md)
 
 ## USDZe: Liquid Yield assets
 
