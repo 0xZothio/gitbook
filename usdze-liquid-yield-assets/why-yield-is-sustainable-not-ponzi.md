@@ -4,7 +4,7 @@ USDZe's yield model is structurally differentiated from unsustainable "Ponzi" me
 
 ### Real Revenue Generation
 
-The yield distributed to USDZe holders originates from actual productive economic activity rather than new user deposits or token emissions. Revenue is generated through zToken vaults, where professional fund managers actively deploy capital into yield-generating strategies. This productive total value locked (TVL) creates genuine cashflows from trading profits, interest income, option premiums, funding rates, and RWA returns. Unlike protocols that rely on inflationary token rewards or circular lending, every basis point of yield in USDZe can be traced to specific revenue-generating activities in underlying vaults.
+The yield distributed to USDZe holders originates from actual productive economic activity rather than new user deposits or token emissions. Revenue is generated through zVaults, where professional fund managers actively deploy capital into yield-generating strategies. This productive total value locked (TVL) creates genuine cashflows from trading profits, interest income, option premiums, funding rates, and RWA returns. Unlike protocols that rely on inflationary token rewards or circular lending, every basis point of yield in USDZe can be traced to specific revenue-generating activities in underlying vaults.
 
 ### Short-Duration Asset Structure
 

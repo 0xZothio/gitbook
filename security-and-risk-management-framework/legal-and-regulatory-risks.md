@@ -8,7 +8,7 @@ Regulatory actions could potentially require protocol modifications, impose geog
 
 ### Securities Law Considerations
 
-Individual zTOKEN vaults may constitute securities under applicable securities laws in various jurisdictions. The protocol requires KYC for direct zTOKEN vault deposits, implementing a permissioned access model consistent with securities regulation compliance. However, regulatory classification remains subject to jurisdiction-specific analysis and could change based on evolving regulatory guidance or enforcement action.
+Individual zVaults may constitute securities under applicable securities laws in various jurisdictions. The protocol requires KYC for direct zTOKEN vault deposits, implementing a permissioned access model consistent with securities regulation compliance. However, regulatory classification remains subject to jurisdiction-specific analysis and could change based on evolving regulatory guidance or enforcement action.
 
 USDZe's legal classification—whether as a security, commodity, payment token, or hybrid instrument—may vary across jurisdictions and regulatory frameworks. The protocol structures USDZe to maximize regulatory defensibility, but users should conduct their own legal analysis or consult qualified counsel regarding the regulatory status of protocol tokens in their specific jurisdictions.
 
