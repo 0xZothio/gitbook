@@ -14,7 +14,7 @@ IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT DEAL IN THE TO
 
 Thank you for visiting our company’s website- www.zoth.io, platform, and related interfaces (together, the “website,” “site,” “forum,” “platform,” or “application,” as the context requires). Please read these Terms (the “Terms,” or this “Agreement”) carefully, as they affect your legal rights and obligations.
 
-### &#x20;1. Interpretation
+### 1. Interpretation
 
 In these Terms of Use (the “Terms”):
 
@@ -45,8 +45,6 @@ The services may give you access to products and strategies as listed on the web
 **2.2 How this Agreement is formed and related documents.** You enter into this Agreement with the Company when you: (a) click “I agree,” “Accept,” or any similar button- (b) create an account on the website (c) connect a Web3 wallet, or (d) access or use any part of the website or the services, including when you interact with any related smart contracts or interfaces. By doing any of these, you confirm that you have read, understood, and accepted these terms.
 
 The Company’s Privacy Policy, available at \_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Privacy Policy”), forms part of these terms. By agreeing to these terms, you also agree to the Privacy Policy, which explains how the Company collects, uses, and shares information about you.
-
-<br>
 
 ### 3. Modifications to These terms
 
@@ -138,71 +136,65 @@ Do your own research and understand Web3 risks. Do not rely only on marketing ma
 
 Report suspicious activity. If you notice any unauthorized access to your account, unusual activity on your wallets, or other security issues related to the website or the services, you must tell us immediately at contactus@zoth.io. Reporting quickly may help reduce harm, but it does not make the Company responsible for the incident.
 
-
-
 ### 8. Content Standards
 
 You may not submit, upload, publish, or otherwise share any content on or through the website that:
 
-1. is illegal, defamatory, obscene, harassing, hateful, discriminatory, or otherwise harmful or offensive,
-2. infringes or violates any intellectual property, privacy, or other rights of any third party, including copyrights, patents, trademarks, trade secrets, or publicity or privacy rights,
-3. contains malware, viruses, worms, trojan horses, or other malicious code designed to harm systems, data, or personal information,
-4. is meaningless, repetitive, or obviously fake content that interferes with other users’ reasonable use of the website,
-5. shares confidential or proprietary information of the Company or any other person without proper permission.
+A. is illegal, defamatory, obscene, harassing, hateful, discriminatory, or otherwise harmful or offensive,
 
-<br>
+B. infringes or violates any intellectual property, privacy, or other rights of any third party, including copyrights, patents, trademarks, trade secrets, or publicity or privacy rights,
 
-9\. Fee
+C. contains malware, viruses, worms, trojan horses, or other malicious code designed to harm systems, data, or personal information,
 
-9.1 Fees for blockchain use and the services. When you use the services, you must pay all fees needed to interact with the relevant Blockchain Network and the services, including “gas” or transaction fees, protocol fees, vault fees, and any other charges shown in the website interface from time to time. Any fee schedule or estimates we display reflect our or our providers’ estimates at the time and may differ from the actual amounts due to network conditions, price changes, or other factors that we cannot control.
+D. is meaningless, repetitive, or obviously fake content that interferes with other users’ reasonable use of the website,
 
-9.2 Changing fees and related risks. You understand that Blockchain Networks and DeFi protocols are experimental and may face congestion, upgrades, forks, or other changes that affect transaction costs. As a result, your total fees may change over time and may affect the overall results of your activities or strategies. The Company is not responsible for differences between estimated and actual fees, or for losses caused by higher network costs or failed or reverted transactions.
+E. shares confidential or proprietary information of the Company or any other person without proper permission.
 
-<br>
+### 9. Fee
 
-10\. Enforcement
+**9.1 Fees for blockchain use and the services.** When you use the services, you must pay all fees needed to interact with the relevant Blockchain Network and the services, including “gas” or transaction fees, protocol fees, vault fees, and any other charges shown in the website interface from time to time. Any fee schedule or estimates we display reflect our or our providers’ estimates at the time and may differ from the actual amounts due to network conditions, price changes, or other factors that we cannot control.
 
-10.1 Investigations and cooperation. The Company may investigate and pursue suspected violations of these terms to the maximum extent the law allows. We may, but do not have to, cooperate with law enforcement, regulators, or other third parties in investigating any suspected or alleged breach of these terms or of any law.
+**9.2 Changing fees and related risks.** You understand that Blockchain Networks and DeFi protocols are experimental and may face congestion, upgrades, forks, or other changes that affect transaction costs. As a result, your total fees may change over time and may affect the overall results of your activities or strategies. The Company is not responsible for differences between estimated and actual fees, or for losses caused by higher network costs or failed or reverted transactions.
 
-10.2 Content changes and reporting by users. The Company may, at any time and without notice, remove, change, or block access to any content that it believes breaks these terms or is harmful, offensive, or unlawful. If you believe that any user content or behaviour on the website breaks these terms or any law, you should contact us promptly at Contactus@zoth.io with enough detail so that we can assess the issue.
+### 10. Enforcement
 
-<br>
+10.1 **Investigations and cooperation.** The Company may investigate and pursue suspected violations of these terms to the maximum extent the law allows. We may, but do not have to, cooperate with law enforcement, regulators, or other third parties in investigating any suspected or alleged breach of these terms or of any law.
 
-11\. Representation
+**10.2 Content changes and reporting by users.** The Company may, at any time and without notice, remove, change, or block access to any content that it believes breaks these terms or is harmful, offensive, or unlawful. If you believe that any user content or behaviour on the website breaks these terms or any law, you should contact us promptly at Contactus@zoth.io with enough detail so that we can assess the issue.
+
+### 11. Representation
 
 As a condition to using the website or the services, you make the following ongoing promises (representations and warranties) to the Company:
 
-1. Any Digital Assets you use in connection with the services are owned by you, or you are properly authorised to use them, and no one else has rights that conflict with your use of them.
-2. You will comply with all Applicable Laws when you access and use the website, the services, and any Digital Assets, including AML/CFT, sanctions, securities, commodities, data protection, tax, and consumer protection rules.
-3. All information and documents you provide to the Company (including KYC/KYB documents, identity information, and investor status declarations) are true, accurate, current, and complete, and you will update them as needed.
-4. You will keep all credentials (including passwords, API keys, Private Keys, and similar tools) secure and confidential, and you will not allow any third party to access or use them.
-5. You have enough knowledge of cryptographic systems, Blockchain Networks, smart contracts, and Digital Assets to understand the risks of using the services, and you accept these risks.
-6. You understand and agree that listing or giving technological access to any vault, token, or strategy on or through the website is not an endorsement or recommendation by the Company, and the Company does not manage or control the underlying assets or investment decisions of such products.
+A. Any Digital Assets you use in connection with the services are owned by you, or you are properly      authorised to use them, and no one else has rights that conflict with your use of them.
 
-<br>
+B. You will comply with all Applicable Laws when you access and use the website, the services, and  any Digital Assets, including AML/CFT, sanctions, securities, commodities, data protection, tax, and consumer protection rules.
 
-12\. Indemnification (First Instance)
+C. All information and documents you provide to the Company (including KYC/KYB documents, identity information, and investor status declarations) are true, accurate, current, and complete, and you will update them as needed.\
+\
+D. You will keep all credentials (including passwords, API keys, Private Keys, and similar tools) secure and confidential, and you will not allow any third party to access or use them.
 
-12.1. You agree to indemnify, defend, and hold harmless the Company from and against any legal claims by others that arise from your breach of these terms or from your use of the website or the services, including any breach or use by someone using your account.
+E. You have enough knowledge of cryptographic systems, Blockchain Networks, smart contracts, and Digital Assets to understand the risks of using the services, and you accept these risks.
+
+F. You understand and agree that listing or giving technological access to any vault, token, or strategy on or through the website is not an endorsement or recommendation by the Company, and the Company does not manage or control the underlying assets or investment decisions of such products.
+
+### 12. Indemnification (First Instance)
+
+**12.1.** You agree to indemnify, defend, and hold harmless the Company from and against any legal claims by others that arise from your breach of these terms or from your use of the website or the services, including any breach or use by someone using your account.
 
 The Company may choose, but is not required, to take over and control the defence and settlement of any claim for which it is indemnified. In that case, the Company will not agree to any settlement that admits liability on your part or imposes any non-monetary obligations on you without your prior written consent, which you will not unreasonably withhold or delay.
 
-12.2 Indemnity for claims and losses. You agree to indemnify, defend, and hold harmless the Company and its affiliates and their officers, directors, employees, agents, successors, and permitted assigns (each an “Indemnified Party”) from and against any and all losses, claims, actions, suits, complaints, damages, liabilities, penalties, interest, judgments, settlements, deficiencies, awards, fines, costs, fees, or expenses of any kind, including reasonable lawyers’ fees and investigation and enforcement costs, that arise from or relate to: (a) your breach of these terms or any Applicable Laws, (b) your use or misuse of the website, the services, or any Digital Assets, (c) any User Submission you provide, or (d) any actions taken by a third party using your account, credentials, or wallets.
+**12.2 Indemnity for claims and losses.** You agree to indemnify, defend, and hold harmless the Company and its affiliates and their officers, directors, employees, agents, successors, and permitted assigns (each an “Indemnified Party”) from and against any and all losses, claims, actions, suits, complaints, damages, liabilities, penalties, interest, judgments, settlements, deficiencies, awards, fines, costs, fees, or expenses of any kind, including reasonable lawyers’ fees and investigation and enforcement costs, that arise from or relate to: (a) your breach of these terms or any Applicable Laws, (b) your use or misuse of the website, the services, or any Digital Assets, (c) any User Submission you provide, or (d) any actions taken by a third party using your account, credentials, or wallets.
 
-12.3 Defence and cooperation. The Company may, at its option and at your cost, take over the exclusive defence and control of any matter covered by your indemnity, in which case you agree to fully cooperate with the Company in raising any defences. You may not settle any claim that is subject to indemnification without the Company’s prior written consent, which it will not unreasonably withhold or delay.
+**12.3 Defence and cooperation.** The Company may, at its option and at your cost, take over the exclusive defence and control of any matter covered by your indemnity, in which case you agree to fully cooperate with the Company in raising any defences. You may not settle any claim that is subject to indemnification without the Company’s prior written consent, which it will not unreasonably withhold or delay.
 
-\
-<br>
-
-13\. Privacy
+### 13. Privacy
 
 We respect your privacy and aim to protect it. We may collect, process, store, and use information about you, including information obtained through your use of the website or the services, so that we can operate, maintain, and improve our technology, comply with legal duties, and manage our relationship with you (“Data”).&#x20;
 
 All processing of personal data is governed exclusively by our Privacy Policy, which forms an integral part of these terms.
 
-<br>
-
-14\. Protection of Personal Information
+### 14. Protection of Personal Information
 
 You agree that your account is personal to you and that you will not allow any other person to access the website or the services using your account details. You are responsible for keeping your login information confidential and for all activity that takes place under your account. We recommend using strong, unique passwords and any security features we provide.
 
@@ -210,51 +202,47 @@ You should be careful when accessing your account from a public or shared device
 
 If you become aware of any unauthorised use of your account or any other security incident, you must tell us immediately at Contactus@zoth.io. We may disable any username, password, or other identifier, whether chosen by you or provided by us, at any time at our discretion, if we believe you have broken these terms or where we consider it necessary to protect the website, the services, other users, or the Protocol Infrastructure.
 
-<br>
-
-15\. Intellectual Property
+### 15. Intellectual Property
 
 We enjoy sharing useful content on our website. However, you acknowledge and agree that all intellectual property rights in the website, the services, and all underlying technology, software, interfaces, documentation, trademarks, protocols, content, and other materials provided by or for the Company (together, “Company IP”) belong to the Company or its licensors.
 
 The Company keeps all intellectual property rights in the Company IP, including copyrights, trademarks, trade secrets, and other proprietary rights. Only the Company has the right to reproduce, distribute, display, perform, adapt, modify, and create derivative works from the Company IP, and to authorise others to do so. Your use of the website or the services only gives you a limited, revocable, non-exclusive, non-transferable licence to access and use them for your personal, non-commercial use, in line with these terms.
 
-<br>
-
-16\. Restricted Uses
+### 16. Restricted Uses
 
 To help keep the website safe and secure for everyone, we have identified certain uses that are not allowed. The website may only be used for lawful purposes and in line with these terms. You are not allowed to use the website:
 
-1. for any unlawful purpose, or in any way that breaks any Applicable Laws, including securities, commodities, sanctions, AML/CFT, or consumer protection laws,
-2. for any purpose that breaches our content standards or user submission rules, or to harass, abuse, discriminate against, or otherwise harm any person,
-3. to impersonate or try to impersonate the Company, any Company employee, another user, or any other person or entity, or to misrepresent your identity or affiliation,
-4. to carry out spoofing, spamming, money laundering, or sending unwanted or unauthorised advertising or promotional materials, or any other repeated messages,
-5. to transmit or distribute spam emails or messages, chain letters, or any information that could overload, disrupt, or interfere with the proper working of the website, the services, or any Blockchain Network,
-6. to use any automated process, such as spiders, bots, or scrapers, to access, query, or copy any part of the website or its content without our written consent,
-7. to bypass, hack, defeat, or get around any authentication, access controls, or security measures on the website, the services, user accounts, or any related systems.
+A. for any unlawful purpose, or in any way that breaks any Applicable Laws, including securities, commodities, sanctions, AML/CFT, or consumer protection laws,
 
-<br>
+B. for any purpose that breaches our content standards or user submission rules, or to harass, abuse, discriminate against, or otherwise harm any person,
 
-17\. Inherent Risks
+C. to impersonate or try to impersonate the Company, any Company employee, another user, or any other person or entity, or to misrepresent your identity or affiliation,
 
-17.1 Blockchain and cryptographic systems. By using the services or interacting with the website or any Protocol Infrastructure, you confirm that you understand the inherent risks of cryptographic systems, Blockchain Networks, smart contracts, and Digital Assets. These risks include bugs, exploits, hacks, vulnerabilities, forks, and changes to consensus rules.
+D. to carry out spoofing, spamming, money laundering, or sending unwanted or unauthorised advertising or promotional materials, or any other repeated messages,
 
-17.2 Regulatory and legal risks. You understand that the legal and regulatory status of Digital Assets, smart contracts, and DeFi protocols is uncertain, developing, and different from place to place. New laws, rules, or enforcement practices may harm the use, transfer, or value of Digital Assets or the functioning of the services, and may lead to new restrictions or reporting duties. You are solely responsible for understanding and following all laws that may apply to your activities.
+E. to transmit or distribute spam emails or messages, chain letters, or any information that could overload, disrupt, or interfere with the proper working of the website, the services, or any Blockchain Network,
 
-17.3 Technology risks and cryptographic advances. You understand that cryptographic technologies and Blockchain Networks rely on public and private key cryptography and complex technical systems that may become less secure over time, for example due to new methods of code breaking or quantum computing. Such changes could make current protections ineffective and lead to theft or loss of Digital Assets. The Company may, but does not have to, take steps to update technologies to reduce these risks, and does not promise that any such steps will work.
+F. to use any automated process, such as spiders, bots, or scrapers, to access, query, or copy any part of the website or its content without our written consent,
 
-17.4 Assumption of risk and waiver. You accept all risks linked to your access to and use of the website, the services, and any Digital Assets, including market volatility, low liquidity, smart contract failures, protocol bugs, oracle failures, MPC failures, third-party custodian insolvencies, cyber-attacks, hacks, exploits, and force majeure events.
+G. to bypass, hack, defeat, or get around any authentication, access controls, or security measures on the website, the services, user accounts, or any related systems.
 
-<br>
+### 17. Inherent Risks
 
-18\. User Submissions
+**17.1 Blockchain and cryptographic systems.** By using the services or interacting with the website or any Protocol Infrastructure, you confirm that you understand the inherent risks of cryptographic systems, Blockchain Networks, smart contracts, and Digital Assets. These risks include bugs, exploits, hacks, vulnerabilities, forks, and changes to consensus rules.
+
+**17.2 Regulatory and legal risks.** You understand that the legal and regulatory status of Digital Assets, smart contracts, and DeFi protocols is uncertain, developing, and different from place to place. New laws, rules, or enforcement practices may harm the use, transfer, or value of Digital Assets or the functioning of the services, and may lead to new restrictions or reporting duties. You are solely responsible for understanding and following all laws that may apply to your activities.
+
+**17.3 Technology risks and cryptographic advances.** You understand that cryptographic technologies and Blockchain Networks rely on public and private key cryptography and complex technical systems that may become less secure over time, for example due to new methods of code breaking or quantum computing. Such changes could make current protections ineffective and lead to theft or loss of Digital Assets. The Company may, but does not have to, take steps to update technologies to reduce these risks, and does not promise that any such steps will work.
+
+**17.4 Assumption of risk and waiver.** You accept all risks linked to your access to and use of the website, the services, and any Digital Assets, including market volatility, low liquidity, smart contract failures, protocol bugs, oracle failures, MPC failures, third-party custodian insolvencies, cyber-attacks, hacks, exploits, and force majeure events.
+
+### 18. User Submissions
 
 Any content, information, feedback, or other material that you submit or upload to the Company or through the website (together, “User Submissions”) must follow these terms and all Applicable Laws. All User Submissions are treated as non-confidential and non-proprietary as far as you are concerned. By providing a User Submission, you give up, as far as the law allows, any proprietary rights you may have in it, and you grant the Company a worldwide, royalty-free, irrevocable, perpetual, transferable, and sublicensable licence to use, copy, modify, create derivative works from, distribute, perform, and display that User Submission for any lawful purpose.
 
 You alone are responsible for your User Submissions and for any consequences that result from them. The Company is not liable for any loss or damage arising from or connected with any User Submission, including any reliance on it by others. By using the website or the services, you agree to receive all communications, agreements, documents, receipts, notices, and disclosures electronically from the Company at the email address you provide or via postings on the website. If you have questions or complaints about User Submissions, you can contact us at \<support@domain.io>.
 
-<br>
-
-19\. Disclaimer
+### 19. Disclaimer
 
 The information, content, and materials available on or through the website or the services are provided for information only and do not amount to investment, financial, legal, tax, accounting, or other professional advice. The Company does not promise that any information on or through the website is accurate, complete, up-to-date, or useful, including any statements about pricing, yield, performance, or risk of any Digital Assets or strategies.
 
@@ -266,70 +254,69 @@ You understand and agree that the website and the services depend on third-party
 
 Some places do not allow certain warranty exclusions. In those places, some of the above limits may not apply to you, and the Company’s warranties will be limited only as far as the law allows.
 
-<br>
-
-20\. External and Affiliate Links
+### 20. External and Affiliate Links
 
 From time to time, the website may contain links to external websites, applications, or resources, such as sponsored or affiliate links, adverts, or third-party content. These links are provided only for your convenience. The Company does not control these sites or resources and is not responsible or liable for their content or for any loss or damage caused by your use of them. The presence of a link does not mean the Company endorses or approves the linked site.
 
-<br>
-
-21\. Geographic Limitations
+### 21. Geographic Limitations
 
 The Company is incorporated in Panama. These terms are governed by the law specified in Section 29. Access to the website may be unlawful in certain jurisdictions. You are solely responsible for ensuring that your access and use comply with all applicable local laws. Access to the website may be illegal for some people or in some countries, including the Restricted Territories described in Section 4. If you access the website or use the services from outside Panama, you do so on your own initiative and you are responsible for following local laws.
 
 By using the website or the services, you confirm that you are not located in, organised in, or resident in any Restricted Territory and that you are not a Sanctions Lists Person. You also confirm that you will stop using the website and the services immediately if you become a Sanctions Lists Person or move to a Restricted Territory.
 
-<br>
+**22. No Warranties and No Guarantees**
 
-22\. No Warranties and No Guarantees
+**22.1 “As-Is” basis, no warranties.** The Company provides the website, the services, and all related content on an “AS-IS” and “AS-AVAILABLE” basis, for your individual use and at your own risk. To the fullest extent the law allows, the Company disclaims all warranties, whether express or implied, including warranties of title, merchantability, fitness for a particular purpose, non-infringement, availability, accuracy, reliability, or that the website, services, or content will be free of viruses, malware, or other harmful components.
 
-22.1 “As-Is” basis, no warranties. The Company provides the website, the services, and all related content on an “AS-IS” and “AS-AVAILABLE” basis, for your individual use and at your own risk. To the fullest extent the law allows, the Company disclaims all warranties, whether express or implied, including warranties of title, merchantability, fitness for a particular purpose, non-infringement, availability, accuracy, reliability, or that the website, services, or content will be free of viruses, malware, or other harmful components.
+**22.2 No promise of results.** The Company does not guarantee, and nothing on the website or in the services should be read as guaranteeing, any particular result, return, yield, or performance from any digital asset or strategy. All projections, targets, or forward-looking statements, including APY targets or similar numbers, are uncertain and may not be met.
 
-22.2 No promise of results. The Company does not guarantee, and nothing on the website or in the services should be read as guaranteeing, any particular result, return, yield, or performance from any digital asset or strategy. All projections, targets, or forward-looking statements, including APY targets or similar numbers, are uncertain and may not be met.
+### **23. Events of Default and Insolvency Events**
 
-<br>
+A. The following are each an “Event of Default” under these terms:
 
-23\. Events of Default and Insolvency Events
+B. you materially breach these terms or any other agreement you have with the Company and, where  the breach can be fixed, you do not fix it within a reasonable time after we ask you to do so,
 
-1. The following are each an “Event of Default” under these terms:
-2. you materially breach these terms or any other agreement you have with the Company and, where the breach can be fixed, you do not fix it within a reasonable time after we ask you to do so,
-3. you provide false, misleading, or incomplete information to the Company in any KYC/KYB process or at any other time,
-4. you use, or we reasonably suspect that you have used, the website or the services for unlawful purposes, including money laundering, terrorist financing, fraud, or sanctions evasion,
-5. you become a person in a Restricted Territory or a Sanctions Lists Person, or we reasonably believe that you are acting for such a person,
-6. you attempt to circumvent, or we reasonably believe you have circumvented, any technical, geographical, or compliance controls of the Company.
-7. An “Insolvency Event” occurs if:
-8. you are a company and you become insolvent, enter into liquidation (other than for a solvent reorganisation), have a receiver, administrator, or similar officer appointed over any of your assets, or enter into any composition or arrangement with your creditors,
-9. you are an individual and you are declared bankrupt or enter into any formal debt relief process with your creditors.
-10. If an Event of Default or an Insolvency Event happens or we reasonably believe it has happened or is likely to happen, we may, without notice and without liability to you, take one or more of the following steps:
-11. suspend or terminate your access to the website or the services (in whole or in part),
-12. block, reverse, or refuse to process any transaction you have requested through the services, where technically possible and lawful,
-13. report any matter to any law enforcement, regulatory, or other authority, and provide any information we reasonably consider relevant,
-14. exercise any other right or remedy that we have under these terms or under Applicable Laws.
+C. you provide false, misleading, or incomplete information to the Company in any KYC/KYB process or at any other time,
 
-24\. Modification, Suspension, and Termination
+D. you use, or we reasonably suspect that you have used, the website or the services for unlawful purposes, including money laundering, terrorist financing, fraud, or sanctions evasion,
+
+E. you become a person in a Restricted Territory or a Sanctions Lists Person, or we reasonably believe that you are acting for such a person,
+
+F. you attempt to circumvent, or we reasonably believe you have circumvented, any technical, geographical, or compliance controls of the Company.
+
+G. An “Insolvency Event” occurs if:
+
+H. you are a company and you become insolvent, enter into liquidation (other than for a solvent reorganisation), have a receiver, administrator, or similar officer appointed over any of your assets, or enter into any composition or arrangement with your creditors,
+
+I. you are an individual and you are declared bankrupt or enter into any formal debt relief process with your creditors.
+
+J. If an Event of Default or an Insolvency Event happens or we reasonably believe it has happened or is likely to happen, we may, without notice and without liability to you, take one or more of the following steps:
+
+K suspend or terminate your access to the website or the services (in whole or in part),
+
+L block, reverse, or refuse to process any transaction you have requested through the services, where technically possible and lawful,
+
+M report any matter to any law enforcement, regulatory, or other authority, and provide any information we reasonably consider relevant,
+
+N. exercise any other right or remedy that we have under these terms or under Applicable Laws.
+
+### 24. Modification, Suspension, and Termination
 
 We may, at our sole discretion, at any time and with or without prior notice, change, suspend, disable, or stop (temporarily or permanently) the website, the services, or any part of them, for any reason, including legal, regulatory, security, technical, or commercial reasons.
 
 We may also suspend or end your access to all or part of the website or the services, or close your account, at any time and for any reason, including where we believe you have broken these terms or Applicable Laws, or where your continued use creates legal, regulatory, reputational, or security risks. We are not liable to you for any modification, suspension, or termination of the website, the services, or your access to them, except where the law requires otherwise.
 
-<br>
+### 25. Limitation of Liability
 
-25\. Limitation of Liability
-
-To the maximum extent the law allows, the Company’s total liability (together with its affiliates, and its and their shareholders, members, directors, managers, officers, employees, lawyers, agents, representatives, suppliers, and contractors) that arises out of or relates to the website, the services, the Protocol Infrastructure, any Digital Assets, or these terms, whether in contract, tort (including negligence), statute, strict liability, or otherwise, will not exceed the lower of: (a) USD 100 or (b) the total fees you actually paid to the Company for using the services in the twelve (12) months before the claim arose.
+To the maximum extent the law allows, the Company’s total liability (together with its affiliates, and its and their shareholders, members, directors, managers, officers, employees, lawyers, agents, representatives, suppliers, and contractors) that arises out of or relates to the website, the services, the Protocol Infrastructure, any Digital Assets, or these terms, whether in contract, tort (including negligence), statute, strict liability, or otherwise, will not exceed the lower of: **(a) USD 100 or (b)** the total fees you actually paid to the Company for using the services in the twelve (12) months before the claim arose.
 
 To the maximum extent the law allows, the Company and its affiliates will not be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages, including loss of profits, revenue, goodwill, data, or business opportunity, arising out of or related to the website, the services, or these terms, even if the Company has been told such damages are possible.
 
-<br>
-
-26\. Force Majeure
+### 26. Force Majeure
 
 We are not responsible or liable for any failure or delay in performing the website or any services, or for any loss or damage that you may suffer, if this is caused by any event beyond our reasonable control, including without limitation acts of God, floods, fires, earthquakes, or explosions, wars, invasions, hostilities, terrorist acts, riots, or civil unrest, government orders or laws, strikes or other labour problems, epidemics or pandemics, large market crashes, failures of major protocols or infrastructure, or communications or power failures (together, “Force Majeure Events”).
 
-<br>
-
-27\. Binding Arbitration
+### 27. Binding Arbitration
 
 Please read this section carefully, as it requires certain disputes to be resolved through binding arbitration and limits how you can seek relief. Subject to Applicable Laws, you and the Company agree that any dispute arising out of or related to these terms, the website, or the services is personal to you and the Company and will be resolved only through individual arbitration, not a class, collective, or representative action.
 
@@ -345,35 +332,29 @@ Before starting arbitration, you agree to first try to resolve the dispute infor
 
 Any claim or cause of action arising out of or related to these Terms or the use of the website or the services must be filed within one (1) year after it arose, otherwise it is permanently barred, as far as the law allows.
 
-<br>
-
-28\. Governing Law and Jurisdiction
+### 28. Governing Law and Jurisdiction
 
 This Agreement and any non-contractual obligations arising out of or in connection with it are governed by and must be interpreted in line with the laws of the Dubai International Financial Centre (“DIFC”), without giving effect to any rules on conflicts of law that would result in applying the laws of another place. Subject to the mandatory arbitration provision in Section 28, the courts of the DIFC have non-exclusive jurisdiction over any dispute arising out of or in connection with these terms or their subject matter.
 
-<br>
+### 29. Severability and No Waiver
 
-29\. Severability and No Waiver
+**29.1 Severability.** If any part of these terms is found by a court or arbitration tribunal with jurisdiction to be invalid, illegal, or unenforceable, that part will be enforced as far as the law allows, and the rest of these terms will stay fully in force.
 
-29.1 Severability. If any part of these terms is found by a court or arbitration tribunal with jurisdiction to be invalid, illegal, or unenforceable, that part will be enforced as far as the law allows, and the rest of these terms will stay fully in force.
+**29.2 No waiver.** If the Company does not exercise, or delays in exercising, any right or remedy under these terms, that does not mean it has waived that right or remedy. No single or partial exercise of any right or remedy will stop any further exercise of that right or any other right or remedy. Any waiver of any part of these terms will only be effective if it is in writing and signed by an authorised representative of the Company.
 
-29.2 No waiver. If the Company does not exercise, or delays in exercising, any right or remedy under these terms, that does not mean it has waived that right or remedy. No single or partial exercise of any right or remedy will stop any further exercise of that right or any other right or remedy. Any waiver of any part of these terms will only be effective if it is in writing and signed by an authorised representative of the Company.
+**29.3. Miscellaneous.** These terms (together with any documents referred to in them) form the whole agreement between you and the Company about the use of the website and the services and replace any earlier written or oral understandings.
 
-29.3. Miscellaneous. These terms (together with any documents referred to in them) form the whole agreement between you and the Company about the use of the website and the services and replace any earlier written or oral understandings.
+a. If there is any conflict between these terms and any other document referred to in them, these terms will prevail unless that other document clearly states otherwise.
 
-1. If there is any conflict between these terms and any other document referred to in them, these terms will prevail unless that other document clearly states otherwise.
-2. Nothing in these terms is intended to create any partnership, joint venture, or agency relationship between you and the Company.
-3. A person who is not a Party to these terms has no right to enforce any of their terms.
+b. Nothing in these terms is intended to create any partnership, joint venture, or agency relationship  between you and the Company.
 
-<br>
+c. A person who is not a Party to these terms has no right to enforce any of their terms.
 
-30\. Transfer and Assignment
+### 30. Transfer and Assignment
 
 You may not transfer, assign, or delegate any of your rights or duties under this Agreement, whether by law or otherwise, without the Company’s prior written consent. Any attempt to do so without consent is void. The Company may assign this Agreement, in whole or in part, to any affiliate or in connection with a reorganisation or corporate transaction without your consent.
 
-<br>
-
-31\. Notices
+### 31. Notices
 
 We may give notice to you by: (i) sending a message to the email address associated with your account, or (ii) posting a notice on the website, including on your account dashboard or on the website home page. Notices sent by email take effect when they are sent, and notices posted on the website take effect when they are posted, unless a later date is stated.
 
@@ -383,9 +364,7 @@ First Floor Ricardo, Arias Street, Panama City, Republic of Panama, with a copy 
 
 For grievances or data protection matters, please contact us at the email address specified in our Privacy Policy. questions about your account or technical support requests should be sent to zoth.io.
 
-<br>
-
-32\. Contact
+### 32. Contact
 
 You may contact the Company under these terms or for questions at zoth.io. For privacy or data protection issues, you may contact zoth.io. The Company may contact you under these terms using the email address linked to your website account or by posting a message on the website home page or your account page.
 
