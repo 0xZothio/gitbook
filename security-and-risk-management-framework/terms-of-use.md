@@ -124,9 +124,7 @@ You agree that you will not, directly or indirectly, do any of the following:
 
 6.13. Do anything that places, or may place, an unreasonable or excessive load on our systems or on any Blockchain Network, including denial-of-service attacks, spam transactions, or similar actions.
 
-<br>
-
-7\. User Responsibility
+### 7. User Responsibility
 
 Secure your account information. You are solely responsible for keeping safe any credentials linked to your website account and any wallets you use with the services, including passwords, seed phrases, and other sensitive information. Do not share this information with anyone, and do not allow any other person to use your account or connected wallets.
 
@@ -136,13 +134,13 @@ Use secure wallets and protect your private keys. The services may use MPC walle
 
 Be careful when you interact with smart contracts. Before signing any transaction, interacting with any contract, or giving approvals or permissions, you must check the transaction details, contract addresses, and spending limits. You understand that interacting with smart contracts carries risks of bugs, vulnerabilities, hacks, and exploits, and that transactions on a Blockchain Network are typically irreversible.
 
-Do your own research and understand Web3 risks. Do not rely only on marketing materials, dashboards, or summaries on the website. You are responsible for understanding how each strategy, vault, or tokenised product works, including its fees, redemption rules, and risk profile, as described in the official documents for that product.
+Do your own research and understand Web3 risks. Do not rely only on marketing materials, dashboards, or summaries on the website. You are responsible for understanding how each strategy, vault, or tokenized product works, including its fees, redemption rules, and risk profile, as described in the official documents for that product.
 
-Report suspicious activity. If you notice any unauthorised access to your account, unusual activity on your wallets, or other security issues related to the website or the services, you must tell us immediately at contactus@zoth.io. Reporting quickly may help reduce harm, but it does not make the Company responsible for the incident.
+Report suspicious activity. If you notice any unauthorized access to your account, unusual activity on your wallets, or other security issues related to the website or the services, you must tell us immediately at contactus@zoth.io. Reporting quickly may help reduce harm, but it does not make the Company responsible for the incident.
 
-<br>
 
-8\. Content Standards
+
+### 8. Content Standards
 
 You may not submit, upload, publish, or otherwise share any content on or through the website that:
 

@@ -47,6 +47,7 @@
 * [Terms of Use](security-and-risk-management-framework/terms-of-use.md)
 * [Anti-Money Laundering](security-and-risk-management-framework/anti-money-laundering.md)
 * [Jurisdictions](security-and-risk-management-framework/jurisdictions.md)
+* [Privacy Policy](security-and-risk-management-framework/privacy-policy.md)
 
 ## &#x20;Zocta: Universal Loyalty Engine
 
