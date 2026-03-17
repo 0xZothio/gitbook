@@ -42,18 +42,21 @@
 * [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
 * [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
 * [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
-* [Governance Risks](security-and-risk-management-framework/governance-risks.md)
-* [Legal and Regulatory Risks](security-and-risk-management-framework/legal-and-regulatory-risks.md)
-* [User Responsibilities and Risk Disclosure](security-and-risk-management-framework/user-responsibilities-and-risk-disclosure.md)
-* [Terms of Use](security-and-risk-management-framework/terms-of-use.md)
-* [Anti-Money Laundering](security-and-risk-management-framework/anti-money-laundering.md)
-* [Jurisdictions](security-and-risk-management-framework/jurisdictions.md)
-* [Privacy Policy](security-and-risk-management-framework/privacy-policy.md)
 
 ## &#x20;Zocta: Universal Loyalty Engine
 
 * [What Are Zocta Points?](zocta-universal-loyalty-engine/what-are-zocta-points.md)
 * [How Users Earn Zocta Points?](zocta-universal-loyalty-engine/how-users-earn-zocta-points.md)
+
+## Legal Disclaimer
+
+* [Governance Risks](legal-disclaimer/governance-risks.md)
+* [Jurisdictions](legal-disclaimer/jurisdictions.md)
+* [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
+* [Privacy Policy](legal-disclaimer/privacy-policy.md)
+* [Terms of Use](legal-disclaimer/terms-of-use.md)
+* [Legal and Regulatory Risks](legal-disclaimer/legal-and-regulatory-risks.md)
+* [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
 ## Zoth Token Utility&#x20;
 
