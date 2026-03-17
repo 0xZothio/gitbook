@@ -1,7 +1,5 @@
 # Privacy Policy
 
-## Privacy Policy
-
 Effective Date: 10.03.2026
 
 Purpose of this Privacy Policy
