@@ -25,6 +25,7 @@
 * [Architecture of zVaults](zvaults/architecture-of-zvaults.md)
 * [Flexibility and Security of zVaults](zvaults/flexibility-and-security-of-zvaults.md)
 * [zOPAL: Asset-Backed Financing Strategy](zvaults/zopal-asset-backed-financing-strategy.md)
+* [zVaults Audit](zvaults/zvaults-audit.md)
 
 ## USDZe: Liquid Yield assets
 
@@ -150,3 +151,7 @@
 * [ZeUSD Risks and Mitigation Strategies](resources-1/zeusd-risks-and-mitigation-strategies/README.md)
   * [Zoth Security Framework](resources-1/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources-1/onchain-data.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
