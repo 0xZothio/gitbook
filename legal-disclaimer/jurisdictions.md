@@ -1,5 +1,7 @@
 # Jurisdictions
 
+## zVault & zOPAL - Available Jurisdictions
+
 #### Are zVault & zOPAL available everywhere?
 
 No, zVaults & zOPAL are not available to:
@@ -13,7 +15,6 @@ The following are considered restricted jurisdictions:
 * Abkhazia
 * Afghanistan
 * Angola
-* Australia
 * Belarus
 * Burma (Myanmar)
 * Burundi
@@ -21,14 +22,19 @@ The following are considered restricted jurisdictions:
 * Congo
 * Cuba
 * Crimea
+* Cyprus
+* Côte d'Ivoire
 * Ethiopia
 * Guinea-Bissau
+* Georgia
 * Iran
 * Ivory Coast (Cote D’Ivoire)
 * Lebanon
 * Liberia
 * Libya
 * Mali
+* Marshall Islands
+* Myanmar
 * Nicaragua
 * North Korea
 * Northern Cyprus
@@ -40,7 +46,10 @@ The following are considered restricted jurisdictions:
 * Sudan
 * Syria
 * Ukraine (Donetsk and Luhansk regions)
+* United Kingdom
 * United States
 * Venezuela
 * Yemen
 * Zimbabwe
+
+<br>
