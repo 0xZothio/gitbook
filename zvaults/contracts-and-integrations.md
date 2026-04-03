@@ -13,10 +13,13 @@
 | PriceOracle            | 0x2756bF902563B6e767A6E9EC20abFaB3706715Eb |
 | zOPALDepositVault      | 0x6578Fe7a4A8c0B8C34FC8c85A8f99cc16affe850 |
 | RedemptionVault        | 0x87e86d6930f7e922E02cD92821fBaaF9D5e9B403 |
-| depositVaultAdmin      | 0x57a134a61915163F4b3F69fED708c7a8836AE277 |
-| redemptionVaultAdmin   | 0x57a134a61915163F4b3F69fED708c7a8836AE277 |
-| pauseOperator          | 0xf7dec551FAaA4EC4d7b31087BB58102bBbD379a1 |
-| greenlistOperator      | 0xb9dD4396f0f849508E96e656af1a10f83ea314C6 |
-| blacklistOperator      | 0xb9dD4396f0f849508E96e656af1a10f83ea314C6 |
-| priceAdmin             | 0x15925A7571f5bD7CE67EeeddFAA31136E565683e |
-| configRole             | 0x973Bd2510d866b1F2494c97ca9fd9595037B2F04 |
+
+| ForDefi MPC          | Address                                    |
+| -------------------- | ------------------------------------------ |
+| depositVaultAdmin    | 0x57a134a61915163F4b3F69fED708c7a8836AE277 |
+| redemptionVaultAdmin | 0x57a134a61915163F4b3F69fED708c7a8836AE277 |
+| pauseOperator        | 0xf7dec551FAaA4EC4d7b31087BB58102bBbD379a1 |
+| greenlistOperator    | 0xb9dD4396f0f849508E96e656af1a10f83ea314C6 |
+| blacklistOperator    | 0xb9dD4396f0f849508E96e656af1a10f83ea314C6 |
+| priceAdmin           | 0x15925A7571f5bD7CE67EeeddFAA31136E565683e |
+| configRole           | 0x973Bd2510d866b1F2494c97ca9fd9595037B2F04 |
