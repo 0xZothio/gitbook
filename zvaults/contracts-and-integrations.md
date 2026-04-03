@@ -1,7 +1,3 @@
----
-description: Deployed Contracts
----
-
 # Contracts and Integrations
 
 ## Deployed Contracts
