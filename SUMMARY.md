@@ -25,8 +25,8 @@
 * [Architecture of zVaults](zvaults/architecture-of-zvaults.md)
 * [Flexibility and Security of zVaults](zvaults/flexibility-and-security-of-zvaults.md)
 * [zOPAL: Asset-Backed Financing Strategy](zvaults/zopal-asset-backed-financing-strategy.md)
-* [zVaults Audit](zvaults/zvaults-audit.md)
 * [Contracts and Integrations](zvaults/contracts-and-integrations.md)
+* [zVaults Audit](zvaults/zvaults-audit.md)
 
 ## USDZe: Liquid Yield assets
 
