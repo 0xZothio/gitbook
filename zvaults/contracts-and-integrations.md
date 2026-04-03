@@ -1,9 +1,5 @@
 # Contracts and Integrations
 
-## Deployed Contracts
-
-<br>
-
 | Contract               | Address                                    |
 | ---------------------- | ------------------------------------------ |
 | ProxyAdmin             | 0x5A9916C8B89F4Cc97B782d5138Ea54A17EB79b84 |
