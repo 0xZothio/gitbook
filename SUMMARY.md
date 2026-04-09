@@ -152,7 +152,3 @@
 * [ZeUSD Risks and Mitigation Strategies](resources-1/zeusd-risks-and-mitigation-strategies/README.md)
   * [Zoth Security Framework](resources-1/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources-1/onchain-data.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
