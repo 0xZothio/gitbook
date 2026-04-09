@@ -44,7 +44,7 @@ The services may give you access to products and strategies as listed on the web
 
 **2.2 How this Agreement is formed and related documents.** You enter into this Agreement with the Company when you: (a) click “I agree,” “Accept,” or any similar button- (b) create an account on the website (c) connect a Web3 wallet, or (d) access or use any part of the website or the services, including when you interact with any related smart contracts or interfaces. By doing any of these, you confirm that you have read, understood, and accepted these terms.
 
-The Company’s Privacy Policy, available at \_\_\_\_\_\_\_\_\_\_\_\_\_ (the “Privacy Policy”), forms part of these terms. By agreeing to these terms, you also agree to the Privacy Policy, which explains how the Company collects, uses, and shares information about you.
+The Company’s Privacy Policy, available at [(the “Privacy Policy”)](https://docs.zoth.io/zoth/legal-disclaimer/privacy-policy), forms part of these terms. By agreeing to these terms, you also agree to the Privacy Policy, which explains how the Company collects, uses, and shares information about you.
 
 ### 3. Modifications to These terms
 
@@ -160,7 +160,7 @@ E. shares confidential or proprietary information of the Company or any other pe
 
 10.1 **Investigations and cooperation.** The Company may investigate and pursue suspected violations of these terms to the maximum extent the law allows. We may, but do not have to, cooperate with law enforcement, regulators, or other third parties in investigating any suspected or alleged breach of these terms or of any law.
 
-**10.2 Content changes and reporting by users.** The Company may, at any time and without notice, remove, change, or block access to any content that it believes breaks these terms or is harmful, offensive, or unlawful. If you believe that any user content or behaviour on the website breaks these terms or any law, you should contact us promptly at Contactus@zoth.io with enough detail so that we can assess the issue.
+**10.2 Content changes and reporting by users.** The Company may, at any time and without notice, remove, change, or block access to any content that it believes breaks these terms or is harmful, offensive, or unlawful. If you believe that any user content or behaviour on the website breaks these terms or any law, you should contact us promptly at contactus@zoth.io with enough detail so that we can assess the issue.
 
 ### 11. Representation
 
@@ -200,7 +200,7 @@ You agree that your account is personal to you and that you will not allow any o
 
 You should be careful when accessing your account from a public or shared device, so that others cannot see or copy your credentials or personal information. Make sure you log out at the end of each session and secure any devices from which you access the website.
 
-If you become aware of any unauthorised use of your account or any other security incident, you must tell us immediately at Contactus@zoth.io. We may disable any username, password, or other identifier, whether chosen by you or provided by us, at any time at our discretion, if we believe you have broken these terms or where we consider it necessary to protect the website, the services, other users, or the Protocol Infrastructure.
+If you become aware of any unauthorised use of your account or any other security incident, you must tell us immediately at contactus@zoth.io. We may disable any username, password, or other identifier, whether chosen by you or provided by us, at any time at our discretion, if we believe you have broken these terms or where we consider it necessary to protect the website, the services, other users, or the Protocol Infrastructure.
 
 ### 15. Intellectual Property
 
@@ -328,7 +328,7 @@ You understand and agree that by entering into these terms, you are waiving the 
 
 You and the Company agree that all claims must be brought on an individual basis only and not as a plaintiff or class member in any class, collective, consolidated, or representative proceeding. The arbitrator has no authority to combine disputes of more than one user or to handle any kind of representative or class proceeding.
 
-Before starting arbitration, you agree to first try to resolve the dispute informally by contacting us at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and giving a brief written description of the dispute and your contact details. If the dispute is not resolved within thirty (30) days after we receive that notice, either Party may start arbitration. Nothing in this Section stops either Party from asking a court with jurisdiction for urgent or interim relief.
+Before starting arbitration, you agree to first try to resolve the dispute informally by contacting us at contactus@zoth.io and giving a brief written description of the dispute and your contact details. If the dispute is not resolved within thirty (30) days after we receive that notice, either Party may start arbitration. Nothing in this Section stops either Party from asking a court with jurisdiction for urgent or interim relief.
 
 Any claim or cause of action arising out of or related to these Terms or the use of the website or the services must be filed within one (1) year after it arose, otherwise it is permanently barred, as far as the law allows.
 
