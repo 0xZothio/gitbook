@@ -48,8 +48,17 @@
 ## &#x20;Zocta: Universal Loyalty Engine
 
 * [What Are Zocta Points?](zocta-universal-loyalty-engine/what-are-zocta-points.md)
-* [How Users Earn Zocta Points?](zocta-universal-loyalty-engine/how-users-earn-zocta-points.md)
-* [Page 1](zocta-universal-loyalty-engine/page-1.md)
+* [How to Collect Zocta Points?](zocta-universal-loyalty-engine/how-to-collect-zocta-points.md)
+* [zOPAL Zocta Campaign](zocta-universal-loyalty-engine/zopal-zocta-campaign.md)
+* [Earning Rates](zocta-universal-loyalty-engine/earning-rates.md)
+* [How Referral Codes Work?](zocta-universal-loyalty-engine/how-referral-codes-work.md)
+* [Where to Check Your Points](zocta-universal-loyalty-engine/where-to-check-your-points.md)
+* [Locked Points and Maturity](zocta-universal-loyalty-engine/locked-points-and-maturity.md)
+* [TVL Cap](zocta-universal-loyalty-engine/tvl-cap.md)
+* [How to Redeem Zocta Points](zocta-universal-loyalty-engine/how-to-redeem-zocta-points.md)
+* [Future Zocta Campaigns](zocta-universal-loyalty-engine/future-zocta-campaigns.md)
+* [Important Notes](zocta-universal-loyalty-engine/important-notes.md)
+* [Key Takeaways](zocta-universal-loyalty-engine/key-takeaways.md)
 
 ## Legal Disclaimer
 
