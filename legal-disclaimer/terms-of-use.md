@@ -114,13 +114,11 @@ You agree that you will not, directly or indirectly, do any of the following:
 
 6.9. Send spam or other unwanted messages through the website, including mass messages or adverts that we have not clearly approved.
 
-6.10. Use any robot, spider, crawler, scraper, or similar automated tool to access the website or services, except for genuine search engines that follow our robots.txt file or similar instructions.
+6.10. Hotlink, frame, or mirror any part of the website without our prior written consent, or remove or change any trademarks or notices on the website.
 
-6.11. Hotlink, frame, or mirror any part of the website without our prior written consent, or remove or change any trademarks or notices on the website.
+6.11. Try to get around, disable, damage, or interfere with any security or access control features of the website, the services, or our related systems.
 
-6.12. Try to get around, disable, damage, or interfere with any security or access control features of the website, the services, or our related systems.
-
-6.13. Do anything that places, or may place, an unreasonable or excessive load on our systems or on any Blockchain Network, including denial-of-service attacks, spam transactions, or similar actions.
+6.12. Do anything that places, or may place, an unreasonable or excessive load on our systems or on any Blockchain Network, including denial-of-service attacks, spam transactions, or similar actions.
 
 ### 7. User Responsibility
 
