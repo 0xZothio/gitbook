@@ -26,6 +26,7 @@
 * [How to Make Your Yield Product Legally Compliant](zvaults/how-to-make-your-yield-product-legally-compliant.md)
 * [Architecture of zVaults](zvaults/architecture-of-zvaults/README.md)
   * [Contracts](zvaults/architecture-of-zvaults/contracts.md)
+  * [Centralized Access Control](zvaults/architecture-of-zvaults/centralized-access-control.md)
 
 ## Group 1
 
