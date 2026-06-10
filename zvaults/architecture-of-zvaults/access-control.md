@@ -2,6 +2,8 @@
 
 Every guarded action in the protocol checks a role against a single contract, `ZothAccessControl`. This concentrates risk by design: compromise of `ZothAccessControl` is compromise of the entire protocol, which is why the roles it administers are held by separate keys rather than any single one. The custody and signing model that enforces that separation is set out under Operational Security. Additionally, oracle roles live in a separate access-control contract, `FunctionsAccessControl`, so the price feed's authority does not share a control surface with the vaults.
 
+<figure><img src="../../.gitbook/assets/zVault_RBAC_Hierarchy.png" alt=""><figcaption></figcaption></figure>
+
 #### ZothAccessControl Roles
 
 | Role                            | Assigned to                | Capabilities                                                                                                                      |

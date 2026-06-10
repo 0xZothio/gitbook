@@ -2,6 +2,8 @@
 
 The protocol stacks into five horizontal layers, from upgrade control at the top to external integrations at the bottom.
 
+<figure><img src="../../.gitbook/assets/zVault_System_Architecture.png" alt=""><figcaption></figcaption></figure>
+
 | Layer            | Contracts                                     | Responsibility                                                                                                                     |
 | ---------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Proxy            | `ProxyAdmin`                                  | Owns all upgradeable proxies. Multisig-controlled. Enables upgrades without state migration                                        |
