@@ -4,6 +4,8 @@ zVaults are operated under a layered security framework that treats key custody,
 
 ### Custody and Key Management
 
+Zoth has established partnerships with [ForDeFi](https://fordefi.com/) as the leading MPC wallet providers to ensure fund managers have access to battle-tested, enterprise-grade custody infrastructure.&#x20;
+
 The highest-privilege layer. Control over vault funds and protocol state is held in multi-party computation (MPC) wallets, never single keys.
 
 * **Threshold custody:** privileged wallets require a 3-of-5 signing quorum, so no individual can move funds or change protocol state alone.
@@ -11,6 +13,14 @@ The highest-privilege layer. Control over vault funds and protocol state is held
 * **Role separation:** super-admin, vault-admin, screening, and NAV-update authorities are held by distinct wallets, so no single role concentrates control.
 * **Out-of-band confirmation:** each privileged transaction is approved by the required quorum on a live video call before it is signed.
 * **Minimal deployment footprint:** the temporary key used to deploy the contracts is decommissioned once setup completes, leaving no standing single-key authority over live vaults.
+
+### Cross-Chain Bridge Security
+
+For fund strategies requiring cross-chain asset movement, the protocol enforces strict security standards for bridge infrastructure. \
+\
+Zoth has partnered with [LiFi](https://li.finance/). In future only verified bridge partners with extensive operational history, proven security track records, and comprehensive insurance coverage are approved for protocol use. This whitelist approach prevents fund managers from using untested or high-risk bridge solutions that could expose vault assets to bridge-specific vulnerabilities.
+
+The protocol continuously monitors cross-chain transfers, with anomaly detection systems flagging unusual bridge activity.
 
 ### Personnel Security
 

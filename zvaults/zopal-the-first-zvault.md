@@ -1,10 +1,12 @@
-# zOPAL
+# zOPAL - The first zVault
 
 ### Factsheet
 
 &#x20;[https://docsend.com/view/a6vjaruvisqzmxqx](https://docsend.com/view/a6vjaruvisqzmxqx)
 
 ### How it works
+
+<figure><img src="../.gitbook/assets/Getting Started with zOPAL.gif" alt=""><figcaption></figcaption></figure>
 
 [https://docsend.com/view/46m8wshpwr24thtn](https://docsend.com/view/46m8wshpwr24thtn)
 

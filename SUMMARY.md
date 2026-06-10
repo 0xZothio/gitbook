@@ -14,11 +14,11 @@
 ## The Hierarchical Architecture
 
 * [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
-* [Layer 1: Stablecoin NeoBank Apps](the-hierarchical-architecture/layer-1-stablecoin-neobank-apps.md)
-* [Layer 1: FAAST](the-hierarchical-architecture/layer-1-faast.md)
-* [Layer 2: zVaults](the-hierarchical-architecture/layer-2-zvaults.md)
-* [Layer 3: USDZe](the-hierarchical-architecture/layer-3-usdze.md)
-* [Layer 4: Stablecoin Neobank](the-hierarchical-architecture/layer-4-stablecoin-neobank.md)
+* [Layer 1: Stablecoin Neobank Applications](the-hierarchical-architecture/layer-1-stablecoin-neobank-applications.md)
+* [Layer 2: Agentic Economy Solutions](the-hierarchical-architecture/layer-2-agentic-economy-solutions.md)
+* [Layer 3: Institutional Grade Technology Infrastructure](the-hierarchical-architecture/layer-3-institutional-grade-technology-infrastructure.md)
+* [Layer 4: Regulatory and Compliance Infrastructure](the-hierarchical-architecture/layer-4-regulatory-and-compliance-infrastructure.md)
+* [Layer 5: Zocta Points](the-hierarchical-architecture/layer-5-zocta-points.md)
 
 ## zVaults
 
@@ -50,7 +50,6 @@
 
 * [Overview: Defense-in-Depth Architecture](security-and-risk-management-framework/overview-defense-in-depth-architecture.md)
 * [Smart Contract Security](security-and-risk-management-framework/smart-contract-security.md)
-* [Custody and Operational Security](security-and-risk-management-framework/custody-and-operational-security.md)
 * [Oracle and Attestation Security](security-and-risk-management-framework/oracle-and-attestation-security.md)
 * [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
 * [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
@@ -85,10 +84,6 @@
 ## Zoth Token Utility&#x20;
 
 * [$ZOTH Utility](zoth-token-utility/usdzoth-utility.md)
-
-## Security architecture
-
-* [Zoth’s Multi-Layered Security Architecture](security-architecture/zoths-multi-layered-security-architecture.md)
 
 ## Roadmap&#x20;
 
