@@ -2,8 +2,6 @@
 
 ### Fragmented, Inefficient, and Exclusionary Financial Infrastructure
 
-**Fragmented, Inefficient, and Exclusionary Financial Infrastructure**
-
 Despite rapidly growing economies across the Global South, the financial system remains structurally broken for the institutions and businesses that need it most.
 
 #### 65M+ Businesses Underserved by Formal Financial Infrastructure
