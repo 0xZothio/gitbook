@@ -1,6 +1,8 @@
-# Access Control
+# Gating in zVaults
 
 Every deposit, redemption, and token transfer in a zVault passes through a compliance sequence before it executes. The sequence has three gates, checked in order, and a failure at any gate reverts the entire transaction:
+
+<figure><img src="../../.gitbook/assets/08_compliance_gates_greenlist_blacklist.png" alt=""><figcaption></figcaption></figure>
 
 | Gate      | Controls                                       | Default state                                 | On failure               |
 | --------- | ---------------------------------------------- | --------------------------------------------- | ------------------------ |

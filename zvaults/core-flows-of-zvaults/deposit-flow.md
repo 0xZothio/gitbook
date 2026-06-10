@@ -13,6 +13,8 @@ Whether a vault offers the instant path, the request path, or both is entirely t
 
 On the instant path the user sets a minimum acceptable output, so the mint reverts if the NAV moves unfavorably between quote and execution. Deposited capital is then deployed into the vault's strategy by the fund manager and begins generating yield. The full sequence is shown below.
 
+<figure><img src="../../.gitbook/assets/03_instant_deposit_flow.png" alt=""><figcaption></figcaption></figure>
+
 #### Request Deposit
 
 The request path is used for large deposits above the daily instant limit, or when admin review is required. The user's stablecoins are held by the vault until the request is resolved. Compliance is checked at request creation; on approval the vault mints at the admin-set rate, validated against the oracle within variation tolerance. The flow has two outcomes, approve and reject.
