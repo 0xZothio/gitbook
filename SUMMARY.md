@@ -46,15 +46,6 @@
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
 * [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
 
-## Security and Risk Management Framework
-
-* [Overview: Defense-in-Depth Architecture](security-and-risk-management-framework/overview-defense-in-depth-architecture.md)
-* [Smart Contract Security](security-and-risk-management-framework/smart-contract-security.md)
-* [Oracle and Attestation Security](security-and-risk-management-framework/oracle-and-attestation-security.md)
-* [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
-* [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
-* [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
-
 ## &#x20;Zocta: Universal Loyalty Engine
 
 * [What Are Zocta Points?](zocta-universal-loyalty-engine/what-are-zocta-points.md)
@@ -70,6 +61,24 @@
 * [Important Notes](zocta-universal-loyalty-engine/important-notes.md)
 * [Key Takeaways](zocta-universal-loyalty-engine/key-takeaways.md)
 
+## Zoth Token Utility&#x20;
+
+* [$ZOTH Utility](zoth-token-utility/usdzoth-utility.md)
+
+## Roadmap&#x20;
+
+* [Roadmap](roadmap/roadmap.md)
+* [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
+
+## Security and Risk Management Framework
+
+* [Overview: Defense-in-Depth Architecture](security-and-risk-management-framework/overview-defense-in-depth-architecture.md)
+* [Smart Contract Security](security-and-risk-management-framework/smart-contract-security.md)
+* [Oracle and Attestation Security](security-and-risk-management-framework/oracle-and-attestation-security.md)
+* [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
+* [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
+* [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
+
 ## Legal Disclaimer
 
 * [Governance Risks](legal-disclaimer/governance-risks.md)
@@ -80,15 +89,6 @@
 * [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
 * [Legal and Regulatory Risks](legal-disclaimer/legal-and-regulatory-risks.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
-
-## Zoth Token Utility&#x20;
-
-* [$ZOTH Utility](zoth-token-utility/usdzoth-utility.md)
-
-## Roadmap&#x20;
-
-* [Roadmap](roadmap/roadmap.md)
-* [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
 
 ## RESOURCES
 
