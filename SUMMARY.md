@@ -27,6 +27,13 @@
 * [Architecture of zVaults](zvaults/architecture-of-zvaults/README.md)
   * [Contracts](zvaults/architecture-of-zvaults/contracts.md)
   * [Centralized Access Control](zvaults/architecture-of-zvaults/centralized-access-control.md)
+* [Core Flows](zvaults/core-flows/README.md)
+  * [Deposit Flow](zvaults/core-flows/deposit-flow.md)
+  * [Redemption Flow](zvaults/core-flows/redemption-flow.md)
+  * [NAV Price Update Flow](zvaults/core-flows/nav-price-update-flow.md)
+* [Access Control](zvaults/access-control/README.md)
+  * [Greenlisting](zvaults/access-control/greenlisting.md)
+  * [Blacklisting](zvaults/access-control/blacklisting.md)
 * [zOPAL](zvaults/zopal.md)
 
 ## Group 1

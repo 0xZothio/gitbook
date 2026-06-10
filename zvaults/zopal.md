@@ -2,7 +2,7 @@
 
 ### Factsheet
 
-Check the zOPAL Factsheet for detailed information: [https://docsend.com/view/a6vjaruvisqzmxqx](https://docsend.com/view/a6vjaruvisqzmxqx)
+&#x20;[https://docsend.com/view/a6vjaruvisqzmxqx](https://docsend.com/view/a6vjaruvisqzmxqx)
 
 ### How it works
 
