@@ -1,10 +1,4 @@
----
-description: A Unique Five-Layer Integrated Financial Stack
----
-
-# The Hierarchical Architecture
-
-### A Unique Five-Layer Integrated Financial Stack
+# A Five-Layered Integrated Financial Stack
 
 Zoth is built on a five-layer architecture that connects institution-grade infrastructure with stablecoin-native financial applications. This stack is designed to provide institutions, enterprises, and autonomous systems with a private, compliant, and programmable financial layer for cross-border treasury, payments, and machine-native finance.
 
