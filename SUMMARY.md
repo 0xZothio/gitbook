@@ -13,12 +13,12 @@
 
 ## The Hierarchical Architecture
 
-* [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
-* [Layer 1: Stablecoin Neobank Applications](the-hierarchical-architecture/layer-1-stablecoin-neobank-applications.md)
-* [Layer 2: Agentic Economy Solutions](the-hierarchical-architecture/layer-2-agentic-economy-solutions.md)
-* [Layer 3: Institutional Grade Technology Infrastructure](the-hierarchical-architecture/layer-3-institutional-grade-technology-infrastructure.md)
-* [Layer 4: Regulatory and Compliance Infrastructure](the-hierarchical-architecture/layer-4-regulatory-and-compliance-infrastructure.md)
-* [Layer 5: Zocta Points](the-hierarchical-architecture/layer-5-zocta-points.md)
+* [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture/README.md)
+  * [Layer 1: Stablecoin Neobank Applications](the-hierarchical-architecture/the-hierarchical-architecture/layer-1-stablecoin-neobank-applications.md)
+  * [Layer 2: Agentic Economy Solutions](the-hierarchical-architecture/the-hierarchical-architecture/layer-2-agentic-economy-solutions.md)
+  * [Layer 3: Institutional Grade Technology Infrastructure](the-hierarchical-architecture/the-hierarchical-architecture/layer-3-institutional-grade-technology-infrastructure.md)
+  * [Layer 4: Regulatory and Compliance Infrastructure](the-hierarchical-architecture/the-hierarchical-architecture/layer-4-regulatory-and-compliance-infrastructure.md)
+  * [Layer 5: Zocta Points](the-hierarchical-architecture/the-hierarchical-architecture/layer-5-zocta-points.md)
 
 ## zVaults
 
