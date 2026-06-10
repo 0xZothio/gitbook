@@ -2,27 +2,28 @@
 
 ### Why a Stablecoin Neobank Is the Next Evolution
 
-Finance is transitioning from bank-centric systems to stablecoin-native architectures.\
 The next generation of financial infrastructure will be built on:
 
 * tokenized money
 * programmable, compliant yield
 * real-time cross-border liquidity
 * compliance-first digital rails
-* universal payment access via cards
+* privacy-preserving financial infrastructure
+* embedded payment access
 * machine-native financial interfaces for autonomous systems
 
-A Stablecoin Neobank represents the natural convergence of these layers, purpose-built not only for individuals and businesses, but also for software agents participating in the emerging agentic economy.
+A stablecoin neobank is the strategic convergence of these layers. It is a purpose-built financial operating layer for institutions, enterprises, and autonomous systems that require private, compliant, programmable infrastructure.
 
-Zoth’s infrastructure is designed to remove fragmentation by delivering a unified financial stack:
+Zoth eliminates fragmentation by delivering a unified financial stack:
 
-* A Liquid Yield Asset backed by reserves issued through regulated financial structures
-* Enterprise-grade tokenization infrastructure
-* Instant global payments and remittance
-* Real-time spendability via cards
-* Automated treasury and liquidity routing
-* Embedded KYC/AML/KYB enabling secure integration and scalable secondary market liquidity
-* An autonomous financial framework that powers programmable transactions and intelligent capital management.
+* a Liquid Yield Asset backed by reserves and issued through regulated financial structures
+* institution-grade tokenization infrastructure
+* instant global payments and remittance infrastructure
+* seamless enterprise spend access
+* automated treasury and liquidity routing
+* embedded KYC/AML/KYB frameworks for secure integration and scalable financial operations
+* a machine-native financial framework that powers programmable transactions, agentic payments, and intelligent capital coordination
 
-This positions Zoth as a Privacy-First Stablecoin Neobank for the Global South and the Agentic Economy, an integrated platform where digital assets, compliant yield, intelligent automation, and global payment rails converge into a single, interoperable system.
+This positions Zoth as a privacy-first stablecoin neobank for the Global South and the Agentic Economy, an integrated platform where compliant yield, payment infrastructure, privacy-preserving financial rails, and intelligent automation converge in a single institution-grade system.
 
+<br>
