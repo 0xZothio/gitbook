@@ -14,6 +14,7 @@
 ## The Hierarchical Architecture
 
 * [The Hierarchical Architecture](the-hierarchical-architecture/the-hierarchical-architecture.md)
+* [Layer 1: Stablecoin NeoBank Apps](the-hierarchical-architecture/layer-1-stablecoin-neobank-apps.md)
 * [Layer 1: FAAST](the-hierarchical-architecture/layer-1-faast.md)
 * [Layer 2: zVaults](the-hierarchical-architecture/layer-2-zvaults.md)
 * [Layer 3: USDZe](the-hierarchical-architecture/layer-3-usdze.md)
