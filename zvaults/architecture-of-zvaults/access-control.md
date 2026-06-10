@@ -1,6 +1,6 @@
-# Centralized Access Control
+# Access Control
 
-Every guarded action in the protocol checks a role against a single contract, `ZothAccessControl`. This concentrates risk by design: compromise of `ZothAccessControl` is compromise of the entire protocol, which is why the roles it administers are held by separate keys rather than any single one. The custody and signing model that enforces that separation is set out under Operational Security. Additionally oracle roles live in a separate access-control contract, `FunctionsAccessControl`, so the price feed's authority does not share a control surface with the vaults.
+Every guarded action in the protocol checks a role against a single contract, `ZothAccessControl`. This concentrates risk by design: compromise of `ZothAccessControl` is compromise of the entire protocol, which is why the roles it administers are held by separate keys rather than any single one. The custody and signing model that enforces that separation is set out under Operational Security. Additionally, oracle roles live in a separate access-control contract, `FunctionsAccessControl`, so the price feed's authority does not share a control surface with the vaults.
 
 #### ZothAccessControl Roles
 
@@ -24,5 +24,3 @@ Every guarded action in the protocol checks a role against a single contract, `Z
 | `DEFAULT_ADMIN_ROLE` | Protocol multisig       | Manage `PRICE_ADMIN` and CONFIG roles within `FunctionsAccessControl`.                         |
 | `PRICE_ADMIN_ROLE`   | NAV update wallet (MPC) | Call `setPrice()` on `PriceOracle`. Must be a dedicated MPC wallet separate from vault admins. |
 | `CONFIG_ROLE`        | Ops wallet (MPC)        | Modify oracle parameters: `tolerancePercent`, `priceDecimals`, `maxStaleness`.                 |
-
-### Token, Mint, and Burn

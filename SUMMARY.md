@@ -26,7 +26,7 @@
 * [How to Make Your Yield Product Legally Compliant](zvaults/how-to-make-your-yield-product-legally-compliant.md)
 * [Architecture of zVaults](zvaults/architecture-of-zvaults/README.md)
   * [Contracts](zvaults/architecture-of-zvaults/contracts.md)
-  * [Centralized Access Control](zvaults/architecture-of-zvaults/centralized-access-control.md)
+  * [Access Control](zvaults/architecture-of-zvaults/access-control.md)
 * [Core Flows of zVaults](zvaults/core-flows-of-zvaults/README.md)
   * [Deposit Flow](zvaults/core-flows-of-zvaults/deposit-flow.md)
   * [Redemption Flow](zvaults/core-flows-of-zvaults/redemption-flow.md)
@@ -37,15 +37,14 @@
   * [PriceOracle](zvaults/contracts-of-zvaults/priceoracle.md)
   * [zTOKEN](zvaults/contracts-of-zvaults/ztoken.md)
   * [ZothAccessControl](zvaults/contracts-of-zvaults/zothaccesscontrol.md)
-* [Access Control in zVaults](zvaults/access-control-in-zvaults/README.md)
-  * [Greenlisting](zvaults/access-control-in-zvaults/greenlisting.md)
-  * [Blacklisting](zvaults/access-control-in-zvaults/blacklisting.md)
+* [Gating in zVaults](zvaults/gating-in-zvaults/README.md)
+  * [Greenlisting](zvaults/gating-in-zvaults/greenlisting.md)
+  * [Blacklisting](zvaults/gating-in-zvaults/blacklisting.md)
 * [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
-
-## Group 1
-
-* [Flexibility and Security of zVaults](group-1/flexibility-and-security-of-zvaults.md)
-* [zVaults Audit](group-1/zvaults-audit.md)
+* [Security of zVaults](zvaults/security-of-zvaults/README.md)
+  * [Contracts Security](zvaults/security-of-zvaults/contracts-security.md)
+  * [Operational Security](zvaults/security-of-zvaults/operational-security.md)
+* [Audits of zVaults](zvaults/audits-of-zvaults.md)
 
 ## Security and Risk Management Framework
 

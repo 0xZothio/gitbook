@@ -6,8 +6,8 @@ A zVault is a layered smart-contract system, not a single contract. Responsibili
 [contracts.md](contracts.md)
 {% endcontent-ref %}
 
-{% content-ref url="centralized-access-control.md" %}
-[centralized-access-control.md](centralized-access-control.md)
+{% content-ref url="access-control.md" %}
+[access-control.md](access-control.md)
 {% endcontent-ref %}
 
 ### Token, Mint, and Burn
