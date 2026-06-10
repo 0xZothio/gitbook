@@ -16,6 +16,8 @@ The redemption value of a `zTOKEN` is set by the oracle-reported vault NAV, so u
 
 On the instant path a user redeems directly from the vault's liquidity buffer in a single transaction: the user approves the vault to spend the `zTOKEN`, calls `redeemInstant`, and receives stablecoins net of fee once the compliance and limit checks pass. The full sequence is shown below.
 
+<figure><img src="../../.gitbook/assets/zVault_Instant_Redemption.png" alt=""><figcaption></figcaption></figure>
+
 | Step | Actor             | Action                                                                                                                    |
 | ---- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1    | User              | Call `approve(redemptionVault, zTOKENAmount)` on the `zTOKEN` contract.                                                   |
@@ -31,6 +33,8 @@ The redemption fee is deducted from the `zTOKEN` input before burning. USDC outp
 #### Request Redemption
 
 The request path handles redemptions that settle from the vault's strategy rather than the instant buffer. The user approves the vault on the `zTOKEN` and calls `redeemRequest`; the vault escrows the net `zTOKEN` and takes the fee at request creation, then an admin approves or rejects. The flow has two outcomes.
+
+<figure><img src="../../.gitbook/assets/zVault_Request_Redemption.png" alt=""><figcaption></figcaption></figure>
 
 | Step         | Actor             | Action                                                                                                                                                                                                                                                 |
 | ------------ | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
