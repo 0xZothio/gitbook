@@ -23,6 +23,7 @@
 ## zVaults
 
 * [What are zVaults?](zvaults/what-are-zvaults.md)
+* [How to Make Your Yield Product Legally Compliant](zvaults/how-to-make-your-yield-product-legally-compliant.md)
 * [Architecture of zVaults](zvaults/architecture-of-zvaults.md)
 
 ## Group 1
