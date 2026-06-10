@@ -1,28 +1,20 @@
 # What are zVaults?
 
-zVaults represent the foundational infrastructure layer of the Zoth protocol, serving as specialized, yield-generating investment vehicles that bridge traditional fund management with blockchain technology. Each zTOKEN is an ERC-20 compliant, interest-bearing token where the token price appreciates over time to reflect accumulated yield from underlying investment strategies.
+zVaults are the foundational infrastructure layer of the Zoth protocol: specialized, yield-generating investment vehicles that bring institutional fund management on-chain. Each zTOKEN is an ERC-20 compliant, interest-bearing token whose price appreciates over time to reflect yield accrued from the vault's underlying strategies.
 
-Unlike traditional stablecoins that maintain fixed value parity, zTOKENs function as tokenized fund shares. Each token represents a proportional claim on the vault's net asset value (NAV), which increases as the fund manager's strategy generates returns. This share-based model aligns zTOKENs with conventional mutual fund or hedge fund structures while leveraging blockchain technology for transparency, composability, and efficient settlement.
+zTOKENs are not stablecoins. Where a stablecoin holds fixed value parity, a zTOKEN behaves as a tokenized fund share: each token is a proportional claim on the vault's net asset value (NAV), and its value moves with the NAV as the strategies perform. This share-based model mirrors conventional mutual fund and hedge fund structures, with blockchain settlement adding transparency, composability, and efficient settlement.
 
-zVaults are strategy-specific investment vehicles, with each vault typically focusing on a distinct investment domain or approach. The vault taxonomy includes:
+A zVault can run a single strategy or combine several. zOPAL, the first live vault, allocates across two: BlackOpal's LiquidStone II credit strategy and Superstate's market-neutral basis trading. Each vault carries a defined mandate and risk profile, so investors and auditors can assess exposure against clear parameters rather than an open-ended basket.
 
-* Real-World Asset (RWA) Vaults: Tokenized exposure to traditional assets such as commodities, secured lending, and equity positions
-* DeFi Strategy Vaults: On-chain yield generation through liquidity provision, lending, derivatives, and trading strategies
-* Private Credit  Lending Vaults: Direct credit facilities and structured lending arrangements
-* Geographic-Specific Vaults: Funds focused on particular jurisdictions or regional opportunities
+zVaults draw exposure from across these strategy categories:
 
-※ Vaults based on single strategy and risk tier. Not a mixed strategy and risk tier. Risk-Tier Vaults: Categorized by risk profile (conservative, moderate, aggressive) to accommodate diverse investor preferences
+| Strategy category          | Exposure                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
+| Real-World Asset (RWA)     | Tokenized traditional assets like ETFs, gold etc: commodities, secured lending, equity positions |
+| DeFi Strategy              | On-chain yield via liquidity provision, lending, derivatives, and trading                        |
+| Private Credit and Lending | Direct credit facilities and structured lending arrangements                                     |
+| Geographic-Specific        | Strategies focused on a particular jurisdiction or region                                        |
 
-* Single-Strategy Vaults: Highly specialized funds executing discrete strategies within narrow mandates
-
-While fund managers maintain complete operational control over their strategy execution and can deploy capital across any DeFi protocol, blockchain network, or token asset, most vaults concentrate on singular or closely related investment domains to maintain strategic coherence and operational efficiency.
-
-The zVaults ecosystem forms the yield-generating substrate for higher-level protocol products. Notably, USDZe, the protocol's flagship Liquid Yield Token—is itself structured as a vault that allocates capital across multiple underlying zVaults according to governance-determined weights. This hierarchical architecture allows USDZe to offer diversified, risk-adjusted yield while individual zVaults provide specialized exposure for investors seeking targeted strategies.
-
-
-
-{% content-ref url="https://app.gitbook.com/o/nQaJxCXm3bMnQVuyOkcB/s/XURXSnMUVZwozmmHDoCA/" %}
-[Docs](https://app.gitbook.com/o/nQaJxCXm3bMnQVuyOkcB/s/XURXSnMUVZwozmmHDoCA/)
-{% endcontent-ref %}
+Fund managers retain full operational control over strategy execution and may deploy capital across any DeFi protocol, network, or asset within their vault's mandate.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
