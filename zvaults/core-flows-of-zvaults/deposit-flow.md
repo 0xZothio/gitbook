@@ -1,7 +1,5 @@
 # Deposit Flow
 
-### Deposit Flow
-
 A deposit mints the vault's `zTOKEN` against accepted stablecoins. Two paths exist, both minting the same token.
 
 | Path            | When used                                                                 | Outcome                                                                                                                                                     |
