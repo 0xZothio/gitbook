@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Key Takeaways
 
 * Zocta Points are Zoth’s ecosystem rewards layer.
