@@ -27,20 +27,12 @@
 * [Architecture of zVaults](zvaults/architecture-of-zvaults/README.md)
   * [Contracts](zvaults/architecture-of-zvaults/contracts.md)
   * [Centralized Access Control](zvaults/architecture-of-zvaults/centralized-access-control.md)
+* [zOPAL](zvaults/zopal.md)
 
 ## Group 1
 
 * [Flexibility and Security of zVaults](group-1/flexibility-and-security-of-zvaults.md)
 * [zVaults Audit](group-1/zvaults-audit.md)
-* [zOPAL: Asset-Backed Financing Strategy](group-1/zopal-asset-backed-financing-strategy.md)
-* [zOPAL: Contracts and Integrations](group-1/zopal-contracts-and-integrations.md)
-
-## USDZe: Liquid Yield assets
-
-* [What is USDZe?](usdze-liquid-yield-assets/what-is-usdze.md)
-* [How USDZe Generates Yield](usdze-liquid-yield-assets/how-usdze-generates-yield.md)
-* [Why Yield is Sustainable, Not Ponzi](usdze-liquid-yield-assets/why-yield-is-sustainable-not-ponzi.md)
-* [Minting & Redemption Flows](usdze-liquid-yield-assets/minting-and-redemption-flows.md)
 
 ## Security and Risk Management Framework
 
