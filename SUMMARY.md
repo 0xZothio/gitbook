@@ -63,7 +63,7 @@
 
 ## $ZOTH
 
-* [$ZOTH Utility](usdzoth/usdzoth-utility.md)
+* [Token Utility](usdzoth/token-utility.md)
 
 ## Roadmap&#x20;
 
