@@ -40,11 +40,11 @@
 * [Gating in zVaults](zvaults/gating-in-zvaults/README.md)
   * [Greenlisting](zvaults/gating-in-zvaults/greenlisting.md)
   * [Blacklisting](zvaults/gating-in-zvaults/blacklisting.md)
-* [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
 * [Security of zVaults](zvaults/security-of-zvaults/README.md)
   * [Contracts Security](zvaults/security-of-zvaults/contracts-security.md)
   * [Operational Security](zvaults/security-of-zvaults/operational-security.md)
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
+* [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
 
 ## Security and Risk Management Framework
 
