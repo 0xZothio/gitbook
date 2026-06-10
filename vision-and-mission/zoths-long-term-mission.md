@@ -1,6 +1,6 @@
 # Zoth’s Long-Term Mission
 
-## Building an Economic Engine for Emerging Markets and the Agentic Economy
+### Building an Economic Engine for Emerging Markets and the Agentic Economy
 
 Global financial innovation has historically overlooked emerging markets, despite these economies accounting for over $1.2 trillion in annual remittances and supporting some of the world’s fastest-growing digital and commercial ecosystems. The structural gaps remain significant: slow and expensive cross-border payments, limited access to stable dollar-denominated products, dependence on fragmented FX channels, weak financial privacy, and little access to institution-grade financial infrastructure.
 

@@ -1,6 +1,6 @@
 # The Future of Money
 
-## A New Financial Layer for the Global South and the Agentic Economy
+### A New Financial Layer for the Global South and the Agentic Economy
 
 Money is evolving. What once depended on bank branches, correspondent networks, and multi-day settlement is becoming instant, programmable, and borderless. Financial infrastructure is being rebuilt from the ground up, and the Global South and the Agentic Economy are at the center of this transition.
 
