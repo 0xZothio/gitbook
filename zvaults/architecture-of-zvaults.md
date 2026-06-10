@@ -1,37 +1,74 @@
 # Architecture of zVaults
 
-The zVaults architecture implements a permissioned, institutionally-oriented design that balances fund manager autonomy with protocol-level security and compliance requirements.
+A zVault is a layered smart-contract system, not a single contract. Responsibilities are split across distinct contracts so that each does one job and the boundaries between them are auditable. The architecture is deployment-agnostic: every vault launched on the protocol reuses the same contract set, regardless of its underlying strategy. The design separates what must stay open and transparent (the token, the price feed) from what must stay tightly controlled (role administration, upgrades, custody authority).
 
-### Smart Contract Infrastructure
+### The Five Layers
 
-All zVaults are deployed as ERC-20 compliant smart contracts adhering to a standardized interface template. This standardization ensures interoperability across the Zoth ecosystem while allowing customization of strategy-specific parameters and logic.
+The protocol stacks into five horizontal layers, from upgrade control at the top to external integrations at the bottom.
 
-Vault contracts implement upgradeable proxy patterns, enabling protocol improvements and bug fixes without requiring migration of user funds or disruption of vault operations. However, upgrade authority is restricted exclusively to the Zoth Foundation, preventing fund managers from unilaterally modifying core contract logic. This governance structure protects investors from potential malfeasance while allowing the protocol to adapt to evolving security best practices and technological improvements.
+| Layer            | Contracts                                 | Responsibility                                                                                                                 |
+| ---------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Proxy            | ProxyAdmin                                | Owns all upgradeable proxies. Multisig-controlled. Enables upgrades without state migration                                    |
+| Access control   | ZothAccessControl, FunctionsAccessControl | Single source of truth for roles. ZothAccessControl governs vault and token roles; FunctionsAccessControl governs oracle roles |
+| Token and oracle | zTOKEN, PriceOracle                       | The ERC-20 NAV-share token (upgradeable) and the non-upgradeable NAV price feed                                                |
+| Vault layer      | DepositVault, RedemptionVault             | DepositVault mints the zTOKEN against deposits; RedemptionVault burns it and returns deposit asset                             |
+| External         | Screener                                  | Screens addresses and correctly identifies risks before authorizing transactions                                               |
 
-### Vault Creation and Onboarding
+### The Seven Contracts
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+| Contract               | Type   | Upgradeable | Purpose                                                |
+| ---------------------- | ------ | ----------- | ------------------------------------------------------ |
+| ZothAccessControl      | Access | Yes (proxy) | Central role management for all contracts              |
+| zTOKEN                 | Token  | Yes (proxy) | ERC-20 interest-bearing token with compliance controls |
+| DepositVault           | Vault  | Yes (proxy) | Accepts deposits, mints the zTOKEN                     |
+| RedemptionVault        | Vault  | Yes (proxy) | Burns the zTOKEN, returns deposit assets               |
+| PriceOracle            | Oracle | No          | NAV price feed with tolerance and staleness checks     |
+| FunctionsAccessControl | Access | No          | Role management scoped to the oracle                   |
+| ProxyAdmin             | Admin  | No          | Controls all proxy upgrades                            |
 
-zVault creation follows a permissioned process requiring comprehensive Know Your Business (KYB) verification and compliance screening. The onboarding pathway accommodates fund managers across the operational maturity spectrum:
+### Centralized Access Control
 
-For established fund managers with existing legal entities and operational infrastructure, Zoth conducts KYB due diligence and, upon approval, deploys a customized vault contract tailored to the fund's specific strategy and requirements.
+Every guarded action in the protocol checks a role against a single contract, ZothAccessControl. This concentrates risk by design: compromise of ZothAccessControl is compromise of the entire protocol, which is why the roles it administers are held by separate keys rather than any single one. The custody and signing model that enforces that separation is set out under Operational Security. Additionally oracle roles live in a separate access-control contract, FunctionsAccessControl, so the price feed's authority does not share a control surface with the vaults.
 
-For emerging fund managers without existing infrastructure, Zoth provides comprehensive turnkey services spanning the entire fund establishment lifecycle. This includes corporate incorporation, legal documentation, regulatory compliance frameworks, and data analytics infrastructure. This white-glove onboarding model reduces barriers to entry for qualified managers while maintaining institutional-grade operational standards.
+#### ZothAccessControl Roles
 
-### Custody and Key Management
+| Role                            | Assigned to              | Capabilities                                                                                                                |
+| ------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| DEFAULT\_ADMIN\_ROLE (0x00...0) | Protocol multisig        | Grant and revoke all roles. Update sanctions oracle. Emergency override. Transfer ProxyAdmin.                               |
+| DEPOSIT\_VAULT\_ADMIN\_ROLE     | Ops wallet (MPC)         | Approve and reject deposit requests. Configure fees, limits, supply cap. Add and remove payment tokens. Pause DepositVault. |
+| REDEMPTION\_VAULT\_ADMIN\_ROLE  | Ops wallet (MPC)         | Approve and reject redemption requests. Configure redemption fees. Set requestRedeemer address. Pause RedemptionVault.      |
+| GREENLIST\_OPERATOR\_ROLE       | Compliance wallet (MPC)  | Grant or revoke GREENLISTED\_ROLE for individual addresses.                                                                 |
+| BLACKLIST\_OPERATOR\_ROLE       | Compliance wallet (MPC)  | Grant or revoke BLACKLISTED\_ROLE for individual addresses.                                                                 |
+| GREENLISTED\_ROLE               | Greenlisted user wallet  | Required to call depositInstant, depositRequest, redeemInstant, redeemRequest. Fiat redemptions always require this role.   |
+| BLACKLISTED\_ROLE               | Blocked wallet           | Prevents deposits, redemptions, and zTOKEN transfers, both send and receive.                                                |
+| MINT\_OPERATOR\_ROLE            | DepositVault contract    | Can call [zTOKEN.mint](http://ztoken.mint)(). Assigned automatically to DepositVault at deployment.                         |
+| BURN\_OPERATOR\_ROLE            | RedemptionVault contract | Can call zTOKEN.burn(). Assigned automatically to RedemptionVault at deployment.                                            |
+| PAUSE\_OPERATOR\_ROLE           | Ops wallet (MPC)         | Can call zTOKEN.pause() and unpause() to halt all token transfers.                                                          |
 
-Fund managers are required to utilize multi-party computation (MPC) wallets for all vault asset custody and transaction execution. MPC technology distributes private key material across multiple parties, eliminating single points of failure and substantially reducing risks of private key compromise, theft, or unauthorized access. This institutional-grade custody requirement aligns zVaults with best practices in traditional asset management while leveraging cryptographic innovations unique to blockchain infrastructure.
+#### FunctionsAccessControl Roles (Oracle)
 
-### Fund Administration and Attestation
+| Role                 | Assigned to             | Capabilities                                                                               |
+| -------------------- | ----------------------- | ------------------------------------------------------------------------------------------ |
+| DEFAULT\_ADMIN\_ROLE | Protocol multisig       | Manage PRICE\_ADMIN and CONFIG roles within FunctionsAccessControl.                        |
+| PRICE\_ADMIN\_ROLE   | NAV update wallet (MPC) | Call setPrice() on PriceOracle. Must be a dedicated MPC wallet separate from vault admins. |
+| CONFIG\_ROLE         | Ops wallet (MPC)        | Modify oracle parameters: tolerancePercent, priceDecimals, maxStaleness.                   |
 
-Each zVault is subject to ongoing oversight by independent fund administrators who audit portfolio positions, verify NAV calculations, and attest to reported performance metrics. These administrators serve as the primary attestors in the oracle network, providing biweekly price updates that flow through to on-chain oracle contracts. The administrator attestation model imports traditional fund industry checks and balances into the blockchain environment, creating accountability and verification layers familiar to institutional investors.
+### Token, Mint, and Burn
 
-### Operational Autonomy
+The zTOKEN is an ERC-20 representing a proportional share of the vault's NAV, the interest-bearing claim described earlier. New tokens can be created only by the DepositVault and destroyed only by the RedemptionVault, each through a dedicated minter / burner role assigned to that contract alone. No other address can mint or burn. Compliance is enforced on the token itself: every transfer, including mint and burn, is screened against the greenlist, blacklist and sanctions list before it executes.
 
-Within the framework of protocol-level security and compliance requirements, fund managers retain comprehensive operational control over investment execution. Managers can deploy capital to any DeFi protocol, operate across any blockchain network (subject to protocol-supported integrations), and trade any digital or tokenized asset consistent with their vault's stated strategy. This operational flexibility enables managers to pursue alpha-generating opportunities without artificial constraints while maintaining appropriate risk management and compliance boundaries.
+### Price Oracle and Safety Bounds
 
-### Integration with USDZe
+NAV is published to the non-upgradeable PriceOracle by a dedicated multisig in a 3-of-5 MPC configuration. The oracle is deliberately immutable to maximize trust in the price feed. It enforces two guards; a tolerance check rejects any submitted price that deviates from the current price by more than a configured bound, blocking sudden manipulation. On read, a staleness check reverts if the price has not been refreshed within a configured window, halting all vault activity rather than letting deposits and redemptions execute against an outdated NAV.
 
-The zVaults architecture serves as the foundational layer for USDZe, which functions as a vault-of-vaults allocating capital across multiple constituent zVaults. When users deposit into USDZe, the protocol actually acquires and holds the underlying zTOKENs representing shares in each allocated vault. This direct ownership model ensures that USDZe's value transparently reflects the aggregate performance of its constituent positions.
+### Compliance Built Into the Contracts
 
-Allocation decisions, determining what percentage of USDZe assets are deployed to each underlying zVaults, are implemented through a combination of smart contract enforcement and operational execution. The allocation framework operates at both layers: smart contract logic enforces deposit and withdrawal limits and routing rules, while operational processes managed by the Zoth team execute rebalancing transactions according to governance-approved allocation weights.
+Compliance is not a separate service bolted on; it is inherited into the vault and token contracts, so the compliance sequence runs inside the same transaction as the operation it guards and a failure reverts the whole transaction. This places the compliance perimeter at the contract level, where it cannot be bypassed by interacting with the contracts directly. The gates themselves (greenlist, blacklist, and sanctions) are detailed under Access Control.
+
+### Upgradeability
+
+Four of the seven contracts are upgradeable behind proxies; the price path (PriceOracle and FunctionsAccessControl) is deliberately fixed. Upgrade authority rests solely with ProxyAdmin, which is owned by the multisig. The upgrade mechanism and its governance are detailed under Smart Contract Security.
+
+### Key Separation and Deployment Handover
+
+Authority over a live vault is distributed across separate keys by design, never merged, so no single role concentrates control and no single compromise is protocol-wide. The contracts are deployed by a temporary key that is decommissioned at handover, after which no standing single-key authority over a live vault exists. The custody and signing mechanics that enforce this are detailed under Operational Security.
