@@ -46,24 +46,24 @@
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
 * [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
 
-## &#x20;Zocta: Universal Loyalty Engine
+## Zocta
 
-* [What Are Zocta Points?](zocta-universal-loyalty-engine/what-are-zocta-points.md)
-* [How to Collect Zocta Points?](zocta-universal-loyalty-engine/how-to-collect-zocta-points.md)
-* [zOPAL Zocta Campaign](zocta-universal-loyalty-engine/zopal-zocta-campaign.md)
-* [Earning Rates](zocta-universal-loyalty-engine/earning-rates.md)
-* [How Referral Codes Work?](zocta-universal-loyalty-engine/how-referral-codes-work.md)
-* [Where to Check Your Points](zocta-universal-loyalty-engine/where-to-check-your-points.md)
-* [Locked Points and Maturity](zocta-universal-loyalty-engine/locked-points-and-maturity.md)
-* [TVL Cap](zocta-universal-loyalty-engine/tvl-cap.md)
-* [How to Redeem Zocta Points](zocta-universal-loyalty-engine/how-to-redeem-zocta-points.md)
-* [Future Zocta Campaigns](zocta-universal-loyalty-engine/future-zocta-campaigns.md)
-* [Important Notes](zocta-universal-loyalty-engine/important-notes.md)
-* [Key Takeaways](zocta-universal-loyalty-engine/key-takeaways.md)
+* [What Are Zocta Points?](zocta/what-are-zocta-points.md)
+* [How to Collect Zocta Points?](zocta/how-to-collect-zocta-points.md)
+* [zOPAL Zocta Campaign](zocta/zopal-zocta-campaign.md)
+* [Earning Rates](zocta/earning-rates.md)
+* [How Referral Codes Work?](zocta/how-referral-codes-work.md)
+* [Where to Check Your Points](zocta/where-to-check-your-points.md)
+* [Locked Points and Maturity](zocta/locked-points-and-maturity.md)
+* [TVL Cap](zocta/tvl-cap.md)
+* [How to Redeem Zocta Points](zocta/how-to-redeem-zocta-points.md)
+* [Future Zocta Campaigns](zocta/future-zocta-campaigns.md)
+* [Important Notes](zocta/important-notes.md)
+* [Key Takeaways](zocta/key-takeaways.md)
 
-## Zoth Token Utility&#x20;
+## $ZOTH
 
-* [$ZOTH Utility](zoth-token-utility/usdzoth-utility.md)
+* [$ZOTH Utility](usdzoth/usdzoth-utility.md)
 
 ## Roadmap&#x20;
 
