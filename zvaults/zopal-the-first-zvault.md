@@ -6,7 +6,7 @@
 
 ### How it works
 
-[https://docsend.com/view/46m8wshpwr24thtn](https://docsend.com/view/46m8wshpwr24thtn)
+[https://docsend.com/view/78iy599ksa2twhsm](https://docsend.com/view/78iy599ksa2twhsm)
 
 ### zOPAL Contracts
 
