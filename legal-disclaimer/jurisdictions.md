@@ -1,10 +1,10 @@
 # Jurisdictions
 
-## zVault & zOPAL - Available Jurisdictions
+## Zoth - Available Jurisdictions
 
-#### Are zVault & zOPAL available everywhere?
+#### Is Zoth available everywhere?
 
-No, zVaults & zOPAL are not available to:
+No, Zoth is not available to:
 
 1. Individuals who are residents, citizens, or tax residents of any restricted jurisdiction
 2. Entities incorporated, organized, or having their principal place of business in any restricted jurisdiction
@@ -28,7 +28,7 @@ The following are considered restricted jurisdictions:
 * Guinea-Bissau
 * Georgia
 * Iran
-* Ivory Coast (Cote D’Ivoire)
+* Ivory Coast (Côte D’Ivoire)
 * Lebanon
 * Liberia
 * Libya
