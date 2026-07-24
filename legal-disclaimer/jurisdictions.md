@@ -46,10 +46,13 @@ The following are considered restricted jurisdictions:
 * Sudan
 * Syria
 * Ukraine (Donetsk and Luhansk regions)
-* United Kingdom
-* United States
 * Venezuela
 * Yemen
 * Zimbabwe
+
+The following are considered restricted jurisdictions for zVaults:
+
+* United States
+* United Kingdom
 
 <br>
