@@ -83,6 +83,7 @@
 
 * [Governance Risks](legal-disclaimer/governance-risks.md)
 * [Jurisdictions](legal-disclaimer/jurisdictions.md)
+* [Jurisdictions - zPayments](legal-disclaimer/jurisdictions-zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
 * [Terms of Use](legal-disclaimer/terms-of-use.md)

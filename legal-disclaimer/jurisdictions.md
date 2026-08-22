@@ -1,5 +1,7 @@
 # Jurisdictions
 
+This page applies to zVaults and protocol access. zPayments operates under a separate entity and a separate framework. See [Jurisdictions - zPayments](https://docs.zoth.io/zoth/legal-disclaimer/jurisdictions-zpayments)
+
 ## Zoth - Available Jurisdictions
 
 #### Is Zoth available everywhere?
@@ -54,5 +56,3 @@ The following are considered restricted jurisdictions for zVaults:
 
 * United States
 * United Kingdom
-
-<br>
