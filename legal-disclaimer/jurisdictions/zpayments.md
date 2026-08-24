@@ -1,8 +1,6 @@
-# Jurisdictions - zPayments
+# zPayments
 
 Zoth Payments Limited is registered with FINTRAC as a money services business.
-
-This page applies to zPayments only. It does not apply to zVaults or protocol access.
 
 ### Prohibited Jurisdictions
 
@@ -53,7 +51,7 @@ Clients and transactions connected to the following 22 jurisdictions, identified
 * Papua New Guinea
 * Vietnam
 
-The list above reflects the Financial Action Task Force statement of 19 June 2026. The Financial Action Task Force updates this list three times each year. Where this page and the Financial Action Task Force differ, the Financial Action Task Force list applies:[ Jurisdictions under Increased Monitoring](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions.html)
+The list is as on this date [source](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions.html).
 
 ### All Other Jurisdictions
 

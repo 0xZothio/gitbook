@@ -82,12 +82,13 @@
 ## Legal Disclaimer
 
 * [Governance Risks](legal-disclaimer/governance-risks.md)
-* [Jurisdictions](legal-disclaimer/jurisdictions.md)
-* [Jurisdictions - zPayments](legal-disclaimer/jurisdictions-zpayments.md)
+* [Jurisdictions](legal-disclaimer/jurisdictions/README.md)
+  * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
-* [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Terms of Use](legal-disclaimer/terms-of-use.md)
+* [Privacy Policy](legal-disclaimer/privacy-policy/README.md)
+  * [zPayments](legal-disclaimer/privacy-policy/zpayments.md)
 * [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
+* [Terms of Use - zPayments](legal-disclaimer/terms-of-use-zpayments.md)
 * [Legal and Regulatory Risks](legal-disclaimer/legal-and-regulatory-risks.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
