@@ -95,12 +95,10 @@
 ## RESOURCES
 
 * [Brand Assets](resources/brand-assets.md)
-* [Official Links](resources/official-links.md)
 
 ## Getting Started
 
 * [Overview](getting-started-1/overview.md)
-* [Why Zoth](getting-started-1/why-zoth.md)
 * [Our Values](getting-started-1/our-values.md)
 * [Zoth Protocol](getting-started-1/zoth-protocol/README.md)
   * [ZOTH Fi - Fixed Income Products](getting-started-1/zoth-protocol/zoth-fi-fixed-income-products.md)
@@ -119,9 +117,6 @@
   * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
   * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
   * [Add ZeUSD to Metamask](products/zeusd-an-omni-chain-and-composable-stable-token/add-zeusd-to-metamask.md)
-* [Payx7](products/payx7/README.md)
-  * [How it Works?](products/payx7/how-it-works.md)
-  * [FAQs](products/payx7/faqs.md)
 * [Stablecoin Studio](products/stablecoin-studio.md)
 * [ZeUSD Debt Position (ZeDP)](products/zeusd-debt-position-zdp.md)
 * [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
