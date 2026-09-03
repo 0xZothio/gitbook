@@ -37,7 +37,7 @@ Zoth pools list carefully curated RWAs using the Zoth protocol. In the long run 
 [zoth-secure-trade-finance-zstf](../../products/zoth-secure-trade-finance-zstf/)
 {% endcontent-ref %}
 
-{% content-ref url="../../products/zoth-tokenized-liquid-notes-prime-ztln-p.md" %}
-[zoth-tokenized-liquid-notes-prime-ztln-p.md](../../products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
+{% content-ref url="/broken/pages/YDYy5zbWrJIQdtyhVUTf" %}
+[Broken link](/broken/pages/YDYy5zbWrJIQdtyhVUTf)
 {% endcontent-ref %}
 

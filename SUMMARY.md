@@ -115,7 +115,6 @@
 * [Zoth Protocol](getting-started-1/zoth-protocol/README.md)
   * [ZOTH Fi - Fixed Income Products](getting-started-1/zoth-protocol/zoth-fi-fixed-income-products.md)
   * [Atlas - Permissionless Gateway for RWAs](getting-started-1/zoth-protocol/atlas-permissionless-gateway-for-rwas.md)
-* [FAQs](getting-started-1/faqs.md)
 * [Glossary](getting-started-1/glossary.md)
 
 ## Products
@@ -125,13 +124,7 @@
   * [Why FAAST?](products/fund-as-a-service-for-tokenization-faast/why-faast.md)
   * [How It Works?](products/fund-as-a-service-for-tokenization-faast/how-it-works.md)
   * [FAQs](products/fund-as-a-service-for-tokenization-faast/faqs.md)
-* [ZeUSD - An Omni-chain, and Composable Stable Token](products/zeusd-an-omni-chain-and-composable-stable-token/README.md)
-  * [Mechanics of ZeUSD](products/zeusd-an-omni-chain-and-composable-stable-token/mechanics-of-zeusd.md)
-  * [Minting Reward and Withdrawal Fees](products/zeusd-an-omni-chain-and-composable-stable-token/minting-reward-and-withdrawal-fees.md)
-  * [Add ZeUSD to Metamask](products/zeusd-an-omni-chain-and-composable-stable-token/add-zeusd-to-metamask.md)
 * [Stablecoin Studio](products/stablecoin-studio.md)
-* [ZeUSD Debt Position (ZeDP)](products/zeusd-debt-position-zdp.md)
-* [Zoth Tokenized Liquid Notes Prime (ZTLN-P)](products/zoth-tokenized-liquid-notes-prime-ztln-p.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
 * [Zoth Rewards](products/zoth-rewards.md)
@@ -139,13 +132,6 @@
 
 ## Tech Center
 
-* [Architecture](tech-center/architecture.md)
-* [LTV Mechanism](tech-center/ltv-mechanism.md)
-* [Smart Contracts](tech-center/smart-contracts/README.md)
-  * [ZeUSD Token](tech-center/smart-contracts/zeusd-token.md)
-  * [ZeUSD Router V2](tech-center/smart-contracts/zeusd-router.md)
-  * [Vault System Architecture](tech-center/smart-contracts/vault-system-architecture.md)
-  * [Vaults](tech-center/smart-contracts/vaults.md)
 * [Eligible Real World Assets](tech-center/eligible-real-world-assets/README.md)
   * [USYC (By Hashnote)](tech-center/eligible-real-world-assets/usyc-by-hashnote.md)
   * [USD0++ (By Usual Money)](tech-center/eligible-real-world-assets/usd0++-by-usual-money.md)
@@ -167,14 +153,10 @@
 * [Privacy Policy](legal/privacy-policy.md)
 * [Terms of Use](legal/terms-of-use.md)
 * [Risk Disclosure](legal/risk-disclosure.md)
-* [ZeUSD](legal/zeusd/README.md)
-  * [Terms and Conditions](legal/zeusd/terms-and-conditions.md)
 
 ## Resources
 
 * [Brand Assets](resources-1/brand-assets.md)
 * [Official links](resources-1/official-links.md)
 * [Audits](resources-1/audits.md)
-* [ZeUSD Risks and Mitigation Strategies](resources-1/zeusd-risks-and-mitigation-strategies/README.md)
-  * [Zoth Security Framework](resources-1/zeusd-risks-and-mitigation-strategies/zoth-security-framework.md)
 * [Onchain Data](resources-1/onchain-data.md)
