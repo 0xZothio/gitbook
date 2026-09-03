@@ -7,7 +7,6 @@ hidden: true
 
 * Website:[ https://zoth.io/](https://zoth.io/)
 * Zoth Marketplace:[ https://app.zoth.io/](https://app.zoth.io/)
-* Zoth Atlas:[ ](https://rewards.zoth.io/)[https://atlas.zoth.io/](https://atlas.zoth.io/)
 * Discord:[ ](https://discord.gg/2Rtq6t4a52)[https://discord.com/invite/zothdotio](https://discord.com/invite/zothdotio)
 * Telegram:[ https://telegram.me/zothio](https://telegram.me/zothio)
 * Twitter:[ https://twitter.com/zothdotio](https://twitter.com/zothdotio)

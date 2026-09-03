@@ -111,10 +111,6 @@
 ## Getting Started
 
 * [Overview](getting-started-1/overview.md)
-* [Our Values](getting-started-1/our-values.md)
-* [Zoth Protocol](getting-started-1/zoth-protocol/README.md)
-  * [ZOTH Fi - Fixed Income Products](getting-started-1/zoth-protocol/zoth-fi-fixed-income-products.md)
-  * [Atlas - Permissionless Gateway for RWAs](getting-started-1/zoth-protocol/atlas-permissionless-gateway-for-rwas.md)
 * [Glossary](getting-started-1/glossary.md)
 
 ## Products
@@ -127,18 +123,7 @@
 * [Stablecoin Studio](products/stablecoin-studio.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
-* [Zoth Rewards](products/zoth-rewards.md)
 * [ZOTH Token](products/zoth-token.md)
-
-## Tech Center
-
-* [Eligible Real World Assets](tech-center/eligible-real-world-assets/README.md)
-  * [USYC (By Hashnote)](tech-center/eligible-real-world-assets/usyc-by-hashnote.md)
-  * [USD0++ (By Usual Money)](tech-center/eligible-real-world-assets/usd0++-by-usual-money.md)
-  * [TBILL (By OpenEden)](tech-center/eligible-real-world-assets/tbill-by-openeden.md)
-  * [wSTBT (By MatrixDock)](tech-center/eligible-real-world-assets/wstbt-by-matrixdock.md)
-  * [Wrapped $M (By M0)](tech-center/eligible-real-world-assets/wrapped-usdm-by-m0.md)
-* [Contract Deployments](tech-center/contract-deployments.md)
 
 ## LEGAL
 
