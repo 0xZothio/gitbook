@@ -2,42 +2,27 @@
 
 Three flows run through the platform: money coming in, money going out, and what happens when a payout does not complete. The full sequence is shown below, with the two independent sets of states that a sender sees.
 
-&#x20; 1\. Sender verified        Identity checked, deposit address recorded
+```mermaid
 
-&#x20;           |
+%%{init: {'flowchart': {'wrappingWidth': 420, 'padding': 24}}}%%
+flowchart TD
+    A["1. Sender verified<br/>Identity checked, deposit address recorded"]
+    B["2. USDC deposited<br/>Sent from the recorded address · Balance: PENDING"]
+    C["3. Held in Zoth custody<br/>Segregated MPC wallet"]
+    D["4. Forwarded to partner<br/>Partner confirms receipt · Balance: AVAILABLE"]
+    E["5. Quote requested<br/>Rate includes the FX fee"]
+    F["6. Payout created<br/>Transaction: UNCONFIRMED"]
+    G["7. Operator approves<br/>Transaction: CONFIRMED"]
+    H["8. Partner executes<br/>Transaction: PROCESSING"]
+    I["9. Beneficiary paid<br/>Transaction: COMPLETED"]
 
-&#x20; 2\. USDC deposited         From the recorded address    Balance: PENDING
+    A --> B --> C --> D --> E --> F --> G --> H --> I
 
-&#x20;           |
+    classDef box fill:#FFE8DD,stroke:#FF4509,stroke-width:1.5px,color:#1C1C1C
+    class A,B,C,D,E,F,G,H,I box
+```
 
-&#x20; 3\. Held in Zoth custody   Segregated MPC wallet
-
-&#x20;           |
-
-&#x20; 4\. Forwarded to partner   Partner confirms receipt     Balance: AVAILABLE
-
-&#x20;           |
-
-&#x20; 5\. Quote requested        Rate includes the FX fee
-
-&#x20;           |
-
-&#x20; 6\. Payout created         Transaction: UNCONFIRMED
-
-&#x20;           |
-
-&#x20; 7\. Operator approves      Transaction: CONFIRMED
-
-&#x20;           |
-
-&#x20; 8\. Partner executes       Transaction: PROCESSING
-
-&#x20;           |
-
-&#x20; 9\. Beneficiary paid       Transaction: COMPLETED
-
-<br>
-
+\
 Balance states and transaction states are separate. A payout can be in progress while a later deposit is still pending. The two do not affect each other.
 
 ### **Deposit Flow**
