@@ -20,6 +20,18 @@
   * [Layer 4: Regulatory and Compliance Infrastructure](the-hierarchical-architecture/a-five-layered-integrated-financial-stack/layer-4-regulatory-and-compliance-infrastructure.md)
   * [Layer 5: Zocta Points](the-hierarchical-architecture/a-five-layered-integrated-financial-stack/layer-5-zocta-points.md)
 
+***
+
+* [zPayments](zpayments/README.md)
+  * [What is zPayments?](zpayments/what-is-zpayments.md)
+  * [Supported Payouts](zpayments/supported-payouts.md)
+  * [Architecture of zPayments](zpayments/architecture-of-zpayments.md)
+  * [Core Flows of zPayments](zpayments/core-flows-of-zpayments.md)
+  * [Gating in zPayments](zpayments/gating-in-zpayments.md)
+  * [Compliance in zPayments](zpayments/compliance-in-zpayments.md)
+  * [Security of zPayments](zpayments/security-of-zpayments.md)
+  * [Fees in zPayments](zpayments/fees-in-zpayments.md)
+
 ## zVaults
 
 * [What are zVaults?](zvaults/what-are-zvaults.md)
