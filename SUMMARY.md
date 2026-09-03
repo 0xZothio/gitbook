@@ -127,13 +127,6 @@
 
 ## LEGAL
 
-* [ZTLN-P](legal/ztln-p/README.md)
-  * [Legal Disclaimer](legal/ztln-p/legal-disclaimer.md)
-  * [Terms of Use](legal/ztln-p/terms-of-use.md)
-  * [Privacy Policy](legal/ztln-p/privacy-policy.md)
-* [ZSTF](legal/zstf/README.md)
-  * [Onboarding Disclaimer](legal/zstf/onboarding-disclaimer.md)
-  * [Legal FAQs](legal/zstf/readme.md)
 * [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Terms of Use](legal/terms-of-use.md)
