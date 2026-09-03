@@ -14,12 +14,12 @@ A sender can only deposit from a wallet address recorded and verified during onb
 
 Seven conditions are confirmed before a payout is approved. If any one of them fails, the transaction is suspended, escalated to compliance, and does not resume until the failure is cleared and the resolution recorded.
 
-| **#** | **Condition**                         |
-| ----- | ------------------------------------- |
-| 1     | Customer approved                     |
-| 2     | Wallet approved                       |
-| 3     | Sanctions checks complete             |
-| 4     | Blockchain screening complete         |
-| 5     | Beneficiary validated                 |
-| 6     | Purpose of the transaction understood |
-| 7     | Liquidity confirmed                   |
+### Condition
+
+1. Customer approved
+2. Wallet approved
+3. Sanctions checks complete
+4. Blockchain screening complete
+5. Beneficiary validated
+6. Purpose of the transaction understood
+7. Liquidity confirmed
