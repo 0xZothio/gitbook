@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Fees in zPayments
 
 There is no platform access fee and no subscription fee. Two costs apply to a payout: the Zoth FX fee and the local network commission charged by the payout partner.

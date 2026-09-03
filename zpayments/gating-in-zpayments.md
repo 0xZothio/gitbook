@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Gating in zPayments
 
 Three gates control whether a payout can happen. They are enforced continuously, not only at sign-up.

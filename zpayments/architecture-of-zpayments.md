@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Architecture of zPayments
 
 zPayments separates the digital asset side of a payment from the fiat side. USDC is received and held by Zoth; fiat is delivered by a payout partner. Each handoff between the two has a recorded state, and no state advances until the system receives confirmation for it.
@@ -11,9 +15,10 @@ zPayments separates the digital asset side of a payment from the fiat side. USDC
 | Custody wallet        | A segregated MPC wallet, operated on ForDefi, holding USDC between deposit and payout                                      |
 | Deposit listener      | Detects incoming USDC on chain and attributes it to the sender’s account                                                   |
 | Identity verification | Sumsub, embedded in the product, for individual and business verification and for capturing the sender’s deposit address   |
-| Authentication        | Privy, for sign-in by email or Google account                                                                              |
+| AuthenticationS       | Sign-in by email or Google account                                                                                         |
 | Payout partner        | A regulated regional partner that quotes the rate and delivers local fiat to the beneficiary                               |
 | Screening             | Sanctions, politically exposed person and adverse media screening, and blockchain analytics on every wallet                |
+|                       |                                                                                                                            |
 
 ### **Roles**
 

@@ -1,27 +1,10 @@
+---
+hidden: true
+---
+
 # Core Flows of zPayments
 
-Three flows run through the platform: money coming in, money going out, and what happens when a payout does not complete. The full sequence is shown below, with the two independent sets of states that a sender sees.
-
-```mermaid
-
-%%{init: {'flowchart': {'wrappingWidth': 420, 'padding': 24}}}%%
-flowchart TD
-    A["1. Sender verified<br/>Identity checked, deposit address recorded"]
-    B["2. USDC deposited<br/>Sent from the recorded address · Balance: PENDING"]
-    C["3. Held in Zoth custody<br/>Segregated MPC wallet"]
-    D["4. Forwarded to partner<br/>Partner confirms receipt · Balance: AVAILABLE"]
-    E["5. Quote requested<br/>Rate includes the FX fee"]
-    F["6. Payout created<br/>Transaction: UNCONFIRMED"]
-    G["7. Operator approves<br/>Transaction: CONFIRMED"]
-    H["8. Partner executes<br/>Transaction: PROCESSING"]
-    I["9. Beneficiary paid<br/>Transaction: COMPLETED"]
-
-    A --> B --> C --> D --> E --> F --> G --> H --> I
-
-    classDef box fill:#FFE8DD,stroke:#FF4509,stroke-width:1.5px,color:#1C1C1C
-    class A,B,C,D,E,F,G,H,I box
-```
-
+Three flows run through the platform: money coming in, money going out, and what happens when a payout does not complete.\
 \
 Balance states and transaction states are separate. A payout can be in progress while a later deposit is still pending. The two do not affect each other.
 
