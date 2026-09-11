@@ -32,6 +32,7 @@
   * [Security of zPayments](zpayments/security-of-zpayments.md)
   * [Fees in zPayments](zpayments/fees-in-zpayments.md)
   * [PRIVACY POLICY](zpayments/privacy-policy.md)
+  * [zFX calculator](zpayments/zfx-calculator.md)
 
 ## zVaults
 
