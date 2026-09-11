@@ -31,6 +31,7 @@
   * [Compliance in zPayments](zpayments/compliance-in-zpayments.md)
   * [Security of zPayments](zpayments/security-of-zpayments.md)
   * [Fees in zPayments](zpayments/fees-in-zpayments.md)
+  * [PRIVACY POLICY](zpayments/privacy-policy.md)
 
 ## zVaults
 
