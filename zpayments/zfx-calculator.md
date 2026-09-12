@@ -1,147 +1,168 @@
 # zFX calculator
 
-\---
+The zFX Calculator helps businesses estimate how much a recipient will receive when a stablecoin payout is settled into local currency through zPayments.
 
-description: >-
+Enter a USDC amount, choose a supported destination currency, and zFX shows the local payout amount using the live zFX rate for that corridor.
 
-&#x20; zFX Calculator shows the live local currency amount a recipient receives for
+Use it to check payout amounts before speaking with the zPayments team, sharing a quote internally, or embedding a simple payout calculator on your own website.
 
-&#x20; any USDC payout, at one stated rate with no hidden FX markup. Free to use and
+### What you can do with zFX
 
-&#x20; embeddable on any website.
+* Calculate recipient-side local currency amounts for USDC payouts
+* Check live zFX rates across supported corridors
+* View payout route details such as currency pair, fulfillment mode, and expected speed
+* Embed the calculator on a website using a single iframe
+* Start a payout request with the zPayments team
 
-icon: calculator
+### Open the live tools
 
-\---
+Calculator:[ zfx.web.app/calculator](https://zfx.web.app/calculator.html)
 
-\# zFX Calculator
+Global FX Rates board:[ zfx.web.app/rates](https://zfx.web.app/rates.html)
 
-The zFX Calculator is a free stablecoin cross-border payout calculator. Enter a USDC amount, select a destination currency, and the calculator returns the exact local currency amount the recipient receives, at one stated rate with no hidden FX markup. It runs as a hosted page and as an embeddable widget for any website.
+### How the calculator works
 
-\{% hint style="info" %\}
-
-Open the live calculator at \[zfx.web.app/calculator]\(https://zfx.web.app/calculator.html). Supported currencies are listed live on that page and on the \[Global FX Rates board]\(https://zfx.web.app/rates.html).
-
-\{% endhint %\}<br>
-
-\## How it works
-
-\`\`\`mermaid
-
+```mermaid
 flowchart LR
+A["Enter USDC amount"] --> B["Select destination currency"]
+B --> C["View recipient amount and zFX rate"]
+C --> D["Initiate payout request"]
+D --> E["zPayments team confirms route and settles payout"]
 
-&#x20;   A\["Enter USDC amount"] --> B\["Select payout currency"]
+classDef start fill:#FFF3EE,stroke:#FF4509,stroke-width:2px,color:#061026;
+classDef middle fill:#FFFFFF,stroke:#FF4509,stroke-width:2px,color:#061026;
+classDef final fill:#FF4509,stroke:#FF4509,stroke-width:2px,color:#FFFFFF;
 
-&#x20;   B --> C\["Live zFX rate and recipient amount"]
+class A start;
+class B,C,D middle;
+class E final;
 
-&#x20;   C --> D\["Initiate Payout"]
+```
 
-&#x20;   D --> E\["zPayments team settles"]
+### How to read the Global FX Rates board
 
-\`\`\`
+The rates board gives a live view of supported payout corridors.
 
-\| Field | What it does |
+| Column                  | Description                                                               |
+| ----------------------- | ------------------------------------------------------------------------- |
+| Destination Country     | The country or region where the recipient payout is available.            |
+| Pair                    | The source and destination currency pair, such as USDC → INR.             |
+| Best zFX Effective Rate | The live zFX rate currently available for that corridor.                  |
+| 24H Change              | The rate movement over the last 24 hours.                                 |
+| Fulfillment Mode        | The local payout method available for that corridor, such as bank payout. |
+| Speed                   | The expected settlement speed for the corridor.                           |
 
-\| ----- | ------------ |
+### What the rate means
 
-\| \*\*You Send\*\* | Enter the USDC amount. USDC is the only send currency |
+The zFX rate is the effective payout rate shown for the selected corridor.
 
-\| \*\*Recipient Gets\*\* | Select the payout currency. The recipient amount calculates live |
+It is designed to show the recipient-side amount more clearly than a standard mid-market FX calculator. Standard FX converters usually show reference rates, while the final payout amount can differ because of provider margins, route costs, or settlement fees.
 
-\| \*\*Rate line\*\* | Shows the zFX rate applied to the payout |
+zFX is built to show the payout rate more directly so businesses can understand what the recipient should receive before initiating the payout.
 
-\| \*\*Initiate Payout\*\* | Opens contact with the zPayments team at \[zpayments@zoth.io]\(mailto:zpayments@zoth.io) |<br>
+### Important note on live rates
 
-\## What the rate includes
+Rates move with market and corridor liquidity conditions.
 
-\- One stated rate, quoted before the payout is initiated
+The calculator shows the live rate available at the time of viewing. Final payout details should be confirmed with the zPayments team before execution, especially for larger transfers, delayed settlement, or corridor-specific requirements.
 
-\- No FX markup buried inside the rate
+### Supported corridors
 
-\- The figure under \*\*Recipient Gets\*\* is the amount that lands in the beneficiary bank account
+The calculator currently supports USDC-based payout calculations for selected destination currencies.
 
-\- Rates stream live and move with the market, so the quote is current at the moment it is shown<br>
+The Global FX Rates board may also show additional base currency views and corridor data as new routes are added.
 
-\## Why a dedicated stablecoin payout calculator
+Check the live rates board for the latest supported corridors:
 
-Standard FX converters quote a mid-market rate that no payment provider actually delivers. The gap between that rate and the settled amount is where margin usually sits. zFX quotes the payout rate itself, so the number on screen is the number the recipient receives.<br>
+[View Global FX Rates](https://zfx.web.app/rates.html)
 
-\## Supported currencies
+### Embedding the calculator
 
-Send currency is USDC. Destination currencies are listed live on the \[calculator page]\(https://zfx.web.app/calculator.html) and change as corridors are added.<br>
+You can embed the zFX Calculator on any website with a single iframe.
 
-\## Embedding the calculator
+No script, API key, or account setup is required.
 
-Add the calculator to any site with a single iframe. No script, no API key, no account.
+```
+<iframe
+  src="https://zfx.web.app/calculator.html"
+  width="100%"
+  height="580"
+  style="border: none; border-radius: 24px; max-width: 440px;"
+  title="zFX Calculator">
+</iframe>
+```
 
-\{% code title="zFX widget embed" overflow="wrap" %\}
+#### WordPress
 
-\`\`\`html
+Add a Custom HTML block and paste the iframe snippet.
 
-\<iframe src="https://zfx.web.app/calculator.html" width="100%" height="580" style="border:none; border-radius:24px; max-width:440px;" title="zFX Calculator">\</iframe>
+#### Wix or Squarespace
 
-\`\`\`
+Add an Embed HTML element and paste the iframe snippet.
 
-\{% endcode %\}<br>
+#### Custom website
 
-\{% tabs %\}
+Paste the iframe snippet into the page section where the calculator should appear.
 
-\{% tab title="WordPress" %\}
+### Embed specifications
 
-Open the page editor, add a \*\*Custom HTML\*\* block, paste the snippet, publish.
+| Setting       | Recommended value |
+| ------------- | ----------------- |
+| Width         | 100%              |
+| Max width     | 440px             |
+| Height        | 580px             |
+| Border        | none              |
+| Border radius | 24px              |
+| Dependencies  | None              |
 
-\{% endtab %\}<br>
+Keep the height at 580px. Smaller heights may crop the rate line or payout button.
 
-\{% tab title="Wix / Squarespace" %\}
+### Common use cases
 
-Open the page editor, add an \*\*Embed HTML\*\* element, paste the snippet, publish.
+#### For businesses
 
-\{% endtab %\}<br>
+Use zFX to estimate how much a contractor, vendor, supplier, or partner will receive in local currency before initiating a stablecoin payout.
 
-\{% tab title="Custom site" %\}
+#### For platforms
 
-Paste the snippet into the page HTML where the calculator should render.
+Embed the calculator to show users a simple stablecoin-to-local-currency payout estimate without building a custom FX interface.
 
-\{% endtab %\}
+#### For partners
 
-\{% endtabs %\}<br>
+Use the rates board to review corridor availability, expected payout speed, and current effective rates.
 
-\*\*Specifications:\*\* width 100 percent to a 440px maximum, height 580px, no border, 24px corner radius, no dependencies.<br>
+### Frequently asked questions
 
-\{% hint style="warning" %\}
+#### Is zFX a mid-market FX calculator?
 
-Keep the height at 580px. Lower values crop the rate line and the payout control.
+No. zFX is designed to show the effective payout rate for supported zPayments corridors, not just a reference mid-market rate.
 
-\{% endhint %\}<br>
+#### Is the calculator free?
 
-\## Frequently asked questions<br>
+Yes. The hosted calculator and embeddable widget are free to use.
 
-\### How does zFX calculate the payout rate?<br>
+#### Do I need an API key to embed it?
 
-The rate streams from live corridor pricing and already carries the cost of settlement. It is the rate applied to the payout, not a mid-market reference rate.<br>
+No. The widget can be embedded with a simple iframe and does not require an API key.
 
-\### Is the calculator free to use?<br>
+#### Does the calculator execute the payout automatically?
 
-Yes. The calculator and the embeddable widget are free, with no account or API key required.<br>
+No. The calculator shows the payout amount and lets the user initiate a payout request. The zPayments team confirms the route, quote, compliance requirements, and settlement details before execution.
 
-\### Is zFX an offramp?<br>
+#### Which send currency does the calculator support?
 
-No. zFX supports a payout rail that settles stablecoin into a beneficiary bank account in local currency. The sender never handles the local currency leg.<br>
+The calculator currently uses USDC as the send currency.
 
-\### Which currencies can I calculate?<br>
+#### How often do rates update?
 
-Send currency is USDC. The destination list is live on the calculator page and grows as corridors are added.<br>
+The live rates board updates automatically. Check the page for the latest sync status and corridor-level rate data.
 
-\### How long does settlement take?<br>
+#### Who operates zFX?
 
-Settlement is real time on priority corridors and next business day where local rails require it.<br>
+zFX is a product by Zoth Payments Limited.
 
-\### Who operates zFX?<br>
+### Contact the payouts team
 
-zFX is a product of Zoth Payments Limited, a money services business registered with FINTRAC in Canada.<br>
-
-\## Talk to the payouts team<br>
-
-For corridor coverage, volume pricing, and onboarding, contact \[zpayments@zoth.io]\(mailto:zpayments@zoth.io).<br>
+For corridor coverage, volume pricing, or onboarding, contact: zpayments@zoth.io
 
 {% embed url="https://zfx.web.app" %}
