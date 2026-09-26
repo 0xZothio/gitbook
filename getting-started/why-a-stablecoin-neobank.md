@@ -24,6 +24,4 @@ Zoth eliminates fragmentation by delivering a unified financial stack:
 * embedded KYC/AML/KYB frameworks for secure integration and scalable financial operations
 * a machine-native financial framework that powers programmable transactions, agentic payments, and intelligent capital coordination
 
-This positions Zoth as a privacy-first stablecoin neobank for the Global South and the Agentic Economy, an integrated platform where compliant yield, payment infrastructure, privacy-preserving financial rails, and intelligent automation converge in a single institution-grade system.
-
-<br>
+This positions Zoth as a full-stack stablecoin neobank for the Global South and the Agentic Economy, an integrated platform where compliant yield, payment infrastructure, financial rails, and intelligent automation converge in a single institution-grade system.

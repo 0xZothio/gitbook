@@ -2,7 +2,7 @@
 
 The third layer forms the technical core of the Zoth stack: a set of institution-grade capabilities engineered for privacy, security, compliance, and scale.
 
-**AI-powered risk management operates** continuously across the platform, monitoring activity, identifying anomalies, and managing exposure in real time, bringing institution-grade risk controls to a privacy-first stablecoin neobank.
+**AI-powered risk management operates** continuously across the platform, monitoring activity, identifying anomalies, and managing exposure in real time, bringing institution-grade risk controls to a full-stack stablecoin neobank.
 
 **Multi-layer security architecture** combines AI-driven monitoring, Multi-Party Computation (MPC), and additional cryptographic safeguards to protect assets, identities, and transactions across the stack without compromising performance.
 
@@ -13,7 +13,3 @@ The third layer forms the technical core of the Zoth stack: a set of institution
 **End-to-end asset tokenization infrastructure** enables the conversion of real-world assets into on-chain financial instruments within a fully auditable, compliant framework, forming the foundation for yield products, programmable capital, and institutional participation across the ecosystem.
 
 Together, these capabilities ensure that everything built on Zoth rests on infrastructure designed to meet the demands of institutional trust, operational resilience, regulatory alignment, and machine-native scale.
-
-\
-\
-<br>

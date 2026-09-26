@@ -1,6 +1,6 @@
 # Layer 1: Stablecoin Neobank Applications
 
-The first layer is the application layer of the Zoth ecosystem, delivering a privacy-first stablecoin neobank experience across three core product verticals.
+The first layer is the application layer of the Zoth ecosystem, delivering a full-stack stablecoin neobank experience across three core product verticals.
 
 Earn provides institutions, enterprises, and eligible participants with access to sustainable yield through zVaults and curated partner products, extending institution-grade savings and treasury infrastructure through compliant and transparent financial rails.
 

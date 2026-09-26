@@ -14,7 +14,7 @@ Existing banks, and even most neobanks, continue to operate on outdated financia
 
 #### Current Stablecoin Neobanks Ignore the Real Opportunity
 
-Today’s stablecoin neobank category remains largely focused on crypto-native users. There is still no privacy-first, full-stack stablecoin banking platform built for institutional and enterprise operators, one that combines regulated payments, compliant yield, programmable money, and enterprise-grade financial infrastructure into a single system optimized for cross-border treasury and agentic financial workflows.
+Today’s stablecoin neobank category remains largely focused on crypto-native users. There is still no  full-stack stablecoin banking platform built for institutional and enterprise operators, one that combines regulated payments, compliant yield, programmable money, and enterprise-grade financial infrastructure into a single system optimized for cross-border treasury and agentic financial workflows.
 
 #### Inefficient Global Settlement and Capital Friction
 

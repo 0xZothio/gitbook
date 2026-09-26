@@ -12,6 +12,6 @@ Zoth’s licensing strategy spans key financial jurisdictions, including Money T
 
 This multi-jurisdictional regulatory footprint allows Zoth to operate globally while remaining locally compliant, a foundational requirement for serving institutions, enterprises, and autonomous systems across the Global South and the emerging Agentic Economy.
 
-By making compliance a structural layer of the platform, Layer 4 strengthens Zoth’s position as a privacy-first, institution-grade financial infrastructure provider built to operate securely, compliantly, and at global scale.
+By making compliance a structural layer of the platform, Layer 4 strengthens Zoth’s position as a full-stack, institution-grade financial infrastructure provider built to operate securely, compliantly, and at global scale.
 
 <br>
