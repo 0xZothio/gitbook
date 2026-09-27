@@ -11,5 +11,3 @@ For individuals, Zocta Points create a continuous reward loop where everyday fin
 Seamlessly integrated across all five layers, Zocta Points connect the Zoth stack into a cohesive economic system, ensuring that participation across payments, yield, spend, and agentic activity contributes to broader ecosystem growth, coordination, and long-term alignment.
 
 By acting as the universal incentive layer, Layer 5 helps transform Zoth from a collection of financial products into a connected, self-reinforcing financial ecosystem.
-
-<br>

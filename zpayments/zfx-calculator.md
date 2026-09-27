@@ -16,9 +16,9 @@ Use it to check payout amounts before speaking with the zPayments team, sharing 
 
 ### Open the live tools
 
-Calculator:[ zfx.web.app/calculator](https://zfx.web.app/calculator.html)
+Calculator: [https://zpayments.zoth.io/zfxcalculator](https://zpayments.zoth.io/zfxcalculator)
 
-Global FX Rates board:[ zfx.web.app/rates](https://zfx.web.app/rates.html)
+Global FX Rates board: [https://zpayments.zoth.io/zfxcalculator/rates](https://zpayments.zoth.io/zfxcalculator/rates)
 
 ### How the calculator works
 
@@ -74,7 +74,7 @@ The Global FX Rates board may also show additional base currency views and corri
 
 Check the live rates board for the latest supported corridors:
 
-[View Global FX Rates](https://zfx.web.app/rates.html)
+[View Global FX Rates](https://zpayments.zoth.io/zfxcalculator/rates)
 
 ### Embedding the calculator
 
@@ -84,7 +84,7 @@ No script, API key, or account setup is required.
 
 ```
 <iframe
-  src="https://zfx.web.app/calculator.html"
+  src="https://zpayments.zoth.io/zfxcalculator/widget"
   width="100%"
   height="580"
   style="border: none; border-radius: 24px; max-width: 440px;"

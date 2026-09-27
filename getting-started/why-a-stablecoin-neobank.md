@@ -8,7 +8,6 @@ The next generation of financial infrastructure will be built on:
 * programmable, compliant yield
 * real-time cross-border liquidity
 * compliance-first digital rails
-* privacy-preserving financial infrastructure
 * embedded payment access
 * machine-native financial interfaces for autonomous systems
 

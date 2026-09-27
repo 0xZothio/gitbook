@@ -34,7 +34,7 @@ Zoth is purpose-built to close this gap. As a full-stack stablecoin neobank, Zot
 The ecosystem is built around five core offerings:
 
 * Earn: Access to sustainable, transparent yield through diversified RWA and DeFi strategies, delivered through a fully auditable, compliant, and institution-ready framework.
-* Send: Instant, near-zero-cost borderless payments through privacy-preserving infrastructure optimized for high-frequency, cross-border financial flows.
+* Send: Instant, near-zero-cost borderless payments through compliant infrastructure optimized for high-frequency, cross-border financial flows.
 * Spend (Coming Soon): Bridge on-chain balances with real-world spending through seamless payment access across global commerce environments.
 * Agentic: A machine-native financial layer with infrastructure that enables AI agents and autonomous systems to transact, coordinate, and settle capital securely at scale.
 * Zocta Points: The universal loyalty and coordination layer, connecting and incentivizing participation across the ecosystem for users, businesses, and agents alike.
