@@ -101,7 +101,8 @@
   * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
+* [Terms of Use zVualts](legal-disclaimer/terms-of-use-zvualts.md)
+* [Terms of Use zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
 * [Legal and Regulatory Risks](legal-disclaimer/legal-and-regulatory-risks.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
