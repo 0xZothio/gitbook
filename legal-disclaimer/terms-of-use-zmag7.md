@@ -170,10 +170,8 @@ Zoth may investigate any suspected breach of these Terms and may take such actio
 ## DISPUTE RESOLUTION
 
 1. Mandatory Informal Resolution: Prior to initiating any formal legal proceeding, you and Zoth agree to attempt in good faith to resolve any dispute, controversy, or claim arising out of or relating to these Terms or the Platform ("Dispute") through informal negotiations for a period of at least thirty (30) days from the date of written notice.
-2. Binding International Arbitration: If the Dispute is not resolved within thirty (30) days after written notice, the Dispute shall be finally resolved by binding arbitration administered by the Dubai International Arbitration Centre (“DIAC”) in accordance with the DIAC Arbitration Rules in force when the arbitration is commenced. The seat of arbitration shall be Dubai, United Arab Emirates. The tribunal shall consist of one (1) arbitrator. The language of arbitration shall be English. The award shall be final and binding upon the Parties and may be enforced in any court of competent jurisdiction.
-
-Notwithstanding the foregoing, either Party may seek urgent, interim or conservatory relief from any court of competent jurisdiction without such application constituting a waiver of the agreement to arbitrate.
-
+2. Binding International Arbitration: If the Dispute is not resolved within thirty (30) days after written notice, the Dispute shall be finally resolved by binding arbitration administered by the Dubai International Arbitration Centre (“DIAC”) in accordance with the DIAC Arbitration Rules in force when the arbitration is commenced. The seat of arbitration shall be Dubai, United Arab Emirates. The tribunal shall consist of one (1) arbitrator. The language of arbitration shall be English. The award shall be final and binding upon the Parties and may be enforced in any court of competent jurisdiction.\
+   Notwithstanding the foregoing, either Party may seek urgent, interim or conservatory relief from any court of competent jurisdiction without such application constituting a waiver of the agreement to arbitrate.
 3. Waiver of Class Actions and Jury Trial: YOU AND ZOTH MUTUALLY AGREE THAT ALL DISPUTES MUST BE BROUGHT ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF, CLASS REPRESENTATIVE, OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, CONSOLIDATED, OR REPRESENTATIVE PROCEEDING. YOU EXPRESSLY WAIVE ANY RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN CLASS-WIDE ARBITRATION.
 
 ## GOVERNING LAW&#x20;
