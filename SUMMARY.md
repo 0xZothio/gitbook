@@ -125,7 +125,6 @@
 * [Stablecoin Studio](products/stablecoin-studio.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
-* [ZOTH Token](products/zoth-token.md)
 
 ## LEGAL
 
