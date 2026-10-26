@@ -61,6 +61,11 @@
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
 * [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
 
+***
+
+* [zMAG7](zmag7/README.md)
+  * [What is zMAG7](zmag7/what-is-zmag7.md)
+
 ## Zocta
 
 * [What Are Zocta Points?](zocta/what-are-zocta-points.md)
@@ -85,15 +90,6 @@
 
 * [Roadmap](roadmap/roadmap.md)
 * [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
-
-## Security and Risk Management Framework
-
-* [Overview: Defense-in-Depth Architecture](security-and-risk-management-framework/overview-defense-in-depth-architecture.md)
-* [Smart Contract Security](security-and-risk-management-framework/smart-contract-security.md)
-* [Oracle and Attestation Security](security-and-risk-management-framework/oracle-and-attestation-security.md)
-* [Liquidity Risk Management](security-and-risk-management-framework/liquidity-risk-management.md)
-* [Market and Financial Risks](security-and-risk-management-framework/market-and-financial-risks.md)
-* [Technical Infrastructure and Availability](security-and-risk-management-framework/technical-infrastructure-and-availability.md)
 
 ## Legal Disclaimer
 
@@ -126,13 +122,6 @@
 * [Stablecoin Studio](products/stablecoin-studio.md)
 * [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
   * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
-
-## LEGAL
-
-* [Anti-Money Laundering Policy](legal/anti-money-laundering-policy.md)
-* [Privacy Policy](legal/privacy-policy.md)
-* [Terms of Use](legal/terms-of-use.md)
-* [Risk Disclosure](legal/risk-disclosure.md)
 
 ## Resources
 
