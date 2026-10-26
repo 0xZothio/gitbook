@@ -100,7 +100,6 @@
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
 * [Terms of Use zVaults](legal-disclaimer/terms-of-use-zvaults.md)
 * [Terms of Use zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
-* [Legal and Regulatory Risks](legal-disclaimer/legal-and-regulatory-risks.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
 ## RESOURCES
