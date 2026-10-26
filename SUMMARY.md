@@ -79,6 +79,7 @@
 ## $ZOTH
 
 * [Token Utility](usdzoth/token-utility.md)
+* [Tokenomics](usdzoth/tokenomics.md)
 
 ## Roadmap&#x20;
 
