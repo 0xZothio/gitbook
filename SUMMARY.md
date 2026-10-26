@@ -76,10 +76,10 @@
 * [Important Notes](zocta/important-notes.md)
 * [Key Takeaways](zocta/key-takeaways.md)
 
-## $ZOTH
+## ZOTH Token
 
-* [Token Utility](usdzoth/token-utility.md)
-* [Tokenomics](usdzoth/tokenomics.md)
+* [Token Utility](zoth-token/token-utility.md)
+* [Tokenomics](zoth-token/tokenomics.md)
 
 ## Roadmap&#x20;
 
