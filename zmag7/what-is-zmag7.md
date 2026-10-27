@@ -21,8 +21,6 @@ Each underlying Coinbase US Tokenized Stock is issued as a B20 token on Base, an
 * **Frequency:** The basket is rebalanced everyday back to equal weights of approximately 14.3% per holding.
 * **Dividends and corporate actions:** Reflected through an onchain multiplier. Dividends are reinvested into additional underlying shares, raising the redeemable value per token without changing the token balance. Stock splits follow the same mechanism.
 
-_**Add a section on how to mint / redeem zMAG7 with loom video**_
-
 **4. Smart Contracts**
 
 * **Network:** Base.
