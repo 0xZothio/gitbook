@@ -32,6 +32,7 @@ Staked Zoth token sets the economics at every layer of the Zoth stack. Benefits 
 | **Zocta Card** | <p>•  Tiered cashback 3% to 7%, set by sZOTH balance.</p><p>•  Metal card unlocked at Platinum.</p><p>•  Concierge, Priority Pass, and FX-free spend at upper tiers.</p><p>•  Zocta Points convert to Zoth token on redemption.</p>            |
 | **zAI**        | <p>•  Agent access from the Silver tier upward.</p><p>•  Zoth token consumed as usage credits, discounted for stakers.</p><p>•  Executes zVaults and zPayments actions for the user.</p><p>•  CFO agent to manage, pay, and send invoices.</p> |
 
+\
 **Protocol layer utilities.** Utilities that lock supply and scale with platform usage.
 
 | **Mechanism**             | **How it works**                                                                                                           | **Effect on Zoth token**                                      |
@@ -41,6 +42,7 @@ Staked Zoth token sets the economics at every layer of the Zoth stack. Benefits 
 | Fee payment in Zoth token | Settlement, mint, and redemption fees are payable in Zoth token at a discount, and route into the sZOTH distribution pool. | Per-transaction demand that scales with volume.               |
 | Agentic spend metering    | zAI transaction and API limits scale with sZOTH held. Zoth token is consumed as credits.                                   | Usage-linked demand from the agent layer.                     |
 
+\
 **Zoth Club membership tiers**. Tier is set by sZOTH balance and unlocks better economics on every product.
 
 | **Tier** | **sZOTH Stake** | **Card Cashback** | **FX Rebate** | **Key Perks**                                        |
