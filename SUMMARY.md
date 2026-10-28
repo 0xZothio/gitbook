@@ -83,7 +83,6 @@
 
 ## ZOTH Token
 
-* [Utility](zoth-token/utility.md)
 * [Tokenomics](zoth-token/tokenomics.md)
 
 ## Roadmap&#x20;
