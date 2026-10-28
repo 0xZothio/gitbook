@@ -42,8 +42,7 @@ Staked Zoth token sets the economics at every layer of the Zoth stack. Benefits 
 | Fee payment in Zoth token | Settlement, mint, and redemption fees are payable in Zoth token at a discount, and route into the sZOTH distribution pool. | Per-transaction demand that scales with volume.               |
 | Agentic spend metering    | zAI transaction and API limits scale with sZOTH held. Zoth token is consumed as credits.                                   | Usage-linked demand from the agent layer.                     |
 
-\
-**Zoth Club membership tiers**. Tier is set by sZOTH balance and unlocks better economics on every product.
+**Zoth Club Membership Tiers — Coming Soon.** Planned membership tiers based on sZOTH holdings, with exclusive benefits across the Zoth ecosystem.
 
 | **Tier** | **sZOTH Stake** | **Card Cashback** | **FX Rebate** | **Key Perks**                                        |
 | -------- | --------------- | ----------------- | ------------- | ---------------------------------------------------- |
