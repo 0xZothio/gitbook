@@ -63,8 +63,7 @@
 
 ***
 
-* [zMAG7](zmag7/README.md)
-  * [What is zMAG7](zmag7/what-is-zmag7.md)
+* [What is zMAG7](what-is-zmag7.md)
 
 ## Zocta
 

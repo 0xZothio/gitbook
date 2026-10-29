@@ -1,6 +1,6 @@
 # What is zMAG7
 
-**zMAG7 Documentation**
+
 
 Zoth Magnificent Seven | Built on Coinbase Tokenized Stocks | Powered by zVaults
 
