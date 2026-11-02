@@ -18,7 +18,6 @@ Zoth eliminates fragmentation by delivering a unified financial stack:
 * a Liquid Yield Asset backed by reserves and issued through regulated financial structures
 * institution-grade tokenization infrastructure
 * instant global payments and remittance infrastructure
-* seamless enterprise spend access
 * automated treasury and liquidity routing
 * embedded KYC/AML/KYB frameworks for secure integration and scalable financial operations
 * a machine-native financial framework that powers programmable transactions, agentic payments, and intelligent capital coordination

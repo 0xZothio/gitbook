@@ -4,7 +4,7 @@ For information purposes only. Not an offer to sell or a solicitation to buy any
 
 **Executive Summary**
 
-Zoth token is the value-capture instrument of the Zoth stack. Protocol revenue across zPayments, zVaults, Zocta Card, and zAI funds a quarterly open-market buyback of Zoth token. The full amount repurchased is distributed to staked holders. Token demand tracks that revenue: as protocol volume grows, the buyback grows with it.
+Zoth token is the value-capture instrument of the Zoth stack. Protocol revenue across zPayments, zVaults, and zAI funds a quarterly open-market buyback of Zoth token. The full amount repurchased is distributed to staked holders. Token demand tracks that revenue: as protocol volume grows, the buyback grows with it.
 
 Supply is capped at the 1,000,000,000 Zoth token minted at genesis. The protocol issues no tokens beyond that mint and burns none.
 
@@ -24,13 +24,12 @@ From supply and allocation to vesting and unlocks, get a clear view of how Zoth 
 
 Staked Zoth token sets the economics at every layer of the Zoth stack. Benefits accrue to sZOTH, the staked receipt token.
 
-| **Layer**      | **What sZOTH unlocks**                                                                                                                                                                                                                         |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **zVaults**    | <p>•  Priority allocation when new vault strategies open.</p><p>•  Asset managers stake 250,000 to 1,000,000 Zoth token to list a tokenized fund.</p><p>•  Listing is backed by a slashable sZOTH bond, routed to stakers on a breach.</p>     |
-| **zTokens**    | <p>•  Base yield, with an added boost reserved for sZOTH holders.</p><p>•  Mint fees discounted 25% to 100% by tier.</p><p>•  Redemption fees discounted for stakers.</p><p>•  25% to 100% discount on the zVaults platform fee by tier.</p>   |
-| **zPayments**  | <p>•  FX and settlement fees rebated 10% to 100% by tier.</p><p>•  Priority routing and service for sZOTH holder transactions.</p><p>•  Payment providers post a slashable sZOTH bond to integrate.</p>                                        |
-| **Zocta Card** | <p>•  Tiered cashback 3% to 7%, set by sZOTH balance.</p><p>•  Metal card unlocked at Platinum.</p><p>•  Concierge, Priority Pass, and FX-free spend at upper tiers.</p><p>•  Zocta Points convert to Zoth token on redemption.</p>            |
-| **zAI**        | <p>•  Agent access from the Silver tier upward.</p><p>•  Zoth token consumed as usage credits, discounted for stakers.</p><p>•  Executes zVaults and zPayments actions for the user.</p><p>•  CFO agent to manage, pay, and send invoices.</p> |
+| **Layer**     | **What sZOTH unlocks**                                                                                                                                                                                                                         |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **zVaults**   | <p>•  Priority allocation when new vault strategies open.</p><p>•  Asset managers stake 250,000 to 1,000,000 Zoth token to list a tokenized fund.</p><p>•  Listing is backed by a slashable sZOTH bond, routed to stakers on a breach.</p>     |
+| **zTokens**   | <p>•  Base yield, with an added boost reserved for sZOTH holders.</p><p>•  Mint fees discounted 25% to 100% by tier.</p><p>•  Redemption fees discounted for stakers.</p><p>•  25% to 100% discount on the zVaults platform fee by tier.</p>   |
+| **zPayments** | <p>•  FX and settlement fees rebated 10% to 100% by tier.</p><p>•  Priority routing and service for sZOTH holder transactions.</p><p>•  Payment providers post a slashable sZOTH bond to integrate.</p>                                        |
+| **zAI**       | <p>•  Agent access from the Silver tier upward.</p><p>•  Zoth token consumed as usage credits, discounted for stakers.</p><p>•  Executes zVaults and zPayments actions for the user.</p><p>•  CFO agent to manage, pay, and send invoices.</p> |
 
 \
 **Protocol layer utilities.** Utilities that lock supply and scale with platform usage.
@@ -41,16 +40,6 @@ Staked Zoth token sets the economics at every layer of the Zoth stack. Benefits 
 | sZOTH as collateral       | sZOTH is accepted as collateral inside zVaults and can be borrowed against.                                                | Removes the opportunity cost of locking Zoth token.           |
 | Fee payment in Zoth token | Settlement, mint, and redemption fees are payable in Zoth token at a discount, and route into the sZOTH distribution pool. | Per-transaction demand that scales with volume.               |
 | Agentic spend metering    | zAI transaction and API limits scale with sZOTH held. Zoth token is consumed as credits.                                   | Usage-linked demand from the agent layer.                     |
-
-**Zoth Club Membership Tiers — Coming Soon.** Planned membership tiers based on sZOTH holdings, with exclusive benefits across the Zoth ecosystem.
-
-| **Tier** | **sZOTH Stake** | **Card Cashback** | **FX Rebate** | **Key Perks**                                        |
-| -------- | --------------- | ----------------- | ------------- | ---------------------------------------------------- |
-| Bronze   | 5,000           | 3%                | 10%           | Beta access, community channels                      |
-| Silver   | 50,000          | 4%                | 25%           | Priority vault queue, reduced fees, zAI agent access |
-| Gold     | 100,000         | 5%                | 50%           | Priority Pass, premium virtual card                  |
-| Platinum | 500,000         | 6%                | 75%           | Metal card, concierge, vault co-design               |
-| Pinnacle | 2,000,000       | 7%                | 100%          | Founder access, bespoke vault, family office         |
 
 _sZOTH is transferable and represents a share of the Zoth token in the staking contract. Buyback Zoth token is added to the contract each quarter, raising the Zoth token that each sZOTH redeems for. Unstaking carries a 2% withdrawal fee, retained in the contract for remaining holders, with no cooldown._
 

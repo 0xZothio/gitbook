@@ -22,7 +22,7 @@
 
 ***
 
-* [zPayments](zpayments/README.md)
+* [ZPAYMENTS](zpayments/README.md)
   * [What is zPayments?](zpayments/what-is-zpayments.md)
   * [Supported Payouts](zpayments/supported-payouts.md)
   * [Architecture of zPayments](zpayments/architecture-of-zpayments.md)
@@ -32,8 +32,6 @@
   * [Security of zPayments](zpayments/security-of-zpayments.md)
   * [Fees in zPayments](zpayments/fees-in-zpayments.md)
   * [zFX calculator](zpayments/zfx-calculator.md)
-  * [PRIVACY POLICY](zpayments/privacy-policy.md)
-  * [TERMS OF USE](zpayments/terms-of-use.md)
 
 ## zVaults
 
@@ -59,11 +57,8 @@
   * [Contracts Security](zvaults/security-of-zvaults/contracts-security.md)
   * [Operational Security](zvaults/security-of-zvaults/operational-security.md)
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
-* [zOPAL - The first zVault](zvaults/zopal-the-first-zvault.md)
-
-***
-
-* [What is zMAG7](what-is-zmag7.md)
+* [zOPAL - Payment Financing Vault](zvaults/zopal-payment-financing-vault.md)
+* [zMAG7 - Tokenized Stocks Vault](zvaults/zmag7-tokenized-stocks-vault.md)
 
 ## Zocta
 
@@ -96,8 +91,11 @@
   * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Terms of Use zVaults](legal-disclaimer/terms-of-use-zvaults.md)
-* [Terms of Use zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
+* [Privacy Policy - zPayments](legal-disclaimer/privacy-policy-zpayments.md)
+* [Privacy Policy - zVaults](legal-disclaimer/privacy-policy-zvaults.md)
+* [Terms of Use - zPayments](legal-disclaimer/terms-of-use-zpayments.md)
+* [Terms of Use - zOPAL](legal-disclaimer/terms-of-use-zopal.md)
+* [Terms of Use - zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
 ## RESOURCES

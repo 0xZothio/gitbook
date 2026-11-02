@@ -6,7 +6,7 @@ Global financial innovation has historically overlooked emerging markets, despit
 
 Zoth’s mission is to close this gap through full-stack institution-grade financial infrastructure. We are building a full-stack stablecoin-powered neobank designed for institutions, global businesses, and the emerging Agentic Economy. Through user abstraction and programmable financial infrastructure, Zoth enables enterprises and autonomous systems to transact seamlessly, manage capital efficiently, and store value securely across borders.
 
-This means enabling access to stable digital dollars, cross-border payment infrastructure, programmable money for both enterprise and agentic financial activity, global spend access, and compliant financial rails within a single unified platform. For institutions and businesses, it also means enterprise-grade tokenization infrastructure, settlement capabilities, and regulated financial architecture designed to operate at scale across jurisdictions.
+This means enabling access to stable digital dollars, cross-border payment infrastructure, programmable money for both enterprise and agentic financial activity, and compliant financial rails within a single unified platform. For institutions and businesses, it also means enterprise-grade tokenization infrastructure, settlement capabilities, and regulated financial architecture designed to operate at scale across jurisdictions.
 
 By integrating yield, payments, compliance, security, and programmable financial logic into one cohesive ecosystem, Zoth enables capital to move securely, intelligently, and efficiently between institutions, businesses, and autonomous systems, without the friction, opacity, and operational constraints that define legacy financial infrastructure.
 

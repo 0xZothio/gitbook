@@ -4,7 +4,7 @@ Zoth is built on a five-layer architecture that connects institution-grade infra
 
 Each layer is purpose-built and deeply integrated, creating a unified system where compliance, security, yield, and programmability work together as a single financial stack rather than as fragmented point solutions.
 
-**Layer 1:** Stablecoin Neobank Applications is the application layer of the ecosystem, delivering three core product verticals: Earn, through zVaults and curated partner products; Send, enabling cross-border payments, on-ramp, and off-ramp infrastructure; and Spend, through Zoth Cards and Zoth Corporate Cards.
+**Layer 1:** Stablecoin Neobank Applications is the application layer of the ecosystem, delivering three core product verticals: Earn, through zVaults and curated partner products; and Send, enabling cross-border payments, on-ramp, and off-ramp infrastructure.
 
 **Layer 2:** Agentic Economy Solutions powers the machine-native financial economy, including Zoth's agentic payment infrastructure, Zocta AI Agents integrated directly into the platform, tools to build and deploy custom agents, and the broader infrastructure that enables autonomous systems to transact, settle, and coordinate capital at scale within policy and under compliance controls.
 

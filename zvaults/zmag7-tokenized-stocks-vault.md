@@ -1,27 +1,29 @@
-# What is zMAG7
+# zMAG7 - Tokenized Stocks Vault
 
+_Zoth Magnificent Seven | Built on Coinbase Tokenized Stocks | Powered by zVaults_
 
+### Factsheet
 
-Zoth Magnificent Seven | Built on Coinbase Tokenized Stocks | Powered by zVaults
+[https://docsend.com/view/h8n6qergj34ukwm7](https://docsend.com/view/h8n6qergj34ukwm7)
 
-**1. Overview**
+### **Overview**
 
 zMAG7 (Zoth Magnificent Seven) is an equal-weighted basket vault by Zoth that provides onchain exposure to seven leading US-listed technology companies through a single position. Built on Coinbase US Tokenized Stocks on Base, it spans AI, cloud computing, semiconductors, consumer technology, digital advertising, e-commerce, and electric mobility. Eligible users can fund zMAG7 with stablecoins and hold their position in a self-custody wallet, without requiring a traditional brokerage account. zMAG7 does not represent direct ownership of the underlying shares.
 
 Each underlying Coinbase US Tokenized Stock is issued as a B20 token on Base, an extension of the ERC-20 standard designed for real-world assets. Each token is uniquely identified onchain by its contract address rather than its ticker or symbol. At issuance, each token is backed one-to-one by the corresponding underlying share, with its token multiplier subsequently adjusted to reflect applicable corporate actions.
 
-**2. Token Composition**
+**1. Token Composition**
 
 * **Basket:** 7 Coinbase Tokenized Stocks at approximately 14.3% each.
 * **Holdings:** Alphabet (GOOGLc), Amazon (AMZNc), Apple (AAPLc), Meta (METAc), Microsoft (MSFTc), NVIDIA (NVDAc), Tesla (TSLAc).
 * **Backing:** Each token represents a beneficial interest in a US-listed share held with a regulated custodian in a segregated, bankruptcy-remote account.
 
-**3. Rebalancing**
+**2. Rebalancing**
 
 * **Frequency:** The basket is rebalanced everyday back to equal weights of approximately 14.3% per holding.
 * **Dividends and corporate actions:** Reflected through an onchain multiplier. Dividends are reinvested into additional underlying shares, raising the redeemable value per token without changing the token balance. Stock splits follow the same mechanism.
 
-**4. Smart Contracts**
+**3. Smart Contracts**
 
 * **Network:** Base.
 * **Token standard:** B20, an extension of ERC-20 purpose-built for real-world assets.

@@ -2,11 +2,11 @@
 
 #### Phase 1: Core Yield Product
 
-The initial phase focuses on launching the Core Yield Product, the introduction of zVaults, a suite of liquid yield vaults backed by diversified reserves comprising real-world assets and DeFi strategies. This phase also includes the integration of virtual card issuance and global payment rail infrastructure to enable seamless spending and payments. In parallel, the $ZOTH Token Generation Event (TGE) will be executed to support network participation and ecosystem growth.
+The initial phase focuses on launching the Core Yield Product, the introduction of zVaults, a suite of liquid yield vaults backed by diversified reserves comprising real-world assets and DeFi strategies. This phase also integrates global payment rail infrastructure to power seamless cross-border payments. In parallel, the $ZOTH Token Generation Event (TGE) will be executed to support network participation and ecosystem growth.
 
 #### Phase 2: Licensing and Scalable Infrastructure
 
-The second phase emphasizes licensing and scalable infrastructure. During this stage, Zoth will secure a Virtual Asset Service Provider (VASP) license in the United Arab Emirates to ensure regulatory compliance and operational legitimacy. Physical Zoth cards will be launched, alongside the rollout of zero-fee global remittances enabled through blockchain partnerships and integrated fiat on- and off-ramps. This phase also introduces the Zoth mobile application, featuring smart, abstracted accounts and automated yield routing designed to simplify user experience while optimizing capital allocation across zVaults.
+The second phase emphasizes licensing and scalable infrastructure. During this stage, Zoth will secure a Virtual Asset Service Provider (VASP) license in the United Arab Emirates to ensure regulatory compliance and operational legitimacy. This phase also introduces the Zoth mobile application, featuring smart, abstracted accounts and automated yield routing designed to simplify user experience while optimizing capital allocation across zVaults.
 
 #### Phase 3: Full Neobank Functionality
 
