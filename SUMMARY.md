@@ -20,18 +20,19 @@
   * [Layer 4: Regulatory and Compliance Infrastructure](the-hierarchical-architecture/a-five-layered-integrated-financial-stack/layer-4-regulatory-and-compliance-infrastructure.md)
   * [Layer 5: Zocta Points](the-hierarchical-architecture/a-five-layered-integrated-financial-stack/layer-5-zocta-points.md)
 
-***
+## zPayments
 
-* [ZPAYMENTS](zpayments/README.md)
-  * [What is zPayments?](zpayments/what-is-zpayments.md)
-  * [Supported Payouts](zpayments/supported-payouts.md)
-  * [Architecture of zPayments](zpayments/architecture-of-zpayments.md)
-  * [Core Flows of zPayments](zpayments/core-flows-of-zpayments.md)
-  * [Gating in zPayments](zpayments/gating-in-zpayments.md)
-  * [Compliance in zPayments](zpayments/compliance-in-zpayments.md)
-  * [Security of zPayments](zpayments/security-of-zpayments.md)
-  * [Fees in zPayments](zpayments/fees-in-zpayments.md)
-  * [zFX calculator](zpayments/zfx-calculator.md)
+* [What is zPayments?](zpayments/what-is-zpayments.md)
+* [Supported Payouts](zpayments/supported-payouts.md)
+* [Compliance in zPayments](zpayments/compliance-in-zpayments.md)
+* [Architecture of zPayments](zpayments/architecture-of-zpayments.md)
+* [Core Flows of zPayments](zpayments/core-flows-of-zpayments.md)
+* [Gating in zPayments](zpayments/gating-in-zpayments.md)
+* [Security of zPayments](zpayments/security-of-zpayments.md)
+* [Fees in zPayments](zpayments/fees-in-zpayments.md)
+* [zFX calculator](zpayments/zfx-calculator.md)
+* [Privacy Policy - zPayments](zpayments/privacy-policy-zpayments.md)
+* [Terms of Use - zPayments](zpayments/terms-of-use-zpayments.md)
 
 ## zVaults
 
@@ -91,9 +92,7 @@
   * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Privacy Policy - zPayments](legal-disclaimer/privacy-policy-zpayments.md)
 * [Privacy Policy - zVaults](legal-disclaimer/privacy-policy-zvaults.md)
-* [Terms of Use - zPayments](legal-disclaimer/terms-of-use-zpayments.md)
 * [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
 * [Terms of Use - zOPAL](legal-disclaimer/terms-of-use-zopal.md)
 * [Terms of Use - zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
