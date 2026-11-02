@@ -60,6 +60,8 @@
 * [Audits of zVaults](zvaults/audits-of-zvaults.md)
 * [zOPAL - Payment Financing Vault](zvaults/zopal-payment-financing-vault.md)
 * [zMAG7 - Tokenized Stocks Vault](zvaults/zmag7-tokenized-stocks-vault.md)
+* [Privacy Policy - zVaults](zvaults/privacy-policy-zvaults.md)
+* [Terms of Use - zVaults](zvaults/terms-of-use-zvaults.md)
 
 ## Zocta
 
@@ -92,8 +94,6 @@
   * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Privacy Policy - zVaults](legal-disclaimer/privacy-policy-zvaults.md)
-* [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
 * [Terms of Use - zOPAL](legal-disclaimer/terms-of-use-zopal.md)
 * [Terms of Use - zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
