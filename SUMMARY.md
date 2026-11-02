@@ -94,6 +94,7 @@
 * [Privacy Policy - zPayments](legal-disclaimer/privacy-policy-zpayments.md)
 * [Privacy Policy - zVaults](legal-disclaimer/privacy-policy-zvaults.md)
 * [Terms of Use - zPayments](legal-disclaimer/terms-of-use-zpayments.md)
+* [Terms of Use - zVaults](legal-disclaimer/terms-of-use-zvaults.md)
 * [Terms of Use - zOPAL](legal-disclaimer/terms-of-use-zopal.md)
 * [Terms of Use - zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
 * [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
