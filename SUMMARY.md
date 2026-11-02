@@ -102,6 +102,7 @@
 
 ## RESOURCES
 
+* [Official links](resources/official-links.md)
 * [Brand Assets](resources/brand-assets.md)
 
 ## Getting Started
@@ -123,6 +124,5 @@
 ## Resources
 
 * [Brand Assets](resources-1/brand-assets.md)
-* [Official links](resources-1/official-links.md)
 * [Audits](resources-1/audits.md)
 * [Onchain Data](resources-1/onchain-data.md)
