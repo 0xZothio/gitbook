@@ -15,7 +15,7 @@ zPayments separates the digital asset side of a payment from the fiat side. USDC
 | Custody wallet        | A segregated MPC wallet, operated on ForDefi, holding USDC between deposit and payout                                      |
 | Deposit listener      | Detects incoming USDC on chain and attributes it to the sender’s account                                                   |
 | Identity verification | Sumsub, embedded in the product, for individual and business verification and for capturing the sender’s deposit address   |
-| AuthenticationS       | Sign-in by email or Google account                                                                                         |
+| Authentications       | Sign-in by email or Google account                                                                                         |
 | Payout partner        | A regulated regional partner that quotes the rate and delivers local fiat to the beneficiary                               |
 | Screening             | Sanctions, politically exposed person and adverse media screening, and blockchain analytics on every wallet                |
 |                       |                                                                                                                            |
