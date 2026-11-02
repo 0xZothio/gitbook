@@ -1,4 +1,8 @@
-# Terms of Use - zVaults
+---
+hidden: true
+---
+
+# Terms of Use - zOPAL
 
 #### TERMS AND CONDITIONS
 
