@@ -122,5 +122,4 @@
 ## Resources
 
 * [Brand Assets](resources-1/brand-assets.md)
-* [Audits](resources-1/audits.md)
 * [Onchain Data](resources-1/onchain-data.md)
