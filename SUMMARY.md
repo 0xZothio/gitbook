@@ -25,11 +25,7 @@
 * [What is zPayments?](zpayments/what-is-zpayments.md)
 * [Supported Payouts](zpayments/supported-payouts.md)
 * [Compliance in zPayments](zpayments/compliance-in-zpayments.md)
-* [Architecture of zPayments](zpayments/architecture-of-zpayments.md)
-* [Core Flows of zPayments](zpayments/core-flows-of-zpayments.md)
-* [Gating in zPayments](zpayments/gating-in-zpayments.md)
 * [Security of zPayments](zpayments/security-of-zpayments.md)
-* [Fees in zPayments](zpayments/fees-in-zpayments.md)
 * [zFX calculator](zpayments/zfx-calculator.md)
 * [Privacy Policy - zPayments](zpayments/privacy-policy-zpayments.md)
 * [Terms of Use - zPayments](zpayments/terms-of-use-zpayments.md)
@@ -76,7 +72,6 @@
 * [How to Redeem Zocta Points](zocta/how-to-redeem-zocta-points.md)
 * [Future Zocta Campaigns](zocta/future-zocta-campaigns.md)
 * [Important Notes](zocta/important-notes.md)
-* [Key Takeaways](zocta/key-takeaways.md)
 
 ## ZOTH Token
 
@@ -85,7 +80,6 @@
 ## Roadmap&#x20;
 
 * [Roadmap](roadmap/roadmap.md)
-* [The Dawn of Yield-Native Finance](roadmap/the-dawn-of-yield-native-finance.md)
 
 ## Legal Disclaimer
 
@@ -94,32 +88,8 @@
   * [zPayments](legal-disclaimer/jurisdictions/zpayments.md)
 * [User Responsibilities and Risk Disclosure](legal-disclaimer/user-responsibilities-and-risk-disclosure.md)
 * [Privacy Policy](legal-disclaimer/privacy-policy.md)
-* [Terms of Use - zOPAL](legal-disclaimer/terms-of-use-zopal.md)
-* [Terms of Use - zMAG7](legal-disclaimer/terms-of-use-zmag7.md)
-* [Anti-Money Laundering](legal-disclaimer/anti-money-laundering.md)
 
 ## RESOURCES
 
 * [Official links](resources/official-links.md)
 * [Brand Assets](resources/brand-assets.md)
-
-## Getting Started
-
-* [Overview](getting-started-1/overview.md)
-* [Glossary](getting-started-1/glossary.md)
-
-## Products
-
-* [Fund-as-a-Service for Tokenization (FAAST)](products/fund-as-a-service-for-tokenization-faast/README.md)
-  * [Who It's For?](products/fund-as-a-service-for-tokenization-faast/who-its-for.md)
-  * [Why FAAST?](products/fund-as-a-service-for-tokenization-faast/why-faast.md)
-  * [How It Works?](products/fund-as-a-service-for-tokenization-faast/how-it-works.md)
-  * [FAQs](products/fund-as-a-service-for-tokenization-faast/faqs.md)
-* [Stablecoin Studio](products/stablecoin-studio.md)
-* [Zoth Secure Trade Finance - ZSTF](products/zoth-secure-trade-finance-zstf/README.md)
-  * [Invest in ZSTF](products/zoth-secure-trade-finance-zstf/invest-in-zstf.md)
-
-## Resources
-
-* [Brand Assets](resources-1/brand-assets.md)
-* [Onchain Data](resources-1/onchain-data.md)
