@@ -76,6 +76,7 @@
 ## ZOTH Token
 
 * [Tokenomics](zoth-token/tokenomics.md)
+* [Risk Disclosure](zoth-token/risk-disclosure.md)
 
 ## Roadmap&#x20;
 
