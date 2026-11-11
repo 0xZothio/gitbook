@@ -76,7 +76,7 @@
 ## ZOTH Token
 
 * [Tokenomics](zoth-token/tokenomics.md)
-* [USER RESPONSIBILITIES AND RISK DISCLOSURE](zoth-token/user-responsibilities-and-risk-disclosure.md)
+* [User Responsibilities And Risk Disclosure](zoth-token/user-responsibilities-and-risk-disclosure.md)
 
 ## Roadmap&#x20;
 
