@@ -5,6 +5,7 @@
 * [The Zoth Ecosystem](README.md)
 * [The Core Problem](getting-started/the-core-problem.md)
 * [Why a Stablecoin Neobank](getting-started/why-a-stablecoin-neobank.md)
+* [GitBook](getting-started/gitbook.md)
 
 ## Vision & Mission
 
